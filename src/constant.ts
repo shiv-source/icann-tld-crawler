@@ -11,5 +11,5 @@ export const CUSTOM_HEADERS = {
     'Sec-Fetch-Mode': 'navigate',
     'Sec-Fetch-Site': 'none',
     'Sec-Fetch-User': '?1',
-    'Upgrade-Insecure-Requests': '1',
+    'Upgrade-Insecure-Requests': '1'
 }

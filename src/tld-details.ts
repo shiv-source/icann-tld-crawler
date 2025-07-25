@@ -42,7 +42,7 @@ const extractRegistryInfo = ($: CheerioAPI): RegistryDetails => {
     return {
         registrationServiceUrl: url,
         whoisServer: whois,
-        rdapServer: rdap,
+        rdapServer: rdap
     }
 }
 
@@ -54,7 +54,7 @@ const extractDates = ($: CheerioAPI): TLDRecordTimestamps => {
 
     return {
         lastUpdated: updated,
-        registeredOn: registered,
+        registeredOn: registered
     }
 }
 
@@ -64,7 +64,7 @@ export const parseTLDDetailsData = (html: string): TLDTechnicalDetails => {
     return {
         registry: extractRegistryInfo($),
         nameServers: extractNameServers($),
-        ...extractDates($),
+        ...extractDates($)
     }
 }
 
@@ -72,7 +72,7 @@ export const fetchTLDDetailedInfo = async (tldMetadata: TLDMetadata, index: numb
     try {
         const response = await axios.get(tldMetadata.infoUrl, {
             httpsAgent: agent,
-            headers: CUSTOM_HEADERS,
+            headers: CUSTOM_HEADERS
         })
         console.log(`✅ [${index}] Fetched: ${tldMetadata.infoUrl}`)
 
@@ -82,7 +82,7 @@ export const fetchTLDDetailedInfo = async (tldMetadata: TLDMetadata, index: numb
 
         const tldRecord: TLDRecord = {
             ...tldMetadata,
-            ...tldTechnicalDetails,
+            ...tldTechnicalDetails
         }
         return tldRecord
     } catch (err) {

@@ -31,20 +31,20 @@ export const getHeaders = () => {
     const userAgent = new UserAgent({ deviceCategory: 'desktop' })
     return {
         ...CUSTOM_HEADERS,
-        'User-Agent': userAgent.toString(),
+        'User-Agent': userAgent.toString()
     }
 }
 
 export const createTable = (tLDRecords: TLDRecord[]): string => {
-    const headers = ['ID', 'TLD', 'Category', 'Sponsor Organization', 'WhoIs Server', 'RDAP Server']
+    const headers = ['ID', 'TLD', 'WhoIs Server', 'RDAP Server', 'Category', 'Sponsor Organization']
 
     const records = tLDRecords.map((record) => [
         record.id?.toString() ?? 'N/A',
         `[${record.tld?.trim() || 'N/A'}](${record.infoUrl?.trim() || '#'})`,
-        record.category?.trim() || 'N/A',
-        record.sponsoringOrganization?.trim() || 'N/A',
         record.registry?.whoisServer?.trim() || 'N/A',
         record.registry?.rdapServer?.trim() || 'N/A',
+        record.category?.trim() || 'N/A',
+        record.sponsoringOrganization?.trim() || 'N/A'
     ])
 
     return markdownTable([headers, ...records])
@@ -75,7 +75,7 @@ export const getInfoTable = (tldMetadataList: TLDMetadata[], tLDRecords: TLDReco
     const allSuccess = tldMetadataList.length === tLDRecords.length ? 'YES' : 'NO'
     const table = markdownTable([
         ['Total TLDMetadata', 'Total TLDRecord', 'Total Time (seconds)', 'All Success'],
-        [`${tldMetadataList.length}`, `${tLDRecords.length}`, `${diffInSeconds}`, allSuccess],
+        [`${tldMetadataList.length}`, `${tLDRecords.length}`, `${diffInSeconds}`, allSuccess]
     ])
 
     return `\n\n${table}\n\n`
