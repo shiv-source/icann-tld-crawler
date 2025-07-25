@@ -1,0 +1,81 @@
+# ICANN TLD Crawler
+
+A Node.js-based crawler that scrapes the official ICANN website to fetch and structure **Top-Level Domain (TLD)** information in a clean, consistent JSON format.
+
+---
+
+## 🌐 What It Does
+
+This tool collects all publicly available TLD data from ICANN and outputs a list of rich records containing:
+
+- 🧾 TLD name and metadata
+- 🏢 Sponsoring organization
+- 🔗 Info URL and registry details
+- 🧠 Technical records such as name servers, WHOIS, and RDAP
+- 🕒 Registration timestamps
+
+---
+
+## 📅 Last Updated
+
+> **Data Refreshed On:** `<%= timestamp %>`
+
+> The TLD dataset is automatically crawled and regenerated daily.  
+> Output is saved in [`tlds.json`](./tlds.json) and reflected below in the summary table.
+
+---
+
+## 📊 TLD Summary Table
+
+<%= table %>
+
+> 💡 **This table is automatically regenerated daily** from the latest ICANN data. Full dataset available in [`tlds.json`](./tlds.json).
+
+---
+
+## 🧪 Sample JSON Output
+
+```json
+{
+    "tld": ".org",
+    "category": "generic",
+    "sponsoringOrganization": "Public Interest Registry",
+    "infoUrl": "https://www.pir.org/",
+    "lastUpdated": "2025-07-24T00:00:00Z",
+    "registeredOn": "1985-01-01T00:00:00Z",
+    "nameServers": [
+        {
+            "host": "a0.org.afilias-nst.info",
+            "ipList": ["199.19.56.1", "2001:500:e::1"]
+        }
+    ],
+    "registry": {
+        "registrationServiceUrl": "https://www.pir.org/",
+        "whoisServer": "whois.publicinterestregistry.net",
+        "rdapServer": "https://rdap.publicinterestregistry.net/rdap/"
+    }
+}
+```
+
+---
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/your-username/icann-tld-crawler.git
+cd icann-tld-crawler
+npm install
+npm start
+```
+
+---
+
+## 📄 License
+
+MIT
+
+---
+
+## 👤 Author
+
+Developed by [Shiv Kumar](https://github.com/shiv-source)

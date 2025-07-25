@@ -1,0 +1,43 @@
+name: Bot
+
+on:
+    schedule:
+        - cron: '0 2 * * *' # 2:00 AM every day.
+
+permissions:
+    contents: write
+
+env:
+    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+jobs:
+    update_tech_stack:
+        runs-on: ubuntu-latest
+        strategy:
+            matrix:
+                node-version: [20.x]
+        if: github.repository == 'shiv-source/icann-tld-crawler'
+        steps:
+            - uses: actions/checkout@v4
+            - name: Setup pnpm
+              uses: pnpm/action-setup@v4
+
+            - name: Setup node.js ${{ matrix.node-version }}
+              uses: actions/setup-node@v4
+              with:
+                  node-version: ${{ matrix.node-version }}
+                  cache: 'pnpm'
+
+            - name: Install Dependencies
+              run: pnpm install --prod
+
+            - name: Run executable
+              run: pnpm start
+
+            - name: Commit and Push Updated Stack
+              run: |
+                  git config user.name "${{ github.actor }}"
+                  git config user.email "${{ github.actor }}@users.noreply.github.com"
+                  git add .
+                  git commit -m "chore: 📝update tld.json and README.md"
+                  git push -u origin master

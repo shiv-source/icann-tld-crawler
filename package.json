@@ -1,0 +1,34 @@
+{
+  "name": "icann-tld-crawler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "clean": "rimraf dist",
+    "build:clean": "pnpm clean && pnpm build",
+    "dev": "pnpm build:clean && pnpm start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "cheerio": "^1.1.2",
+    "ejs": "^3.1.10",
+    "fs-extra": "^11.3.0",
+    "markdown-table": "^3.0.4",
+    "user-agents": "^1.1.610"
+  },
+  "devDependencies": {
+    "@types/ejs": "^3.1.5",
+    "@types/fs-extra": "^11.0.4",
+    "@types/node": "^24.1.0",
+    "@types/user-agents": "^1.0.4",
+    "prettier": "^3.6.2",
+    "rimraf": "^6.0.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
