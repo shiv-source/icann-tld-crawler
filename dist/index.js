@@ -73,7 +73,7 @@ const getTLDData = () => __awaiter(void 0, void 0, void 0, function* () {
         });
         console.log('✅ Total TLDMetadata :', tldMetadataList.length);
         const tLDRecords = yield getTLDRecordsWithRetry(tldMetadataList);
-        yield (0, utils_1.saveToJsonFile)(tLDRecords, 'tld');
+        yield (0, utils_1.saveToJsonFile)(tLDRecords, 'tlds');
         yield (0, utils_1.saveToReadmeFile)(tLDRecords);
         const diffInSeconds = (Date.now() - timeStart) / 1000;
         console.log((0, utils_1.getInfoTable)(tldMetadataList, tLDRecords, diffInSeconds));
