@@ -32,7 +32,7 @@ export const getTLDData = async () => {
         console.log('✅ Total TLDMetadata :', tldMetadataList.length)
         const tLDRecords = await getTLDRecordsWithRetry(tldMetadataList)
 
-        await saveToJsonFile(tLDRecords, 'tld')
+        await saveToJsonFile(tLDRecords, 'tlds')
         await saveToReadmeFile(tLDRecords)
 
         const diffInSeconds = (Date.now() - timeStart) / 1000
