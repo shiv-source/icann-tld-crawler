@@ -45,16 +45,16 @@ const getHeaders = () => {
 };
 exports.getHeaders = getHeaders;
 const createTable = (tLDRecords) => {
-    const headers = ['ID', 'TLD', 'Category', 'Sponsor Organization', 'WhoIs Server', 'RDAP Server'];
+    const headers = ['ID', 'TLD', 'WhoIs Server', 'RDAP Server', 'Category', 'Sponsor Organization'];
     const records = tLDRecords.map((record) => {
         var _a, _b, _c, _d, _e, _f, _g, _h, _j, _k;
         return [
             (_b = (_a = record.id) === null || _a === void 0 ? void 0 : _a.toString()) !== null && _b !== void 0 ? _b : 'N/A',
             `[${((_c = record.tld) === null || _c === void 0 ? void 0 : _c.trim()) || 'N/A'}](${((_d = record.infoUrl) === null || _d === void 0 ? void 0 : _d.trim()) || '#'})`,
-            ((_e = record.category) === null || _e === void 0 ? void 0 : _e.trim()) || 'N/A',
-            ((_f = record.sponsoringOrganization) === null || _f === void 0 ? void 0 : _f.trim()) || 'N/A',
-            ((_h = (_g = record.registry) === null || _g === void 0 ? void 0 : _g.whoisServer) === null || _h === void 0 ? void 0 : _h.trim()) || 'N/A',
-            ((_k = (_j = record.registry) === null || _j === void 0 ? void 0 : _j.rdapServer) === null || _k === void 0 ? void 0 : _k.trim()) || 'N/A',
+            ((_f = (_e = record.registry) === null || _e === void 0 ? void 0 : _e.whoisServer) === null || _f === void 0 ? void 0 : _f.trim()) || 'N/A',
+            ((_h = (_g = record.registry) === null || _g === void 0 ? void 0 : _g.rdapServer) === null || _h === void 0 ? void 0 : _h.trim()) || 'N/A',
+            ((_j = record.category) === null || _j === void 0 ? void 0 : _j.trim()) || 'N/A',
+            ((_k = record.sponsoringOrganization) === null || _k === void 0 ? void 0 : _k.trim()) || 'N/A'
         ];
     });
     return (0, markdown_table_1.markdownTable)([headers, ...records]);
@@ -83,7 +83,7 @@ const getInfoTable = (tldMetadataList, tLDRecords, diffInSeconds) => {
     const allSuccess = tldMetadataList.length === tLDRecords.length ? 'YES' : 'NO';
     const table = (0, markdown_table_1.markdownTable)([
         ['Total TLDMetadata', 'Total TLDRecord', 'Total Time (seconds)', 'All Success'],
-        [`${tldMetadataList.length}`, `${tLDRecords.length}`, `${diffInSeconds}`, allSuccess],
+        [`${tldMetadataList.length}`, `${tLDRecords.length}`, `${diffInSeconds}`, allSuccess]
     ]);
     return `\n\n${table}\n\n`;
 };

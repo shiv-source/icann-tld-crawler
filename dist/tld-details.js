@@ -48,7 +48,7 @@ const extractRegistryInfo = ($) => {
     return {
         registrationServiceUrl: url,
         whoisServer: whois,
-        rdapServer: rdap,
+        rdapServer: rdap
     };
 };
 const extractDates = ($) => {
@@ -58,7 +58,7 @@ const extractDates = ($) => {
     const registered = (_d = (_c = text.match(/Registration date (\d{4}-\d{2}-\d{2})/)) === null || _c === void 0 ? void 0 : _c[1]) !== null && _d !== void 0 ? _d : '';
     return {
         lastUpdated: updated,
-        registeredOn: registered,
+        registeredOn: registered
     };
 };
 const parseTLDDetailsData = (html) => {
@@ -70,7 +70,7 @@ const fetchTLDDetailedInfo = (tldMetadata, index) => __awaiter(void 0, void 0, v
     try {
         const response = yield axios_1.default.get(tldMetadata.infoUrl, {
             httpsAgent: utils_1.agent,
-            headers: constant_1.CUSTOM_HEADERS,
+            headers: constant_1.CUSTOM_HEADERS
         });
         console.log(`✅ [${index}] Fetched: ${tldMetadata.infoUrl}`);
         const html = response.data;

@@ -11384,7 +11384,7 @@
     "id": 233,
     "tld": ".cc",
     "category": "country-code",
-    "sponsoringOrganization": "eNIC Cocos (Keeling) Islands Pty.\nLtd. d/b/a Island Internet Services",
+    "sponsoringOrganization": "eNIC Cocos (Keeling) Islands Pty. Ltd. d/b/a Island Internet Services",
     "infoUrl": "https://www.iana.org/domains/root/db/cc.html",
     "registry": {
       "registrationServiceUrl": "http://www.nic.cc/",
@@ -15165,7 +15165,7 @@
     "id": 307,
     "tld": ".cr",
     "category": "country-code",
-    "sponsoringOrganization": "National Academy of Sciences\nAcademia Nacional de Ciencias",
+    "sponsoringOrganization": "National Academy of Sciences Academia Nacional de Ciencias",
     "infoUrl": "https://www.iana.org/domains/root/db/cr.html",
     "registry": {
       "registrationServiceUrl": "http://www.nic.cr/",
@@ -16279,7 +16279,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-07-22",
+    "lastUpdated": "2025-07-16",
     "registeredOn": "2016-12-15"
   },
   {
@@ -18170,7 +18170,7 @@
     "id": 365,
     "tld": ".do",
     "category": "country-code",
-    "sponsoringOrganization": "Pontificia Universidad Catolica Madre y Maestra\nRecinto Santo Tomas de Aquino",
+    "sponsoringOrganization": "Pontificia Universidad Catolica Madre y Maestra Recinto Santo Tomas de Aquino",
     "infoUrl": "https://www.iana.org/domains/root/db/do.html",
     "registry": {
       "registrationServiceUrl": "http://www.nic.do",
@@ -19515,7 +19515,7 @@
     "id": 394,
     "tld": ".eg",
     "category": "country-code",
-    "sponsoringOrganization": "Egyptian Universities Network (EUN)\nSupreme Council of Universities",
+    "sponsoringOrganization": "Egyptian Universities Network (EUN) Supreme Council of Universities",
     "infoUrl": "https://www.iana.org/domains/root/db/eg.html",
     "registry": {
       "registrationServiceUrl": "http://www.egregistry.eg/",
@@ -22483,7 +22483,7 @@
     "id": 455,
     "tld": ".fj",
     "category": "country-code",
-    "sponsoringOrganization": "The University of the South Pacific\nIT Services",
+    "sponsoringOrganization": "The University of the South Pacific IT Services",
     "infoUrl": "https://www.iana.org/domains/root/db/fj.html",
     "registry": {
       "registrationServiceUrl": "https://www.domains.fj/",
@@ -30376,7 +30376,7 @@
     "id": 618,
     "tld": ".ie",
     "category": "country-code",
-    "sponsoringOrganization": "University College Dublin\nComputing Services\nComputer Centre",
+    "sponsoringOrganization": "University College Dublin Computing Services Computer Centre",
     "infoUrl": "https://www.iana.org/domains/root/db/ie.html",
     "registry": {
       "registrationServiceUrl": "http://www.weare.ie",
@@ -34968,7 +34968,7 @@
     "id": 716,
     "tld": ".la",
     "category": "country-code",
-    "sponsoringOrganization": "Lao National Internet Center (LANIC),\nMinistry of Technology and Communications",
+    "sponsoringOrganization": "Lao National Internet Center (LANIC), Ministry of Technology and Communications",
     "infoUrl": "https://www.iana.org/domains/root/db/la.html",
     "registry": {
       "registrationServiceUrl": "http://www.la",
@@ -37016,7 +37016,7 @@
     "id": 761,
     "tld": ".lk",
     "category": "country-code",
-    "sponsoringOrganization": "Council for Information Technology\nLK Domain Registrar",
+    "sponsoringOrganization": "Council for Information Technology LK Domain Registrar",
     "infoUrl": "https://www.iana.org/domains/root/db/lk.html",
     "registry": {
       "registrationServiceUrl": "http://www.domains.lk/",
@@ -38185,7 +38185,7 @@
     "id": 786,
     "tld": ".lv",
     "category": "country-code",
-    "sponsoringOrganization": "University of Latvia\nInstitute of Mathematics and Computer Science\nDepartment of Network Solutions (DNS)",
+    "sponsoringOrganization": "University of Latvia Institute of Mathematics and Computer Science Department of Network Solutions (DNS)",
     "infoUrl": "https://www.iana.org/domains/root/db/lv.html",
     "registry": {
       "registrationServiceUrl": "http://www.nic.lv/",
@@ -42352,7 +42352,7 @@
     "id": 876,
     "tld": ".mw",
     "category": "country-code",
-    "sponsoringOrganization": "Malawi Sustainable Development Network Programme\n(Malawi SDNP)",
+    "sponsoringOrganization": "Malawi Sustainable Development Network Programme (Malawi SDNP)",
     "infoUrl": "https://www.iana.org/domains/root/db/mw.html",
     "registry": {
       "registrationServiceUrl": "http://www.registrar.mw",
@@ -42417,7 +42417,7 @@
     "id": 877,
     "tld": ".mx",
     "category": "country-code",
-    "sponsoringOrganization": "NIC-Mexico\nITESM - Campus Monterrey",
+    "sponsoringOrganization": "NIC-Mexico ITESM - Campus Monterrey",
     "infoUrl": "https://www.iana.org/domains/root/db/mx.html",
     "registry": {
       "registrationServiceUrl": "http://www.registry.mx/",
@@ -47146,7 +47146,7 @@
     "id": 976,
     "tld": ".pg",
     "category": "country-code",
-    "sponsoringOrganization": "PNG DNS Administration\nVice Chancellors Office\nThe Papua New Guinea University of Technology",
+    "sponsoringOrganization": "PNG DNS Administration Vice Chancellors Office The Papua New Guinea University of Technology",
     "infoUrl": "https://www.iana.org/domains/root/db/pg.html",
     "registry": {
       "registrationServiceUrl": "",
@@ -49810,7 +49810,7 @@
     "id": 1027,
     "tld": ".ps",
     "category": "country-code",
-    "sponsoringOrganization": "Ministry Of Telecommunications &\nInformation Technology,\nGovernment Computer Center.",
+    "sponsoringOrganization": "Ministry Of Telecommunications & Information Technology, Government Computer Center.",
     "infoUrl": "https://www.iana.org/domains/root/db/ps.html",
     "registry": {
       "registrationServiceUrl": "http://www.nic.ps",
@@ -58817,7 +58817,7 @@
     "id": 1210,
     "tld": ".su",
     "category": "country-code",
-    "sponsoringOrganization": "Russian Institute for Development of Public Networks\n(ROSNIIROS)",
+    "sponsoringOrganization": "Russian Institute for Development of Public Networks (ROSNIIROS)",
     "infoUrl": "https://www.iana.org/domains/root/db/su.html",
     "registry": {
       "registrationServiceUrl": "",
@@ -59665,7 +59665,7 @@
     "id": 1227,
     "tld": ".sz",
     "category": "country-code",
-    "sponsoringOrganization": "University of Swaziland\nDepartment of Computer Science",
+    "sponsoringOrganization": "University of Swaziland Department of Computer Science",
     "infoUrl": "https://www.iana.org/domains/root/db/sz.html",
     "registry": {
       "registrationServiceUrl": "http://www.sispa.org.sz/",
@@ -61992,7 +61992,7 @@
     "id": 1273,
     "tld": ".to",
     "category": "country-code",
-    "sponsoringOrganization": "Government of the Kingdom of Tonga\nH.R.H. Crown Prince Tupouto'a\nc/o Consulate of Tonga",
+    "sponsoringOrganization": "Government of the Kingdom of Tonga H.R.H. Crown Prince Tupouto'a c/o Consulate of Tonga",
     "infoUrl": "https://www.iana.org/domains/root/db/to.html",
     "registry": {
       "registrationServiceUrl": "http://www.tonic.to/",
@@ -63097,7 +63097,7 @@
     "id": 1296,
     "tld": ".tt",
     "category": "country-code",
-    "sponsoringOrganization": "University of the West Indies\nFaculty of Engineering",
+    "sponsoringOrganization": "University of the West Indies Faculty of Engineering",
     "infoUrl": "https://www.iana.org/domains/root/db/tt.html",
     "registry": {
       "registrationServiceUrl": "http://www.nic.tt",

@@ -66,7 +66,8 @@ const getTLDData = () => __awaiter(void 0, void 0, void 0, function* () {
             const tld = $(el).find('td a').text().trim();
             const infoUrl = constant_1.BASE_URL + linkEl.attr('href');
             const category = $(el).find('td:nth-child(2)').text().trim();
-            const sponsoringOrganization = $(el).find('td:nth-child(3)').text().trim();
+            let sponsoringOrganization = $(el).find('td:nth-child(3)').text().trim();
+            sponsoringOrganization = sponsoringOrganization.replace(/\n/g, ' ');
             if (tld) {
                 tldMetadataList.push({ id: i + 1, tld, category, sponsoringOrganization, infoUrl });
             }
