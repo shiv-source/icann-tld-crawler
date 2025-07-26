@@ -36,25 +36,30 @@ export const getHeaders = () => {
 }
 
 export const createTable = (tLDRecords: TLDRecord[]): string => {
-    const headers = ['ID', 'TLD', 'WhoIs Server', 'RDAP Server', 'Category', 'Sponsor Organization']
+    const headers = ['ID', 'TLD', 'WhoIs Server', 'RDAP Server', 'Sponsor Organization']
 
     const records = tLDRecords.map((record) => [
         record.id?.toString() ?? 'N/A',
         `[${record.tld?.trim() || 'N/A'}](${record.infoUrl?.trim() || '#'})`,
         record.registry?.whoisServer?.trim() || 'N/A',
         record.registry?.rdapServer?.trim() || 'N/A',
-        record.category?.trim() || 'N/A',
         record.sponsoringOrganization?.trim() || 'N/A'
     ])
 
     return markdownTable([headers, ...records])
 }
 
-export const saveToReadmeFile = async (tLDRecords: TLDRecord[]) => {
-    const filePath = path.join(rootDir, 'templates/README.ejs')
+export const saveToReadmeFile = async (genericTLDRecords: TLDRecord[], countryCodeTLDRecords: TLDRecord[]) => {
+    const filePath = path.join(rootDir, 'templates/README.md')
     const template = await fs.readFile(filePath, 'utf-8')
-    const table = createTable(tLDRecords)
-    const output = await ejs.render(template, { table, timestamp: new Date().toUTCString() })
+    const genericTLDRecordTable = createTable(genericTLDRecords.map((record, index) => ({ ...record, id: index })))
+    const countryCodeTLDRecordTable = createTable(countryCodeTLDRecords.map((record, index) => ({ ...record, id: index })))
+
+    const output = await ejs.render(template, {
+        genericTLDRecordTable,
+        countryCodeTLDRecordTable,
+        timestamp: new Date().toUTCString()
+    })
     await fs.writeFile(path.join(rootDir, 'README.md'), output)
     console.log(`\n✅ README.md file has been created: ${filePath}\n`)
 }

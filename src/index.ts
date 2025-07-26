@@ -33,8 +33,14 @@ export const getTLDData = async () => {
         console.log('✅ Total TLDMetadata :', tldMetadataList.length)
         const tLDRecords = await getTLDRecordsWithRetry(tldMetadataList)
 
-        await saveToJsonFile(tLDRecords, 'tlds')
-        await saveToReadmeFile(tLDRecords)
+        const cleanedTLDRecords = tLDRecords.filter((record) => record.registry.rdapServer || record.registry.whoisServer)
+        const genericTLDRecords = cleanedTLDRecords.filter((record) => record.category === 'generic')
+        const countryCodeTLDRecords = cleanedTLDRecords.filter((record) => record.category === 'country-code')
+
+        await saveToJsonFile(cleanedTLDRecords, 'data/tlds')
+        await saveToJsonFile(genericTLDRecords, 'data/generic-tlds')
+        await saveToJsonFile(countryCodeTLDRecords, 'data/country-code-tlds')
+        await saveToReadmeFile(genericTLDRecords, countryCodeTLDRecords)
 
         const diffInSeconds = (Date.now() - timeStart) / 1000
         console.log(getInfoTable(tldMetadataList, tLDRecords, diffInSeconds))
