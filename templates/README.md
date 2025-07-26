@@ -31,9 +31,7 @@ The output is suitable for developers, researchers, domain registrars, and secur
 
 ### 🌍 Generic TLDs
 
-```ejs
 <%= genericTLDRecordTable %>
-````
 
 > 📦 Full dataset available in [`generic-tlds.json`](./data/generic-tlds.json)
 > 💡 This table is automatically regenerated daily from live ICANN data.
@@ -42,9 +40,8 @@ The output is suitable for developers, researchers, domain registrars, and secur
 
 ### 🏳️ Country Code TLDs
 
-```ejs
 <%= countryCodeTLDRecordTable %>
-```
+
 
 > 📦 Full dataset available in [`country-code-tlds.json`](./data/country-code-tlds.json)
 > 💡 This table is also auto-updated every 24 hours.
@@ -90,7 +87,7 @@ npm install
 npm start
 ```
 
-The crawler will fetch and store the latest TLD data in `tlds.json`, `generic.json`, and `country-code-tlds.json`.
+The crawler will fetch and store the latest TLD data in `tlds.json`, `generic-tlds.json`, and `country-code-tlds.json`.
 
 ---
 
