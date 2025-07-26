@@ -1,13 +1,13 @@
-name: Build Executable and Update TLDRecords CI
+name: Build Executable and Update TLDRecords CI (Dev)
 
 on:
     push:
         branches:
-            - master
+            - dev
 
     pull_request:
         branches:
-            - master
+            - dev
 
     workflow_dispatch:
 
@@ -49,4 +49,4 @@ jobs:
                   git config user.email "${{ github.actor }}@users.noreply.github.com"
                   git add .
                   git commit -m "chore: 📝 updated tlds and README.md after ⚙️ build executable"
-                  git push -u origin master
+                  git push -u origin dev

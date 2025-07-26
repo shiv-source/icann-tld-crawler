@@ -45,26 +45,30 @@ const getHeaders = () => {
 };
 exports.getHeaders = getHeaders;
 const createTable = (tLDRecords) => {
-    const headers = ['ID', 'TLD', 'WhoIs Server', 'RDAP Server', 'Category', 'Sponsor Organization'];
+    const headers = ['ID', 'TLD', 'WhoIs Server', 'RDAP Server', 'Sponsor Organization'];
     const records = tLDRecords.map((record) => {
-        var _a, _b, _c, _d, _e, _f, _g, _h, _j, _k;
+        var _a, _b, _c, _d, _e, _f, _g, _h, _j;
         return [
             (_b = (_a = record.id) === null || _a === void 0 ? void 0 : _a.toString()) !== null && _b !== void 0 ? _b : 'N/A',
             `[${((_c = record.tld) === null || _c === void 0 ? void 0 : _c.trim()) || 'N/A'}](${((_d = record.infoUrl) === null || _d === void 0 ? void 0 : _d.trim()) || '#'})`,
             ((_f = (_e = record.registry) === null || _e === void 0 ? void 0 : _e.whoisServer) === null || _f === void 0 ? void 0 : _f.trim()) || 'N/A',
             ((_h = (_g = record.registry) === null || _g === void 0 ? void 0 : _g.rdapServer) === null || _h === void 0 ? void 0 : _h.trim()) || 'N/A',
-            ((_j = record.category) === null || _j === void 0 ? void 0 : _j.trim()) || 'N/A',
-            ((_k = record.sponsoringOrganization) === null || _k === void 0 ? void 0 : _k.trim()) || 'N/A'
+            ((_j = record.sponsoringOrganization) === null || _j === void 0 ? void 0 : _j.trim()) || 'N/A'
         ];
     });
     return (0, markdown_table_1.markdownTable)([headers, ...records]);
 };
 exports.createTable = createTable;
-const saveToReadmeFile = (tLDRecords) => __awaiter(void 0, void 0, void 0, function* () {
-    const filePath = path_1.default.join(exports.rootDir, 'templates/README.ejs');
+const saveToReadmeFile = (genericTLDRecords, countryCodeTLDRecords) => __awaiter(void 0, void 0, void 0, function* () {
+    const filePath = path_1.default.join(exports.rootDir, 'templates/README.md');
     const template = yield fs_extra_1.default.readFile(filePath, 'utf-8');
-    const table = (0, exports.createTable)(tLDRecords);
-    const output = yield ejs_1.default.render(template, { table, timestamp: new Date().toUTCString() });
+    const genericTLDRecordTable = (0, exports.createTable)(genericTLDRecords.map((record, index) => (Object.assign(Object.assign({}, record), { id: index }))));
+    const countryCodeTLDRecordTable = (0, exports.createTable)(countryCodeTLDRecords.map((record, index) => (Object.assign(Object.assign({}, record), { id: index }))));
+    const output = yield ejs_1.default.render(template, {
+        genericTLDRecordTable,
+        countryCodeTLDRecordTable,
+        timestamp: new Date().toUTCString()
+    });
     yield fs_extra_1.default.writeFile(path_1.default.join(exports.rootDir, 'README.md'), output);
     console.log(`\n✅ README.md file has been created: ${filePath}\n`);
 });

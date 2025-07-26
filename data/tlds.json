@@ -116,21 +116,6 @@
     "registeredOn": "2015-10-22"
   },
   {
-    "id": 3,
-    "tld": ".abarth",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/abarth.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2023-06-05",
-    "registeredOn": "2016-07-14"
-  },
-  {
     "id": 4,
     "tld": ".abb",
     "category": "generic",
@@ -822,21 +807,6 @@
     "registeredOn": "2015-07-16"
   },
   {
-    "id": 17,
-    "tld": ".active",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/active.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2019-02-17",
-    "registeredOn": "2014-06-19"
-  },
-  {
     "id": 18,
     "tld": ".actor",
     "category": "generic",
@@ -937,21 +907,6 @@
     ],
     "lastUpdated": "2024-09-16",
     "registeredOn": "1996-01-09"
-  },
-  {
-    "id": 20,
-    "tld": ".adac",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/adac.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2022-11-26",
-    "registeredOn": "2015-11-20"
   },
   {
     "id": 21,
@@ -1308,21 +1263,6 @@
     ],
     "lastUpdated": "2022-11-21",
     "registeredOn": "1997-10-16"
-  },
-  {
-    "id": 28,
-    "tld": ".afamilycompany",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/afamilycompany.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2021-12-03",
-    "registeredOn": "2016-07-14"
   },
   {
     "id": 29,
@@ -1689,21 +1629,6 @@
     "registeredOn": "2015-04-09"
   },
   {
-    "id": 36,
-    "tld": ".aigo",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/aigo.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2020-06-27",
-    "registeredOn": "2016-08-04"
-  },
-  {
     "id": 37,
     "tld": ".airbus",
     "category": "generic",
@@ -1906,65 +1831,6 @@
     ],
     "lastUpdated": "2023-08-25",
     "registeredOn": "2016-03-31"
-  },
-  {
-    "id": 41,
-    "tld": ".al",
-    "category": "country-code",
-    "sponsoringOrganization": "Electronic and Postal Communications Authority - AKEP",
-    "infoUrl": "https://www.iana.org/domains/root/db/al.html",
-    "registry": {
-      "registrationServiceUrl": "https://akep.al/e-aplikime-domain/",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "munnari.oz.au",
-        "ipList": [
-          "202.29.151.3",
-          "2001:3c8:9009:181:0:0:0:2",
-          "2001:3c8:9007:1:0:0:0:21"
-        ]
-      },
-      {
-        "host": "ns1.nic.al",
-        "ipList": [
-          "194.1.149.230"
-        ]
-      },
-      {
-        "host": "nsx.nic.al",
-        "ipList": [
-          "194.0.11.108",
-          "2001:678:e:108:0:0:0:53"
-        ]
-      },
-      {
-        "host": "rip.psg.com",
-        "ipList": [
-          "147.28.0.39",
-          "2001:418:1:0:0:0:0:39"
-        ]
-      }
-    ],
-    "lastUpdated": "2023-10-12",
-    "registeredOn": "1992-04-21"
-  },
-  {
-    "id": 42,
-    "tld": ".alfaromeo",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/alfaromeo.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2023-06-05",
-    "registeredOn": "2016-07-21"
   },
   {
     "id": 43,
@@ -2725,21 +2591,6 @@
     "registeredOn": "2014-11-20"
   },
   {
-    "id": 58,
-    "tld": ".an",
-    "category": "country-code",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/an.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2015-08-06",
-    "registeredOn": "1993-09-09"
-  },
-  {
     "id": 59,
     "tld": ".analytics",
     "category": "generic",
@@ -2949,50 +2800,6 @@
     "registeredOn": "2016-06-09"
   },
   {
-    "id": 63,
-    "tld": ".ao",
-    "category": "country-code",
-    "sponsoringOrganization": "Ministry of Telecommunications and Information Technologies (MTTI)",
-    "infoUrl": "https://www.iana.org/domains/root/db/ao.html",
-    "registry": {
-      "registrationServiceUrl": "http://www.dns.ao/",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "a.ns.ao",
-        "ipList": [
-          "206.51.254.4",
-          "2620:171:804:ad2:0:0:0:4"
-        ]
-      },
-      {
-        "host": "ao-e.ns.nic.cz",
-        "ipList": [
-          "185.43.134.13",
-          "2001:148f:fffd:0:0:0:0:13"
-        ]
-      },
-      {
-        "host": "ao02.dns.pt",
-        "ipList": [
-          "185.39.208.29",
-          "2a04:6d80:0:0:0:0:0:29"
-        ]
-      },
-      {
-        "host": "etld-1.anycast.net",
-        "ipList": [
-          "45.54.45.54",
-          "2607:f740:45:0:0:0:0:54"
-        ]
-      }
-    ],
-    "lastUpdated": "2024-09-09",
-    "registeredOn": "1995-11-15"
-  },
-  {
     "id": 64,
     "tld": ".aol",
     "category": "generic",
@@ -3188,43 +2995,6 @@
     ],
     "lastUpdated": "2025-04-10",
     "registeredOn": "2015-07-02"
-  },
-  {
-    "id": 68,
-    "tld": ".aq",
-    "category": "country-code",
-    "sponsoringOrganization": "Antarctica Network Information Centre Limited",
-    "infoUrl": "https://www.iana.org/domains/root/db/aq.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "fork.sth.dnsnode.net",
-        "ipList": [
-          "77.72.229.254",
-          "2a01:3f0:0:306:0:0:0:53"
-        ]
-      },
-      {
-        "host": "ns1.anycast.dns.aq",
-        "ipList": [
-          "204.61.216.132",
-          "2001:500:14:6132:ad:0:0:1"
-        ]
-      },
-      {
-        "host": "ns99.dns.net.nz",
-        "ipList": [
-          "202.46.190.131",
-          "2001:dce:2000:2:0:0:0:131"
-        ]
-      }
-    ],
-    "lastUpdated": "2025-01-21",
-    "registeredOn": "1992-02-26"
   },
   {
     "id": 69,
@@ -4614,21 +4384,6 @@
     "registeredOn": "2014-05-01"
   },
   {
-    "id": 94,
-    "tld": ".avianca",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/avianca.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2024-03-27",
-    "registeredOn": "2016-02-26"
-  },
-  {
     "id": 95,
     "tld": ".aw",
     "category": "country-code",
@@ -4850,42 +4605,6 @@
     "registeredOn": "2014-03-13"
   },
   {
-    "id": 99,
-    "tld": ".az",
-    "category": "country-code",
-    "sponsoringOrganization": "IntraNS",
-    "infoUrl": "https://www.iana.org/domains/root/db/az.html",
-    "registry": {
-      "registrationServiceUrl": "http://www.whois.az/",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "az.hostmaster.ua",
-        "ipList": [
-          "195.47.253.13",
-          "2001:67c:258:0:0:0:0:13"
-        ]
-      },
-      {
-        "host": "ns3.intrans.az",
-        "ipList": [
-          "148.251.2.246"
-        ]
-      },
-      {
-        "host": "rip.psg.com",
-        "ipList": [
-          "147.28.0.39",
-          "2001:418:1:0:0:0:0:39"
-        ]
-      }
-    ],
-    "lastUpdated": "2022-03-14",
-    "registeredOn": "1993-08-25"
-  },
-  {
     "id": 100,
     "tld": ".azure",
     "category": "generic",
@@ -4956,41 +4675,6 @@
     ],
     "lastUpdated": "2025-05-01",
     "registeredOn": "2015-04-30"
-  },
-  {
-    "id": 101,
-    "tld": ".ba",
-    "category": "country-code",
-    "sponsoringOrganization": "Universtiy Telinformatic Centre (UTIC)",
-    "infoUrl": "https://www.iana.org/domains/root/db/ba.html",
-    "registry": {
-      "registrationServiceUrl": "http://www.nic.ba",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "ns.ba",
-        "ipList": [
-          "195.130.35.5"
-        ]
-      },
-      {
-        "host": "sava.utic.net.ba",
-        "ipList": [
-          "195.130.35.3"
-        ]
-      },
-      {
-        "host": "una.utic.net.ba",
-        "ipList": [
-          "204.61.216.117",
-          "2001:500:14:6117:ad:0:0:1"
-        ]
-      }
-    ],
-    "lastUpdated": "2020-02-01",
-    "registeredOn": "1996-08-14"
   },
   {
     "id": 102,
@@ -5157,21 +4841,6 @@
     ],
     "lastUpdated": "2024-05-11",
     "registeredOn": "2016-07-21"
-  },
-  {
-    "id": 105,
-    "tld": ".bananarepublic",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/bananarepublic.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2024-01-22",
-    "registeredOn": "2016-07-14"
   },
   {
     "id": 106,
@@ -5800,56 +5469,6 @@
     "registeredOn": "2014-03-13"
   },
   {
-    "id": 118,
-    "tld": ".bb",
-    "category": "country-code",
-    "sponsoringOrganization": "Ministry of Innovation, Science and Smart Technology",
-    "infoUrl": "https://www.iana.org/domains/root/db/bb.html",
-    "registry": {
-      "registrationServiceUrl": "http://www.whois.telecoms.gov.bb/",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "ns1.nic.bb",
-        "ipList": [
-          "64.68.192.10",
-          "2400:cb00:2049:1:0:0:a29f:1835"
-        ]
-      },
-      {
-        "host": "ns2.nic.bb",
-        "ipList": [
-          "198.41.222.254",
-          "2400:cb00:2049:1:0:0:c629:defe"
-        ]
-      },
-      {
-        "host": "ns3.nic.bb",
-        "ipList": [
-          "64.68.196.10",
-          "2620:49:3:0:0:0:0:10"
-        ]
-      },
-      {
-        "host": "ns4.nic.bb",
-        "ipList": [
-          "64.68.197.10",
-          "2620:49:4:0:0:0:0:10"
-        ]
-      },
-      {
-        "host": "ns5.nic.bb",
-        "ipList": [
-          "200.50.92.195"
-        ]
-      }
-    ],
-    "lastUpdated": "2022-03-08",
-    "registeredOn": "1991-09-03"
-  },
-  {
     "id": 119,
     "tld": ".bbc",
     "category": "generic",
@@ -6126,50 +5745,6 @@
     "registeredOn": "2015-06-04"
   },
   {
-    "id": 124,
-    "tld": ".bd",
-    "category": "country-code",
-    "sponsoringOrganization": "Posts and Telecommunications Division",
-    "infoUrl": "https://www.iana.org/domains/root/db/bd.html",
-    "registry": {
-      "registrationServiceUrl": "http://domainreg.btcl.com.bd/",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "bd-ns.anycast.pch.net",
-        "ipList": [
-          "204.61.216.108",
-          "2001:500:14:6108:ad:0:0:1"
-        ]
-      },
-      {
-        "host": "dns.bd",
-        "ipList": [
-          "123.49.12.112",
-          "2407:5000:88:5:0:0:0:3"
-        ]
-      },
-      {
-        "host": "jamuna.btcl.net.bd",
-        "ipList": [
-          "203.112.194.231",
-          "2407:5000:88:4:0:0:0:231"
-        ]
-      },
-      {
-        "host": "surma.btcl.net.bd",
-        "ipList": [
-          "203.112.194.232",
-          "2407:5000:88:4:0:0:0:232"
-        ]
-      }
-    ],
-    "lastUpdated": "2024-05-29",
-    "registeredOn": "1999-05-20"
-  },
-  {
     "id": 125,
     "tld": ".be",
     "category": "country-code",
@@ -6372,21 +5947,6 @@
     ],
     "lastUpdated": "2024-04-16",
     "registeredOn": "2014-03-13"
-  },
-  {
-    "id": 129,
-    "tld": ".bentley",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/bentley.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2025-04-23",
-    "registeredOn": "2015-05-14"
   },
   {
     "id": 130,
@@ -7262,21 +6822,6 @@
     "registeredOn": "1996-01-18"
   },
   {
-    "id": 147,
-    "tld": ".bl",
-    "category": "country-code",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/bl.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2007-10-10",
-    "registeredOn": "2007-10-11"
-  },
-  {
     "id": 148,
     "tld": ".black",
     "category": "generic",
@@ -7377,21 +6922,6 @@
     ],
     "lastUpdated": "2024-04-16",
     "registeredOn": "2014-04-17"
-  },
-  {
-    "id": 150,
-    "tld": ".blanco",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/blanco.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2019-02-13",
-    "registeredOn": "2016-06-03"
   },
   {
     "id": 151,
@@ -7777,21 +7307,6 @@
     ],
     "lastUpdated": "2025-05-05",
     "registeredOn": "1994-06-03"
-  },
-  {
-    "id": 159,
-    "tld": ".bnl",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/bnl.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2019-07-30",
-    "registeredOn": "2015-06-11"
   },
   {
     "id": 160,
@@ -8310,21 +7825,6 @@
     "registeredOn": "2016-07-07"
   },
   {
-    "id": 170,
-    "tld": ".boots",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/boots.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2018-04-06",
-    "registeredOn": "2015-06-18"
-  },
-  {
     "id": 171,
     "tld": ".bosch",
     "category": "generic",
@@ -8636,21 +8136,6 @@
     ],
     "lastUpdated": "2023-11-17",
     "registeredOn": "2016-10-27"
-  },
-  {
-    "id": 177,
-    "tld": ".bq",
-    "category": "country-code",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/bq.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2010-12-20",
-    "registeredOn": "2010-12-20"
   },
   {
     "id": 178,
@@ -9029,136 +8514,6 @@
     "registeredOn": "2014-06-05"
   },
   {
-    "id": 185,
-    "tld": ".bs",
-    "category": "country-code",
-    "sponsoringOrganization": "University of The Bahamas",
-    "infoUrl": "https://www.iana.org/domains/root/db/bs.html",
-    "registry": {
-      "registrationServiceUrl": "http://www.register.bs",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "anyns.dns.bs",
-        "ipList": [
-          "204.61.216.68",
-          "2001:500:14:6068:ad:0:0:1"
-        ]
-      },
-      {
-        "host": "anyns.pch.net",
-        "ipList": [
-          "204.61.216.4",
-          "2001:500:14:6004:ad:0:0:1"
-        ]
-      },
-      {
-        "host": "ns36.cdns.net",
-        "ipList": [
-          "194.0.1.36",
-          "2001:678:4:0:0:0:0:24"
-        ]
-      }
-    ],
-    "lastUpdated": "2019-08-12",
-    "registeredOn": "1991-09-03"
-  },
-  {
-    "id": 186,
-    "tld": ".bt",
-    "category": "country-code",
-    "sponsoringOrganization": "Ministry of Information and Communications",
-    "infoUrl": "https://www.iana.org/domains/root/db/bt.html",
-    "registry": {
-      "registrationServiceUrl": "http://www.nic.bt",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "auth00.ns.uu.net",
-        "ipList": [
-          "198.6.1.65"
-        ]
-      },
-      {
-        "host": "auth61.ns.uu.net",
-        "ipList": [
-          "198.6.1.182"
-        ]
-      },
-      {
-        "host": "ns.itu.ch",
-        "ipList": [
-          "156.106.192.121",
-          "2a00:7580:60:2141:0:0:0:10"
-        ]
-      },
-      {
-        "host": "ns1.druknet.bt",
-        "ipList": [
-          "202.144.128.200",
-          "2405:d000:0:100:0:0:0:200"
-        ]
-      },
-      {
-        "host": "ns2.druknet.bt",
-        "ipList": [
-          "202.144.128.210",
-          "2405:d000:0:100:0:0:0:210"
-        ]
-      },
-      {
-        "host": "ns3.druknet.bt",
-        "ipList": [
-          "204.61.216.17",
-          "2001:500:14:6017:ad:0:0:1"
-        ]
-      },
-      {
-        "host": "phloem.uoregon.edu",
-        "ipList": [
-          "128.223.32.35",
-          "2001:468:d01:20:0:0:80df:2023"
-        ]
-      }
-    ],
-    "lastUpdated": "2020-03-09",
-    "registeredOn": "1997-07-16"
-  },
-  {
-    "id": 187,
-    "tld": ".budapest",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/budapest.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2022-02-17",
-    "registeredOn": "2014-02-28"
-  },
-  {
-    "id": 188,
-    "tld": ".bugatti",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/bugatti.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2022-10-07",
-    "registeredOn": "2015-11-12"
-  },
-  {
     "id": 189,
     "tld": ".build",
     "category": "generic",
@@ -9449,64 +8804,6 @@
     "registeredOn": "2013-12-12"
   },
   {
-    "id": 194,
-    "tld": ".bv",
-    "category": "country-code",
-    "sponsoringOrganization": "Norid A/S",
-    "infoUrl": "https://www.iana.org/domains/root/db/bv.html",
-    "registry": {
-      "registrationServiceUrl": "https://www.norid.no/en/omnorid/toppdomenet-bv/",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "nac.no",
-        "ipList": [
-          "128.39.2.22",
-          "2001:700:0:102:0:0:0:aa53"
-        ]
-      },
-      {
-        "host": "nn.uninett.no",
-        "ipList": [
-          "158.38.0.181",
-          "2001:700:0:503:0:0:aa:5302"
-        ]
-      },
-      {
-        "host": "server.nordu.net",
-        "ipList": [
-          "193.10.252.19",
-          "2001:948:4:2:0:0:0:19"
-        ]
-      },
-      {
-        "host": "x.nic.no",
-        "ipList": [
-          "128.39.8.40",
-          "2001:700:0:412f:0:0:0:40"
-        ]
-      },
-      {
-        "host": "y.nic.no",
-        "ipList": [
-          "193.75.4.22",
-          "2001:8c0:8200:1:0:0:0:2"
-        ]
-      },
-      {
-        "host": "z.nic.no",
-        "ipList": [
-          "158.38.8.133",
-          "2001:700:0:52d:158:38:8:133"
-        ]
-      }
-    ],
-    "lastUpdated": "2022-01-14",
-    "registeredOn": "1997-08-21"
-  },
-  {
     "id": 195,
     "tld": ".bw",
     "category": "country-code",
@@ -9597,64 +8894,6 @@
     ],
     "lastUpdated": "2025-01-09",
     "registeredOn": "1994-05-10"
-  },
-  {
-    "id": 197,
-    "tld": ".bz",
-    "category": "country-code",
-    "sponsoringOrganization": "University of Belize",
-    "infoUrl": "https://www.iana.org/domains/root/db/bz.html",
-    "registry": {
-      "registrationServiceUrl": "http://www.belizenic.bz",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "a0.cctld.afilias-nst.info",
-        "ipList": [
-          "199.254.59.1",
-          "2001:500:25:0:0:0:0:1"
-        ]
-      },
-      {
-        "host": "a2.cctld.afilias-nst.info",
-        "ipList": [
-          "199.249.116.1",
-          "2001:500:44:0:0:0:0:1"
-        ]
-      },
-      {
-        "host": "b0.cctld.afilias-nst.org",
-        "ipList": [
-          "199.254.60.1",
-          "2001:500:26:0:0:0:0:1"
-        ]
-      },
-      {
-        "host": "b2.cctld.afilias-nst.org",
-        "ipList": [
-          "199.249.124.1",
-          "2001:500:4c:0:0:0:0:1"
-        ]
-      },
-      {
-        "host": "c0.cctld.afilias-nst.info",
-        "ipList": [
-          "199.254.61.1",
-          "2001:500:27:0:0:0:0:1"
-        ]
-      },
-      {
-        "host": "d0.cctld.afilias-nst.org",
-        "ipList": [
-          "199.254.62.1",
-          "2001:500:28:0:0:0:0:1"
-        ]
-      }
-    ],
-    "lastUpdated": "2020-11-23",
-    "registeredOn": "1991-09-03"
   },
   {
     "id": 198,
@@ -10193,21 +9432,6 @@
     ],
     "lastUpdated": "2023-09-12",
     "registeredOn": "2013-12-12"
-  },
-  {
-    "id": 208,
-    "tld": ".cancerresearch",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/cancerresearch.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2022-10-06",
-    "registeredOn": "2014-06-19"
   },
   {
     "id": 209,
@@ -10777,21 +10001,6 @@
     "registeredOn": "2015-03-12"
   },
   {
-    "id": 220,
-    "tld": ".cartier",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/cartier.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2019-11-15",
-    "registeredOn": "2014-11-20"
-  },
-  {
     "id": 221,
     "tld": ".casa",
     "category": "generic",
@@ -10891,21 +10100,6 @@
       }
     ],
     "lastUpdated": "2023-12-06",
-    "registeredOn": "2016-10-27"
-  },
-  {
-    "id": 223,
-    "tld": ".caseih",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/caseih.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2021-02-19",
     "registeredOn": "2016-10-27"
   },
   {
@@ -11366,21 +10560,6 @@
     "registeredOn": "2016-06-16"
   },
   {
-    "id": 232,
-    "tld": ".cbs",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/cbs.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2023-10-25",
-    "registeredOn": "2016-07-21"
-  },
-  {
     "id": 233,
     "tld": ".cc",
     "category": "country-code",
@@ -11423,55 +10602,6 @@
     ],
     "lastUpdated": "2023-10-04",
     "registeredOn": "1997-10-13"
-  },
-  {
-    "id": 234,
-    "tld": ".cd",
-    "category": "country-code",
-    "sponsoringOrganization": "Office Congolais des Postes et Télécommunications - OCPT",
-    "infoUrl": "https://www.iana.org/domains/root/db/cd.html",
-    "registry": {
-      "registrationServiceUrl": "http://www.nic.cd/",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "ns-root-21.scpt-network.net",
-        "ipList": [
-          "102.68.62.15"
-        ]
-      },
-      {
-        "host": "ns-root-22.scpt-network.net",
-        "ipList": [
-          "102.68.60.15"
-        ]
-      },
-      {
-        "host": "ns-root-23.scpt-network.net",
-        "ipList": [
-          "161.97.87.130"
-        ]
-      }
-    ],
-    "lastUpdated": "2021-02-10",
-    "registeredOn": "1997-08-20"
-  },
-  {
-    "id": 235,
-    "tld": ".ceb",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/ceb.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2020-12-09",
-    "registeredOn": "2015-07-02"
   },
   {
     "id": 236,
@@ -11764,55 +10894,6 @@
     ],
     "lastUpdated": "2024-04-29",
     "registeredOn": "2015-03-06"
-  },
-  {
-    "id": 242,
-    "tld": ".cg",
-    "category": "country-code",
-    "sponsoringOrganization": "Interpoint Switzerland",
-    "infoUrl": "https://www.iana.org/domains/root/db/cg.html",
-    "registry": {
-      "registrationServiceUrl": "https://www.dnsafrica.net",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "dns-ca.dnsafrica.net",
-        "ipList": [
-          "54.39.22.36",
-          "2607:5300:201:3100:0:0:0:2b7c"
-        ]
-      },
-      {
-        "host": "dns-fr.dnsafrica.net",
-        "ipList": [
-          "151.80.35.161"
-        ]
-      },
-      {
-        "host": "dns-sg.dnsafrica.net",
-        "ipList": [
-          "51.79.160.242",
-          "2402:1f00:8000:800:0:0:0:25ed"
-        ]
-      },
-      {
-        "host": "dns-za.dnsafrica.net",
-        "ipList": [
-          "41.185.30.170"
-        ]
-      },
-      {
-        "host": "sunic.sunet.se",
-        "ipList": [
-          "192.36.125.2",
-          "2001:6b0:7:0:0:0:0:2"
-        ]
-      }
-    ],
-    "lastUpdated": "2024-05-17",
-    "registeredOn": "1997-01-14"
   },
   {
     "id": 243,
@@ -12251,21 +11332,6 @@
     "registeredOn": "2016-03-03"
   },
   {
-    "id": 251,
-    "tld": ".chloe",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/chloe.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2017-10-06",
-    "registeredOn": "2015-01-08"
-  },
-  {
     "id": 252,
     "tld": ".christmas",
     "category": "generic",
@@ -12359,21 +11425,6 @@
     ],
     "lastUpdated": "2025-04-11",
     "registeredOn": "2014-09-04"
-  },
-  {
-    "id": 254,
-    "tld": ".chrysler",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/chrysler.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2019-11-20",
-    "registeredOn": "2016-07-07"
   },
   {
     "id": 255,
@@ -12880,61 +11931,6 @@
     ],
     "lastUpdated": "2023-09-12",
     "registeredOn": "2014-07-03"
-  },
-  {
-    "id": 264,
-    "tld": ".cityeats",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/cityeats.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2023-10-18",
-    "registeredOn": "2015-09-24"
-  },
-  {
-    "id": 265,
-    "tld": ".ck",
-    "category": "country-code",
-    "sponsoringOrganization": "Telecom Cook Islands Ltd.",
-    "infoUrl": "https://www.iana.org/domains/root/db/ck.html",
-    "registry": {
-      "registrationServiceUrl": "http://www.vodafone.co.ck",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "circa.mcs.vuw.ac.nz",
-        "ipList": [
-          "130.195.5.12"
-        ]
-      },
-      {
-        "host": "downstage.mcs.vuw.ac.nz",
-        "ipList": [
-          "130.195.6.10"
-        ]
-      },
-      {
-        "host": "parau.oyster.net.ck",
-        "ipList": [
-          "202.65.32.128"
-        ]
-      },
-      {
-        "host": "poiparau.oyster.net.ck",
-        "ipList": [
-          "202.65.32.127"
-        ]
-      }
-    ],
-    "lastUpdated": "2020-06-17",
-    "registeredOn": "1995-08-08"
   },
   {
     "id": 266,
@@ -14035,21 +13031,6 @@
     "registeredOn": "1985-01-01"
   },
   {
-    "id": 285,
-    "tld": ".comcast",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/comcast.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2024-02-07",
-    "registeredOn": "2016-06-16"
-  },
-  {
     "id": 286,
     "tld": ".commbank",
     "category": "generic",
@@ -14730,21 +13711,6 @@
     ],
     "lastUpdated": "2024-04-16",
     "registeredOn": "2014-02-28"
-  },
-  {
-    "id": 298,
-    "tld": ".cookingchannel",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/cookingchannel.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2023-06-14",
-    "registeredOn": "2016-05-05"
   },
   {
     "id": 299,
@@ -15628,77 +14594,6 @@
     "registeredOn": "2014-01-30"
   },
   {
-    "id": 316,
-    "tld": ".csc",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/csc.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2022-02-01",
-    "registeredOn": "2015-08-06"
-  },
-  {
-    "id": 317,
-    "tld": ".cu",
-    "category": "country-code",
-    "sponsoringOrganization": "CENIAInternet",
-    "infoUrl": "https://www.iana.org/domains/root/db/cu.html",
-    "registry": {
-      "registrationServiceUrl": "http://www.nic.cu",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "cu.cctld.authdns.ripe.net",
-        "ipList": [
-          "193.0.9.70",
-          "2a13:27c0:30:0:0:0:0:70"
-        ]
-      },
-      {
-        "host": "ns.ceniai.net.cu",
-        "ipList": [
-          "169.158.128.136",
-          "2001:1340:1:128:0:0:0:136"
-        ]
-      },
-      {
-        "host": "ns.dns.br",
-        "ipList": [
-          "200.160.0.5",
-          "2001:12ff:0:a20:0:0:0:5"
-        ]
-      },
-      {
-        "host": "ns2.ceniai.net.cu",
-        "ipList": [
-          "169.158.128.88"
-        ]
-      },
-      {
-        "host": "ns2.gip.net",
-        "ipList": [
-          "204.59.1.222"
-        ]
-      },
-      {
-        "host": "rip.psg.com",
-        "ipList": [
-          "147.28.0.39",
-          "2001:418:1:0:0:0:0:39"
-        ]
-      }
-    ],
-    "lastUpdated": "2025-07-09",
-    "registeredOn": "1992-06-03"
-  },
-  {
     "id": 318,
     "tld": ".cuisinella",
     "category": "generic",
@@ -15800,69 +14695,6 @@
     "registeredOn": "1996-10-21"
   },
   {
-    "id": 320,
-    "tld": ".cw",
-    "category": "country-code",
-    "sponsoringOrganization": "University of Curacao",
-    "infoUrl": "https://www.iana.org/domains/root/db/cw.html",
-    "registry": {
-      "registrationServiceUrl": "http://www.uoc.cw/cw-registry",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "cw.cctld.authdns.ripe.net",
-        "ipList": [
-          "193.0.9.86",
-          "2a13:27c0:30:0:0:0:0:86"
-        ]
-      },
-      {
-        "host": "kadushi.curinfo.cw",
-        "ipList": [
-          "65.208.122.63"
-        ]
-      },
-      {
-        "host": "ns0.ja.net",
-        "ipList": [
-          "193.63.94.20",
-          "128.86.1.20",
-          "2001:630:0:9:0:0:0:14",
-          "2001:630:0:8:0:0:0:14"
-        ]
-      },
-      {
-        "host": "ns01-server.curinfo.cw",
-        "ipList": [
-          "65.208.122.36"
-        ]
-      },
-      {
-        "host": "ns1.bna.cw",
-        "ipList": [
-          "216.122.189.85"
-        ]
-      },
-      {
-        "host": "ns1.dns.cw",
-        "ipList": [
-          "194.0.28.6",
-          "2001:678:2c:0:194:0:28:6"
-        ]
-      },
-      {
-        "host": "ns2.bna.cw",
-        "ipList": [
-          "216.122.189.86"
-        ]
-      }
-    ],
-    "lastUpdated": "2025-07-07",
-    "registeredOn": "2010-12-20"
-  },
-  {
     "id": 321,
     "tld": ".cx",
     "category": "country-code",
@@ -15897,62 +14729,6 @@
     ],
     "lastUpdated": "2024-02-16",
     "registeredOn": "1997-04-24"
-  },
-  {
-    "id": 322,
-    "tld": ".cy",
-    "category": "country-code",
-    "sponsoringOrganization": "University of Cyprus",
-    "infoUrl": "https://www.iana.org/domains/root/db/cy.html",
-    "registry": {
-      "registrationServiceUrl": "http://www.nic.cy",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "cy-ns.anycast.pch.net",
-        "ipList": [
-          "204.61.216.44",
-          "2001:500:14:6044:ad:0:0:1"
-        ]
-      },
-      {
-        "host": "cynic4.dns.cy",
-        "ipList": [
-          "194.42.29.16"
-        ]
-      },
-      {
-        "host": "cynic6.dns.cy",
-        "ipList": [
-          "194.42.29.5"
-        ]
-      },
-      {
-        "host": "estia.ics.forth.gr",
-        "ipList": [
-          "139.91.191.3",
-          "2001:648:2c30:0:0:0:191:3"
-        ]
-      },
-      {
-        "host": "ns31.rcode0.net",
-        "ipList": [
-          "194.0.25.31",
-          "2001:678:20:0:0:0:0:31"
-        ]
-      },
-      {
-        "host": "ns4.apnic.net",
-        "ipList": [
-          "202.12.31.53",
-          "2001:dd8:12:0:0:0:0:53"
-        ]
-      }
-    ],
-    "lastUpdated": "2024-08-13",
-    "registeredOn": "1994-07-26"
   },
   {
     "id": 323,
@@ -16113,21 +14889,6 @@
     ],
     "lastUpdated": "2023-03-07",
     "registeredOn": "1993-01-13"
-  },
-  {
-    "id": 326,
-    "tld": ".dabur",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/dabur.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2024-09-25",
-    "registeredOn": "2015-01-15"
   },
   {
     "id": 327,
@@ -17975,40 +16736,6 @@
     "registeredOn": "2016-07-21"
   },
   {
-    "id": 361,
-    "tld": ".dj",
-    "category": "country-code",
-    "sponsoringOrganization": "Djibouti Telecom S.A",
-    "infoUrl": "https://www.iana.org/domains/root/db/dj.html",
-    "registry": {
-      "registrationServiceUrl": "http://www.nic.dj",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "ns1.djibtelecom.dj",
-        "ipList": [
-          "197.241.17.175"
-        ]
-      },
-      {
-        "host": "ns2.djibtelecom.dj",
-        "ipList": [
-          "196.201.196.54"
-        ]
-      },
-      {
-        "host": "ns3.djibtelecom.dj",
-        "ipList": [
-          "52.213.131.190"
-        ]
-      }
-    ],
-    "lastUpdated": "2024-12-25",
-    "registeredOn": "1996-05-22"
-  },
-  {
     "id": 362,
     "tld": ".dk",
     "category": "country-code",
@@ -18341,21 +17068,6 @@
     "registeredOn": "2016-07-14"
   },
   {
-    "id": 368,
-    "tld": ".dodge",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/dodge.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2019-11-20",
-    "registeredOn": "2016-07-07"
-  },
-  {
     "id": 369,
     "tld": ".dog",
     "category": "generic",
@@ -18414,21 +17126,6 @@
     "registeredOn": "2015-04-16"
   },
   {
-    "id": 370,
-    "tld": ".doha",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/doha.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2019-04-10",
-    "registeredOn": "2015-02-27"
-  },
-  {
     "id": 371,
     "tld": ".domains",
     "category": "generic",
@@ -18485,21 +17182,6 @@
     ],
     "lastUpdated": "2023-09-12",
     "registeredOn": "2013-12-12"
-  },
-  {
-    "id": 372,
-    "tld": ".doosan",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/doosan.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2016-02-24",
-    "registeredOn": "2014-10-30"
   },
   {
     "id": 373,
@@ -18743,21 +17425,6 @@
     "registeredOn": "2015-12-17"
   },
   {
-    "id": 378,
-    "tld": ".duck",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/duck.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2021-12-03",
-    "registeredOn": "2016-07-14"
-  },
-  {
     "id": 379,
     "tld": ".dunlop",
     "category": "generic",
@@ -18800,21 +17467,6 @@
     ],
     "lastUpdated": "2023-08-11",
     "registeredOn": "2015-12-17"
-  },
-  {
-    "id": 380,
-    "tld": ".duns",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/duns.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2019-08-31",
-    "registeredOn": "2016-07-14"
   },
   {
     "id": 381,
@@ -19512,57 +18164,6 @@
     "registeredOn": "1992-06-03"
   },
   {
-    "id": 394,
-    "tld": ".eg",
-    "category": "country-code",
-    "sponsoringOrganization": "Egyptian Universities Network (EUN) Supreme Council of Universities",
-    "infoUrl": "https://www.iana.org/domains/root/db/eg.html",
-    "registry": {
-      "registrationServiceUrl": "http://www.egregistry.eg/",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "dns-eg.univie.ac.at",
-        "ipList": [
-          "78.104.145.8",
-          "2001:628:453:bb:0:0:0:8"
-        ]
-      },
-      {
-        "host": "frcu.eun.eg",
-        "ipList": [
-          "193.227.1.1"
-        ]
-      },
-      {
-        "host": "rip.psg.com",
-        "ipList": [
-          "147.28.0.39",
-          "2001:418:1:0:0:0:0:39"
-        ]
-      }
-    ],
-    "lastUpdated": "2024-04-24",
-    "registeredOn": "1990-11-30"
-  },
-  {
-    "id": 395,
-    "tld": ".eh",
-    "category": "country-code",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/eh.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "1999-09-26",
-    "registeredOn": ""
-  },
-  {
     "id": 396,
     "tld": ".email",
     "category": "generic",
@@ -19663,21 +18264,6 @@
     ],
     "lastUpdated": "2023-10-16",
     "registeredOn": "2014-09-11"
-  },
-  {
-    "id": 398,
-    "tld": ".emerson",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/emerson.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2016-10-25",
-    "registeredOn": "2015-12-10"
   },
   {
     "id": 399,
@@ -19912,21 +18498,6 @@
     "registeredOn": "2013-11-13"
   },
   {
-    "id": 403,
-    "tld": ".epost",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/epost.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2019-02-15",
-    "registeredOn": "2016-05-26"
-  },
-  {
     "id": 404,
     "tld": ".epson",
     "category": "generic",
@@ -20026,41 +18597,6 @@
     ],
     "lastUpdated": "2023-09-12",
     "registeredOn": "2013-10-31"
-  },
-  {
-    "id": 406,
-    "tld": ".er",
-    "category": "country-code",
-    "sponsoringOrganization": "Eritrea Telecommunication Services Corporation (EriTel)",
-    "infoUrl": "https://www.iana.org/domains/root/db/er.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "er.cctld.authdns.ripe.net",
-        "ipList": [
-          "193.0.9.72",
-          "2001:67c:e0:0:0:0:0:72"
-        ]
-      },
-      {
-        "host": "sawanew.noc.net.er",
-        "ipList": [
-          "196.200.96.1"
-        ]
-      },
-      {
-        "host": "zaranew.noc.net.er",
-        "ipList": [
-          "196.200.96.2"
-        ]
-      }
-    ],
-    "lastUpdated": "2023-11-01",
-    "registeredOn": "1996-09-24"
   },
   {
     "id": 407,
@@ -20304,76 +18840,6 @@
     "registeredOn": "2013-11-08"
   },
   {
-    "id": 412,
-    "tld": ".esurance",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/esurance.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2020-05-26",
-    "registeredOn": "2016-06-24"
-  },
-  {
-    "id": 413,
-    "tld": ".et",
-    "category": "country-code",
-    "sponsoringOrganization": "Ethio telecom",
-    "infoUrl": "https://www.iana.org/domains/root/db/et.html",
-    "registry": {
-      "registrationServiceUrl": "http://www.ethiotelecom.et",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "a.nic.et",
-        "ipList": [
-          "197.156.74.192"
-        ]
-      },
-      {
-        "host": "b.nic.et",
-        "ipList": [
-          "197.156.74.193"
-        ]
-      },
-      {
-        "host": "c.nic.et",
-        "ipList": [
-          "196.188.116.180"
-        ]
-      },
-      {
-        "host": "d.nic.et",
-        "ipList": [
-          "196.188.116.181"
-        ]
-      }
-    ],
-    "lastUpdated": "2025-04-04",
-    "registeredOn": "1995-10-15"
-  },
-  {
-    "id": 414,
-    "tld": ".etisalat",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/etisalat.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2023-11-17",
-    "registeredOn": "2017-05-11"
-  },
-  {
     "id": 415,
     "tld": ".eu",
     "category": "country-code",
@@ -20568,21 +19034,6 @@
     ],
     "lastUpdated": "2023-09-12",
     "registeredOn": "2014-01-30"
-  },
-  {
-    "id": 419,
-    "tld": ".everbank",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/everbank.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2019-11-15",
-    "registeredOn": "2014-07-31"
   },
   {
     "id": 420,
@@ -21768,21 +20219,6 @@
     "registeredOn": "1986-12-17"
   },
   {
-    "id": 441,
-    "tld": ".fiat",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/fiat.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2023-06-05",
-    "registeredOn": "2016-07-14"
-  },
-  {
     "id": 442,
     "tld": ".fidelity",
     "category": "generic",
@@ -22529,40 +20965,6 @@
     "registeredOn": "1992-06-03"
   },
   {
-    "id": 456,
-    "tld": ".fk",
-    "category": "country-code",
-    "sponsoringOrganization": "Falkland Islands Government",
-    "infoUrl": "https://www.iana.org/domains/root/db/fk.html",
-    "registry": {
-      "registrationServiceUrl": "http://www.sure.co.fk",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "ns1.horizon.net.fk",
-        "ipList": [
-          "80.73.216.250"
-        ]
-      },
-      {
-        "host": "ns2.horizon.net.fk",
-        "ipList": [
-          "80.73.216.251"
-        ]
-      },
-      {
-        "host": "ns3.horizon.net.fk",
-        "ipList": [
-          "93.187.151.42"
-        ]
-      }
-    ],
-    "lastUpdated": "2024-10-17",
-    "registeredOn": "1997-03-26"
-  },
-  {
     "id": 457,
     "tld": ".flickr",
     "category": "generic",
@@ -22839,21 +21241,6 @@
     "registeredOn": "2014-12-18"
   },
   {
-    "id": 462,
-    "tld": ".flsmidth",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/flsmidth.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2016-07-29",
-    "registeredOn": "2014-09-25"
-  },
-  {
     "id": 463,
     "tld": ".fly",
     "category": "generic",
@@ -23100,21 +21487,6 @@
     ],
     "lastUpdated": "2025-05-15",
     "registeredOn": "2016-11-04"
-  },
-  {
-    "id": 468,
-    "tld": ".foodnetwork",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/foodnetwork.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2023-06-14",
-    "registeredOn": "2016-05-05"
   },
   {
     "id": 469,
@@ -23750,21 +22122,6 @@
     "registeredOn": "2014-04-03"
   },
   {
-    "id": 481,
-    "tld": ".frontdoor",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/frontdoor.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2023-10-18",
-    "registeredOn": "2016-05-05"
-  },
-  {
     "id": 482,
     "tld": ".frontier",
     "category": "generic",
@@ -23922,21 +22279,6 @@
     ],
     "lastUpdated": "2023-06-12",
     "registeredOn": "2016-06-30"
-  },
-  {
-    "id": 485,
-    "tld": ".fujixerox",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/fujixerox.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2021-03-26",
-    "registeredOn": "2016-07-07"
   },
   {
     "id": 486,
@@ -24213,43 +22555,6 @@
     ],
     "lastUpdated": "2023-09-12",
     "registeredOn": "2015-05-14"
-  },
-  {
-    "id": 491,
-    "tld": ".ga",
-    "category": "country-code",
-    "sponsoringOrganization": "Agence Nationale des Infrastructures Numériques et des Fréquences (ANINF)",
-    "infoUrl": "https://www.iana.org/domains/root/db/ga.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "d.nic.fr",
-        "ipList": [
-          "194.0.9.1",
-          "2001:678:c:0:0:0:0:1"
-        ]
-      },
-      {
-        "host": "f.ext.nic.fr",
-        "ipList": [
-          "194.146.106.46",
-          "2001:67c:1010:11:0:0:0:53"
-        ]
-      },
-      {
-        "host": "g.ext.nic.fr",
-        "ipList": [
-          "194.0.36.1",
-          "2001:678:4c:0:0:0:0:1"
-        ]
-      }
-    ],
-    "lastUpdated": "2025-06-11",
-    "registeredOn": "1994-12-12"
   },
   {
     "id": 492,
@@ -24716,44 +23021,6 @@
     ],
     "lastUpdated": "2024-04-16",
     "registeredOn": "2019-07-19"
-  },
-  {
-    "id": 501,
-    "tld": ".gb",
-    "category": "country-code",
-    "sponsoringOrganization": "Reserved Domain - IANA",
-    "infoUrl": "https://www.iana.org/domains/root/db/gb.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "ns.uu.net",
-        "ipList": [
-          "137.39.1.3"
-        ]
-      },
-      {
-        "host": "ns0.ja.net",
-        "ipList": [
-          "193.63.94.20",
-          "128.86.1.20",
-          "2001:630:0:9:0:0:0:14",
-          "2001:630:0:8:0:0:0:14"
-        ]
-      },
-      {
-        "host": "ns4.ja.net",
-        "ipList": [
-          "193.62.157.66",
-          "2001:630:0:47:0:0:0:42"
-        ]
-      }
-    ],
-    "lastUpdated": "2024-09-10",
-    "registeredOn": "1985-07-24"
   },
   {
     "id": 502,
@@ -25619,21 +23886,6 @@
     "registeredOn": "1994-04-08"
   },
   {
-    "id": 520,
-    "tld": ".glade",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/glade.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2021-12-03",
-    "registeredOn": "2016-07-14"
-  },
-  {
     "id": 521,
     "tld": ".glass",
     "category": "generic",
@@ -25843,42 +24095,6 @@
     ],
     "lastUpdated": "2024-01-11",
     "registeredOn": "2014-02-20"
-  },
-  {
-    "id": 525,
-    "tld": ".gm",
-    "category": "country-code",
-    "sponsoringOrganization": "GM-NIC",
-    "infoUrl": "https://www.iana.org/domains/root/db/gm.html",
-    "registry": {
-      "registrationServiceUrl": "http://www.nic.gm",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "ns-gm.afrinic.net",
-        "ipList": [
-          "196.216.168.29",
-          "2001:43f8:120:0:0:0:0:29"
-        ]
-      },
-      {
-        "host": "ns1.nic.gm",
-        "ipList": [
-          "194.63.250.217"
-        ]
-      },
-      {
-        "host": "ns2.nic.gm",
-        "ipList": [
-          "209.250.227.199",
-          "2a05:f480:1000:235:5400:4ff:fee5:2f89"
-        ]
-      }
-    ],
-    "lastUpdated": "2025-02-27",
-    "registeredOn": "1997-03-28"
   },
   {
     "id": 526,
@@ -26380,21 +24596,6 @@
     "registeredOn": "2015-02-13"
   },
   {
-    "id": 536,
-    "tld": ".goodhands",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/goodhands.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2018-09-20",
-    "registeredOn": "2016-02-05"
-  },
-  {
     "id": 537,
     "tld": ".goodyear",
     "category": "generic",
@@ -26820,62 +25021,6 @@
     ],
     "lastUpdated": "2023-08-14",
     "registeredOn": "1997-07-10"
-  },
-  {
-    "id": 545,
-    "tld": ".gr",
-    "category": "country-code",
-    "sponsoringOrganization": "ICS-FORTH GR",
-    "infoUrl": "https://www.iana.org/domains/root/db/gr.html",
-    "registry": {
-      "registrationServiceUrl": "http://www.gr",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "estia.ics.forth.gr",
-        "ipList": [
-          "139.91.191.3",
-          "2001:648:2c30:0:0:0:191:3"
-        ]
-      },
-      {
-        "host": "gr-at.ics.forth.gr",
-        "ipList": [
-          "78.104.145.227"
-        ]
-      },
-      {
-        "host": "gr-c.ics.forth.gr",
-        "ipList": [
-          "194.0.1.25",
-          "2001:678:4:0:0:0:0:19"
-        ]
-      },
-      {
-        "host": "gr-d.ics.forth.gr",
-        "ipList": [
-          "194.0.11.102",
-          "2001:678:e:102:0:0:0:53"
-        ]
-      },
-      {
-        "host": "gr-m.ics.forth.gr",
-        "ipList": [
-          "194.0.4.10",
-          "2001:678:7:0:0:0:4:10"
-        ]
-      },
-      {
-        "host": "grdns.ics.forth.gr",
-        "ipList": [
-          "139.91.1.1"
-        ]
-      }
-    ],
-    "lastUpdated": "2022-06-16",
-    "registeredOn": "1989-02-19"
   },
   {
     "id": 546,
@@ -27306,122 +25451,6 @@
     "registeredOn": "1997-07-31"
   },
   {
-    "id": 554,
-    "tld": ".gt",
-    "category": "country-code",
-    "sponsoringOrganization": "Universidad del Valle de Guatemala",
-    "infoUrl": "https://www.iana.org/domains/root/db/gt.html",
-    "registry": {
-      "registrationServiceUrl": "http://www.gt",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "a.lactld.org",
-        "ipList": [
-          "200.0.68.10",
-          "2801:14:a000:0:0:0:0:10"
-        ]
-      },
-      {
-        "host": "gt-e.ns.nic.cz",
-        "ipList": [
-          "185.43.134.14",
-          "2001:148f:fffd:0:0:0:0:14"
-        ]
-      },
-      {
-        "host": "gt.anycastdns.cz",
-        "ipList": [
-          "185.38.108.108",
-          "185.28.194.194",
-          "2a00:fea0:dead:0:0:0:0:beef"
-        ]
-      },
-      {
-        "host": "ns.dns.br",
-        "ipList": [
-          "200.160.0.5",
-          "2001:12ff:0:a20:0:0:0:5"
-        ]
-      },
-      {
-        "host": "pch.gt",
-        "ipList": [
-          "204.61.216.95",
-          "2001:500:14:6095:ad:0:0:1"
-        ]
-      },
-      {
-        "host": "ssdns-tld.nic.cl",
-        "ipList": [
-          "200.7.5.14",
-          "2001:1398:276:0:200:7:5:14"
-        ]
-      }
-    ],
-    "lastUpdated": "2024-01-16",
-    "registeredOn": "1992-08-14"
-  },
-  {
-    "id": 555,
-    "tld": ".gu",
-    "category": "country-code",
-    "sponsoringOrganization": "University of Guam",
-    "infoUrl": "https://www.iana.org/domains/root/db/gu.html",
-    "registry": {
-      "registrationServiceUrl": "https://give.uog.edu/shop/",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "gold.uog.edu",
-        "ipList": [
-          "168.123.250.66"
-        ]
-      },
-      {
-        "host": "green.uog.edu",
-        "ipList": [
-          "168.123.250.56"
-        ]
-      },
-      {
-        "host": "gu.cctld.authdns.ripe.net",
-        "ipList": [
-          "193.0.9.78",
-          "2001:67c:e0:0:0:0:0:78"
-        ]
-      },
-      {
-        "host": "phloem.uoregon.edu",
-        "ipList": [
-          "128.223.32.35",
-          "2001:468:d01:20:0:0:80df:2023"
-        ]
-      }
-    ],
-    "lastUpdated": "2022-08-04",
-    "registeredOn": "1994-04-15"
-  },
-  {
-    "id": 556,
-    "tld": ".guardian",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/guardian.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2024-03-05",
-    "registeredOn": "2016-04-14"
-  },
-  {
     "id": 557,
     "tld": ".gucci",
     "category": "generic",
@@ -27703,43 +25732,6 @@
     ],
     "lastUpdated": "2023-09-12",
     "registeredOn": "2013-10-31"
-  },
-  {
-    "id": 562,
-    "tld": ".gw",
-    "category": "country-code",
-    "sponsoringOrganization": "Autoridade Reguladora Nacional - Tecnologias de Informação e Comunicação da Guiné-Bissau",
-    "infoUrl": "https://www.iana.org/domains/root/db/gw.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "gw01.dns.pt",
-        "ipList": [
-          "185.39.208.19",
-          "2a04:6d80:0:0:0:0:0:19"
-        ]
-      },
-      {
-        "host": "gw03.dns.pt",
-        "ipList": [
-          "204.61.216.114",
-          "2001:500:14:6114:ad:0:0:1"
-        ]
-      },
-      {
-        "host": "h.dns.pt",
-        "ipList": [
-          "194.146.106.138",
-          "2001:67c:1010:35:0:0:0:53"
-        ]
-      }
-    ],
-    "lastUpdated": "2022-07-11",
-    "registeredOn": "1997-02-04"
   },
   {
     "id": 563,
@@ -28405,21 +26397,6 @@
     ],
     "lastUpdated": "2023-08-31",
     "registeredOn": "2014-10-30"
-  },
-  {
-    "id": 577,
-    "tld": ".hgtv",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/hgtv.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2023-06-14",
-    "registeredOn": "2016-05-05"
   },
   {
     "id": 578,
@@ -29217,21 +27194,6 @@
     "registeredOn": "2015-03-06"
   },
   {
-    "id": 594,
-    "tld": ".honeywell",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/honeywell.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2019-06-07",
-    "registeredOn": "2016-06-03"
-  },
-  {
     "id": 595,
     "tld": ".horse",
     "category": "generic",
@@ -29506,21 +27468,6 @@
     ],
     "lastUpdated": "2025-02-14",
     "registeredOn": "2016-07-21"
-  },
-  {
-    "id": 600,
-    "tld": ".hoteles",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/hoteles.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2023-07-08",
-    "registeredOn": "2015-05-14"
   },
   {
     "id": 601,
@@ -29892,21 +27839,6 @@
     ],
     "lastUpdated": "2025-03-05",
     "registeredOn": "1997-03-06"
-  },
-  {
-    "id": 608,
-    "tld": ".htc",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/htc.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2017-10-24",
-    "registeredOn": "2016-03-03"
   },
   {
     "id": 609,
@@ -30545,21 +28477,6 @@
     ],
     "lastUpdated": "2022-01-07",
     "registeredOn": "2015-01-15"
-  },
-  {
-    "id": 621,
-    "tld": ".iinet",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/iinet.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2016-12-21",
-    "registeredOn": "2014-08-18"
   },
   {
     "id": 622,
@@ -31531,21 +29448,6 @@
     "registeredOn": "1988-11-03"
   },
   {
-    "id": 640,
-    "tld": ".intel",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/intel.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2020-10-07",
-    "registeredOn": "2016-04-21"
-  },
-  {
     "id": 641,
     "tld": ".international",
     "category": "generic",
@@ -32018,21 +29920,6 @@
     "registeredOn": "1987-11-18"
   },
   {
-    "id": 650,
-    "tld": ".iselect",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/iselect.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2019-08-05",
-    "registeredOn": "2015-11-20"
-  },
-  {
     "id": 651,
     "tld": ".ismaili",
     "category": "generic",
@@ -32325,36 +30212,6 @@
     "registeredOn": "2016-05-19"
   },
   {
-    "id": 657,
-    "tld": ".iveco",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/iveco.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2021-04-21",
-    "registeredOn": "2016-10-27"
-  },
-  {
-    "id": 658,
-    "tld": ".iwc",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/iwc.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2018-06-28",
-    "registeredOn": "2014-11-20"
-  },
-  {
     "id": 659,
     "tld": ".jaguar",
     "category": "generic",
@@ -32484,21 +30341,6 @@
     ],
     "lastUpdated": "2019-08-20",
     "registeredOn": "2015-01-08"
-  },
-  {
-    "id": 662,
-    "tld": ".jcp",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/jcp.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2020-11-20",
-    "registeredOn": "2016-03-03"
   },
   {
     "id": 663,
@@ -32763,21 +30605,6 @@
     "registeredOn": "2016-08-11"
   },
   {
-    "id": 668,
-    "tld": ".jlc",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/jlc.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2018-09-18",
-    "registeredOn": "2015-03-12"
-  },
-  {
     "id": 669,
     "tld": ".jll",
     "category": "generic",
@@ -32820,48 +30647,6 @@
     ],
     "lastUpdated": "2023-08-11",
     "registeredOn": "2015-05-14"
-  },
-  {
-    "id": 670,
-    "tld": ".jm",
-    "category": "country-code",
-    "sponsoringOrganization": "University of West Indies",
-    "infoUrl": "https://www.iana.org/domains/root/db/jm.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "jm.cctld.authdns.ripe.net",
-        "ipList": [
-          "193.0.9.82",
-          "2a13:27c0:30:0:0:0:0:82"
-        ]
-      },
-      {
-        "host": "ns.jm",
-        "ipList": [
-          "196.2.1.6"
-        ]
-      },
-      {
-        "host": "ns3-jm.fsl.org.jm",
-        "ipList": [
-          "196.3.191.66"
-        ]
-      },
-      {
-        "host": "phloem.uoregon.edu",
-        "ipList": [
-          "128.223.32.35",
-          "2001:468:d01:20:0:0:80df:2023"
-        ]
-      }
-    ],
-    "lastUpdated": "2025-07-10",
-    "registeredOn": "1991-09-24"
   },
   {
     "id": 671,
@@ -32964,62 +30749,6 @@
     ],
     "lastUpdated": "2025-04-09",
     "registeredOn": "2016-01-14"
-  },
-  {
-    "id": 673,
-    "tld": ".jo",
-    "category": "country-code",
-    "sponsoringOrganization": "Ministry of Digital Economy and Entrepreneurship (MoDEE)",
-    "infoUrl": "https://www.iana.org/domains/root/db/jo.html",
-    "registry": {
-      "registrationServiceUrl": "https://www.dns.jo",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "amra.nic.gov.jo",
-        "ipList": [
-          "193.188.66.103"
-        ]
-      },
-      {
-        "host": "cloudns.nic.net.jo",
-        "ipList": [
-          "54.155.28.251",
-          "2a05:d018:123c:3500:3e00:7185:3a6e:e082"
-        ]
-      },
-      {
-        "host": "jo.cctld.authdns.ripe.net",
-        "ipList": [
-          "193.0.9.83",
-          "2a13:27c0:30:0:0:0:0:83"
-        ]
-      },
-      {
-        "host": "jordan1st.nic.gov.jo",
-        "ipList": [
-          "193.188.69.19",
-          "2a02:9c0:0:19:0:0:0:19"
-        ]
-      },
-      {
-        "host": "petra.nic.gov.jo",
-        "ipList": [
-          "193.188.66.2"
-        ]
-      },
-      {
-        "host": "rip.psg.com",
-        "ipList": [
-          "147.28.0.39",
-          "2001:418:1:0:0:0:0:39"
-        ]
-      }
-    ],
-    "lastUpdated": "2025-07-14",
-    "registeredOn": "1994-11-23"
   },
   {
     "id": 674,
@@ -33728,21 +31457,6 @@
     "registeredOn": "2015-12-17"
   },
   {
-    "id": 687,
-    "tld": ".kerrylogistics",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/kerrylogistics.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2025-02-27",
-    "registeredOn": "2015-12-17"
-  },
-  {
     "id": 688,
     "tld": ".kerryproperties",
     "category": "generic",
@@ -33866,47 +31580,6 @@
     ],
     "lastUpdated": "2025-07-23",
     "registeredOn": "1995-07-12"
-  },
-  {
-    "id": 691,
-    "tld": ".kh",
-    "category": "country-code",
-    "sponsoringOrganization": "Telecommunication Regulator of Cambodia (TRC)",
-    "infoUrl": "https://www.iana.org/domains/root/db/kh.html",
-    "registry": {
-      "registrationServiceUrl": "http://www.tc.com.kh",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "dns1.online.com.kh",
-        "ipList": [
-          "203.189.128.1"
-        ]
-      },
-      {
-        "host": "ns.camnet.com.kh",
-        "ipList": [
-          "203.223.32.3"
-        ]
-      },
-      {
-        "host": "ns1.dns.net.kh",
-        "ipList": [
-          "203.223.32.21"
-        ]
-      },
-      {
-        "host": "ns4.apnic.net",
-        "ipList": [
-          "202.12.31.53",
-          "2001:dd8:12:0:0:0:0:53"
-        ]
-      }
-    ],
-    "lastUpdated": "2019-05-28",
-    "registeredOn": "1996-02-20"
   },
   {
     "id": 692,
@@ -34074,21 +31747,6 @@
     ],
     "lastUpdated": "2023-09-01",
     "registeredOn": "2013-12-19"
-  },
-  {
-    "id": 696,
-    "tld": ".kinder",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/kinder.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2023-11-02",
-    "registeredOn": "2015-09-10"
   },
   {
     "id": 697,
@@ -34265,41 +31923,6 @@
     "registeredOn": "2013-11-25"
   },
   {
-    "id": 700,
-    "tld": ".km",
-    "category": "country-code",
-    "sponsoringOrganization": "Comores Telecom",
-    "infoUrl": "https://www.iana.org/domains/root/db/km.html",
-    "registry": {
-      "registrationServiceUrl": "http://www.domaine.km/",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "dns1.nic.km",
-        "ipList": [
-          "197.255.224.18"
-        ]
-      },
-      {
-        "host": "dns2.nic.km",
-        "ipList": [
-          "197.255.224.66"
-        ]
-      },
-      {
-        "host": "ns-km.afrinic.net",
-        "ipList": [
-          "196.216.168.46",
-          "2001:43f8:120:0:0:0:0:46"
-        ]
-      }
-    ],
-    "lastUpdated": "2020-06-01",
-    "registeredOn": "1998-06-08"
-  },
-  {
     "id": 701,
     "tld": ".kn",
     "category": "country-code",
@@ -34458,34 +32081,6 @@
     ],
     "lastUpdated": "2023-08-07",
     "registeredOn": "2016-06-03"
-  },
-  {
-    "id": 705,
-    "tld": ".kp",
-    "category": "country-code",
-    "sponsoringOrganization": "Star Joint Venture Company",
-    "infoUrl": "https://www.iana.org/domains/root/db/kp.html",
-    "registry": {
-      "registrationServiceUrl": "http://www.star.co.kp",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "ns1.kptc.kp",
-        "ipList": [
-          "175.45.176.15"
-        ]
-      },
-      {
-        "host": "ns2.kptc.kp",
-        "ipList": [
-          "175.45.176.16"
-        ]
-      }
-    ],
-    "lastUpdated": "2024-10-14",
-    "registeredOn": "2007-09-24"
   },
   {
     "id": 706,
@@ -34792,55 +32387,6 @@
     "registeredOn": "2015-12-17"
   },
   {
-    "id": 712,
-    "tld": ".kw",
-    "category": "country-code",
-    "sponsoringOrganization": "Communications and Information Technology Regulatory Authority",
-    "infoUrl": "https://www.iana.org/domains/root/db/kw.html",
-    "registry": {
-      "registrationServiceUrl": "http://www.nic.kw",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "a.nic.kw",
-        "ipList": [
-          "54.228.209.46"
-        ]
-      },
-      {
-        "host": "b.nic.kw",
-        "ipList": [
-          "168.187.192.106"
-        ]
-      },
-      {
-        "host": "c.nic.kw",
-        "ipList": [
-          "194.58.198.135",
-          "2a01:3f1:3032:8001:0:0:0:135"
-        ]
-      },
-      {
-        "host": "d.nic.kw",
-        "ipList": [
-          "185.42.137.135",
-          "2a01:3f0:400:8001:0:0:0:135"
-        ]
-      },
-      {
-        "host": "pch.nic.kw",
-        "ipList": [
-          "204.61.216.118",
-          "2001:500:14:6118:ad:0:0:1"
-        ]
-      }
-    ],
-    "lastUpdated": "2024-10-30",
-    "registeredOn": "1992-10-26"
-  },
-  {
     "id": 713,
     "tld": ".ky",
     "category": "country-code",
@@ -35053,21 +32599,6 @@
     "registeredOn": "2014-07-10"
   },
   {
-    "id": 718,
-    "tld": ".ladbrokes",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/ladbrokes.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2019-11-20",
-    "registeredOn": "2016-07-14"
-  },
-  {
     "id": 719,
     "tld": ".lamborghini",
     "category": "generic",
@@ -35154,51 +32685,6 @@
     ],
     "lastUpdated": "2023-08-11",
     "registeredOn": "2015-12-10"
-  },
-  {
-    "id": 721,
-    "tld": ".lancaster",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/lancaster.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2025-04-29",
-    "registeredOn": "2015-06-18"
-  },
-  {
-    "id": 722,
-    "tld": ".lancia",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/lancia.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2023-06-05",
-    "registeredOn": "2016-07-14"
-  },
-  {
-    "id": 723,
-    "tld": ".lancome",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/lancome.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2019-11-28",
-    "registeredOn": "2016-07-07"
   },
   {
     "id": 724,
@@ -35746,64 +33232,6 @@
     "registeredOn": "1993-08-25"
   },
   {
-    "id": 734,
-    "tld": ".lc",
-    "category": "country-code",
-    "sponsoringOrganization": "University of Puerto Rico",
-    "infoUrl": "https://www.iana.org/domains/root/db/lc.html",
-    "registry": {
-      "registrationServiceUrl": "http://www.nic.lc",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "a0.cctld.afilias-nst.info",
-        "ipList": [
-          "199.254.59.1",
-          "2001:500:25:0:0:0:0:1"
-        ]
-      },
-      {
-        "host": "a2.cctld.afilias-nst.info",
-        "ipList": [
-          "199.249.116.1",
-          "2001:500:44:0:0:0:0:1"
-        ]
-      },
-      {
-        "host": "b0.cctld.afilias-nst.org",
-        "ipList": [
-          "199.254.60.1",
-          "2001:500:26:0:0:0:0:1"
-        ]
-      },
-      {
-        "host": "b2.cctld.afilias-nst.org",
-        "ipList": [
-          "199.249.124.1",
-          "2001:500:4c:0:0:0:0:1"
-        ]
-      },
-      {
-        "host": "c0.cctld.afilias-nst.info",
-        "ipList": [
-          "199.254.61.1",
-          "2001:500:27:0:0:0:0:1"
-        ]
-      },
-      {
-        "host": "d0.cctld.afilias-nst.org",
-        "ipList": [
-          "199.254.62.1",
-          "2001:500:28:0:0:0:0:1"
-        ]
-      }
-    ],
-    "lastUpdated": "2023-01-18",
-    "registeredOn": "1991-09-03"
-  },
-  {
     "id": 735,
     "tld": ".lds",
     "category": "generic",
@@ -36239,21 +33667,6 @@
     ],
     "lastUpdated": "2024-11-21",
     "registeredOn": "1993-02-26"
-  },
-  {
-    "id": 744,
-    "tld": ".liaison",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/liaison.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2020-01-05",
-    "registeredOn": "2015-03-19"
   },
   {
     "id": 745,
@@ -36822,21 +34235,6 @@
     "registeredOn": "2015-12-10"
   },
   {
-    "id": 755,
-    "tld": ".linde",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/linde.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2023-03-17",
-    "registeredOn": "2015-09-03"
-  },
-  {
     "id": 756,
     "tld": ".link",
     "category": "generic",
@@ -36879,21 +34277,6 @@
     ],
     "lastUpdated": "2025-05-15",
     "registeredOn": "2014-01-09"
-  },
-  {
-    "id": 757,
-    "tld": ".lipsy",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/lipsy.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2025-02-27",
-    "registeredOn": "2016-04-21"
   },
   {
     "id": 758,
@@ -36996,92 +34379,6 @@
     ],
     "lastUpdated": "2025-05-15",
     "registeredOn": "2015-12-10"
-  },
-  {
-    "id": 760,
-    "tld": ".lixil",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/lixil.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2021-12-30",
-    "registeredOn": "2015-07-16"
-  },
-  {
-    "id": 761,
-    "tld": ".lk",
-    "category": "country-code",
-    "sponsoringOrganization": "Council for Information Technology LK Domain Registrar",
-    "infoUrl": "https://www.iana.org/domains/root/db/lk.html",
-    "registry": {
-      "registrationServiceUrl": "http://www.domains.lk/",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "d.nic.lk",
-        "ipList": [
-          "123.231.6.18",
-          "2402:4000:479:c5:0:0:0:a"
-        ]
-      },
-      {
-        "host": "h.nic.lk",
-        "ipList": [
-          "43.252.12.206",
-          "2404:8a00:0:a00:0:0:0:4005"
-        ]
-      },
-      {
-        "host": "m.nic.lk",
-        "ipList": [
-          "202.129.235.229",
-          "2407:c00:21:8:202:129:235:229"
-        ]
-      },
-      {
-        "host": "ns1.ac.lk",
-        "ipList": [
-          "192.248.1.162",
-          "2401:dd00:1:0:0:0:0:162"
-        ]
-      },
-      {
-        "host": "p.nic.lk",
-        "ipList": [
-          "204.61.216.27",
-          "2001:500:14:6027:ad:0:0:1"
-        ]
-      },
-      {
-        "host": "pendragon.cs.purdue.edu",
-        "ipList": [
-          "128.10.2.5"
-        ]
-      },
-      {
-        "host": "t.nic.lk",
-        "ipList": [
-          "203.94.66.129",
-          "2402:d000:100c:0:0:0:0:129"
-        ]
-      },
-      {
-        "host": "z.nic.lk",
-        "ipList": [
-          "185.38.108.108",
-          "2a00:fea0:dead:0:0:0:0:beef"
-        ]
-      }
-    ],
-    "lastUpdated": "2025-02-21",
-    "registeredOn": "1990-06-15"
   },
   {
     "id": 762,
@@ -37404,21 +34701,6 @@
     "registeredOn": "2016-02-26"
   },
   {
-    "id": 768,
-    "tld": ".loft",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/loft.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2022-12-17",
-    "registeredOn": "2016-07-21"
-  },
-  {
     "id": 769,
     "tld": ".lol",
     "category": "generic",
@@ -37726,43 +35008,6 @@
     "registeredOn": "2016-06-30"
   },
   {
-    "id": 776,
-    "tld": ".lr",
-    "category": "country-code",
-    "sponsoringOrganization": "Data Technology Solutions, Inc.",
-    "infoUrl": "https://www.iana.org/domains/root/db/lr.html",
-    "registry": {
-      "registrationServiceUrl": "http://psg.com/dns/lr",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "fork.sth.dnsnode.net",
-        "ipList": [
-          "77.72.229.254",
-          "2a01:3f0:0:306:0:0:0:53"
-        ]
-      },
-      {
-        "host": "ns-lr.afrinic.net",
-        "ipList": [
-          "196.216.168.61",
-          "2001:43f8:120:0:0:0:0:61"
-        ]
-      },
-      {
-        "host": "rip.psg.com",
-        "ipList": [
-          "147.28.0.39",
-          "2001:418:1:0:0:0:0:39"
-        ]
-      }
-    ],
-    "lastUpdated": "2024-04-03",
-    "registeredOn": "1997-04-09"
-  },
-  {
     "id": 777,
     "tld": ".ls",
     "category": "country-code",
@@ -38065,21 +35310,6 @@
     "registeredOn": "2016-06-16"
   },
   {
-    "id": 783,
-    "tld": ".lupin",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/lupin.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2020-12-10",
-    "registeredOn": "2015-03-19"
-  },
-  {
     "id": 784,
     "tld": ".luxe",
     "category": "generic",
@@ -38367,21 +35597,6 @@
     ],
     "lastUpdated": "2025-06-08",
     "registeredOn": "1993-11-26"
-  },
-  {
-    "id": 789,
-    "tld": ".macys",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/macys.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2023-03-07",
-    "registeredOn": "2016-06-24"
   },
   {
     "id": 790,
@@ -39061,21 +36276,6 @@
     "registeredOn": "2016-04-07"
   },
   {
-    "id": 803,
-    "tld": ".maserati",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/maserati.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2023-06-05",
-    "registeredOn": "2016-07-14"
-  },
-  {
     "id": 804,
     "tld": ".mattel",
     "category": "generic",
@@ -39190,76 +36390,6 @@
     ],
     "lastUpdated": "2023-09-12",
     "registeredOn": "2015-05-14"
-  },
-  {
-    "id": 806,
-    "tld": ".mc",
-    "category": "country-code",
-    "sponsoringOrganization": "Direction des Plateformes et des Ressources Numériques",
-    "infoUrl": "https://www.iana.org/domains/root/db/mc.html",
-    "registry": {
-      "registrationServiceUrl": "https://www.nic.mc/",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "mc.cctld.authdns.ripe.net",
-        "ipList": [
-          "193.0.9.92"
-        ]
-      },
-      {
-        "host": "ns1.nic.mc",
-        "ipList": [
-          "185.243.3.205"
-        ]
-      },
-      {
-        "host": "ns2.nic.mc",
-        "ipList": [
-          "13.36.89.111"
-        ]
-      },
-      {
-        "host": "ns3.nic.mc",
-        "ipList": [
-          "15.237.153.29"
-        ]
-      }
-    ],
-    "lastUpdated": "2024-10-22",
-    "registeredOn": "1995-01-20"
-  },
-  {
-    "id": 807,
-    "tld": ".mcd",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/mcd.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2017-09-01",
-    "registeredOn": "2016-07-07"
-  },
-  {
-    "id": 808,
-    "tld": ".mcdonalds",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/mcdonalds.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2017-09-01",
-    "registeredOn": "2016-07-07"
   },
   {
     "id": 809,
@@ -39870,21 +37000,6 @@
     "registeredOn": "2013-11-13"
   },
   {
-    "id": 820,
-    "tld": ".meo",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/meo.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2018-05-26",
-    "registeredOn": "2015-01-15"
-  },
-  {
     "id": 821,
     "tld": ".merckmsd",
     "category": "generic",
@@ -39943,36 +37058,6 @@
     "registeredOn": "2017-06-15"
   },
   {
-    "id": 822,
-    "tld": ".metlife",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/metlife.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2020-09-07",
-    "registeredOn": "2016-03-18"
-  },
-  {
-    "id": 823,
-    "tld": ".mf",
-    "category": "country-code",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/mf.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2008-05-29",
-    "registeredOn": "2007-10-11"
-  },
-  {
     "id": 824,
     "tld": ".mg",
     "category": "country-code",
@@ -40019,34 +37104,6 @@
     ],
     "lastUpdated": "2025-06-12",
     "registeredOn": "1995-07-25"
-  },
-  {
-    "id": 825,
-    "tld": ".mh",
-    "category": "country-code",
-    "sponsoringOrganization": "Office of the Cabinet",
-    "infoUrl": "https://www.iana.org/domains/root/db/mh.html",
-    "registry": {
-      "registrationServiceUrl": "http://www.nic.net.mh/",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "ns.amarshallinc.com",
-        "ipList": [
-          "71.163.249.97"
-        ]
-      },
-      {
-        "host": "ns.ntamar.net",
-        "ipList": [
-          "117.103.88.33"
-        ]
-      }
-    ],
-    "lastUpdated": "2013-08-03",
-    "registeredOn": "1996-08-16"
   },
   {
     "id": 826,
@@ -40177,64 +37234,6 @@
     ],
     "lastUpdated": "2025-05-01",
     "registeredOn": "2015-04-30"
-  },
-  {
-    "id": 828,
-    "tld": ".mil",
-    "category": "sponsored",
-    "sponsoringOrganization": "DoD Network Information Center",
-    "infoUrl": "https://www.iana.org/domains/root/db/mil.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "con1.nipr.mil",
-        "ipList": [
-          "199.252.157.234",
-          "2608:140:c:157:0:0:0:234"
-        ]
-      },
-      {
-        "host": "con2.nipr.mil",
-        "ipList": [
-          "199.252.162.234",
-          "2608:120:c:162:0:0:0:234"
-        ]
-      },
-      {
-        "host": "eur1.nipr.mil",
-        "ipList": [
-          "199.252.154.234",
-          "2608:4122:2:154:0:0:0:234"
-        ]
-      },
-      {
-        "host": "eur2.nipr.mil",
-        "ipList": [
-          "199.252.143.234",
-          "2608:4163:1:143:0:0:0:234"
-        ]
-      },
-      {
-        "host": "pac1.nipr.mil",
-        "ipList": [
-          "199.252.180.234",
-          "2608:c184:1:180:0:0:0:234"
-        ]
-      },
-      {
-        "host": "pac2.nipr.mil",
-        "ipList": [
-          "199.252.155.234",
-          "2608:c144:1:155:0:0:0:234"
-        ]
-      }
-    ],
-    "lastUpdated": "2025-07-08",
-    "registeredOn": "1985-01-01"
   },
   {
     "id": 829,
@@ -40940,21 +37939,6 @@
     "registeredOn": "2016-12-15"
   },
   {
-    "id": 843,
-    "tld": ".mobily",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/mobily.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2019-09-09",
-    "registeredOn": "2015-12-03"
-  },
-  {
     "id": 844,
     "tld": ".moda",
     "category": "generic",
@@ -41347,36 +38331,6 @@
     "registeredOn": "2015-12-23"
   },
   {
-    "id": 851,
-    "tld": ".montblanc",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/montblanc.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2017-09-01",
-    "registeredOn": "2014-11-20"
-  },
-  {
-    "id": 852,
-    "tld": ".mopar",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/mopar.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2019-11-20",
-    "registeredOn": "2016-07-07"
-  },
-  {
     "id": 853,
     "tld": ".mormon",
     "category": "generic",
@@ -41734,61 +38688,6 @@
     "registeredOn": "2015-03-12"
   },
   {
-    "id": 860,
-    "tld": ".movistar",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/movistar.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2019-12-24",
-    "registeredOn": "2015-06-18"
-  },
-  {
-    "id": 861,
-    "tld": ".mp",
-    "category": "country-code",
-    "sponsoringOrganization": "Saipan Datacom, Inc.",
-    "infoUrl": "https://www.iana.org/domains/root/db/mp.html",
-    "registry": {
-      "registrationServiceUrl": "https://get.mp/",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "ns1.nic.mp",
-        "ipList": [
-          "16.162.31.128"
-        ]
-      },
-      {
-        "host": "ns2.nic.mp",
-        "ipList": [
-          "16.163.54.122"
-        ]
-      },
-      {
-        "host": "ns3.nic.mp",
-        "ipList": [
-          "75.101.129.89"
-        ]
-      },
-      {
-        "host": "ns4.nic.mp",
-        "ipList": [
-          "75.101.133.101"
-        ]
-      }
-    ],
-    "lastUpdated": "2022-05-06",
-    "registeredOn": "1996-10-22"
-  },
-  {
     "id": 862,
     "tld": ".mq",
     "category": "country-code",
@@ -41973,48 +38872,6 @@
     "registeredOn": "2016-06-24"
   },
   {
-    "id": 866,
-    "tld": ".mt",
-    "category": "country-code",
-    "sponsoringOrganization": "NIC (Malta)",
-    "infoUrl": "https://www.iana.org/domains/root/db/mt.html",
-    "registry": {
-      "registrationServiceUrl": "https://www.nic.org.mt/",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "a.ns.mt",
-        "ipList": [
-          "193.188.47.252"
-        ]
-      },
-      {
-        "host": "b.ns.mt",
-        "ipList": [
-          "193.188.34.241"
-        ]
-      },
-      {
-        "host": "f.ns.mt",
-        "ipList": [
-          "192.93.0.4",
-          "2001:660:3005:1:0:0:1:2"
-        ]
-      },
-      {
-        "host": "p.ns.mt",
-        "ipList": [
-          "204.61.216.45",
-          "2001:500:14:6045:ad:0:0:1"
-        ]
-      }
-    ],
-    "lastUpdated": "2020-01-23",
-    "registeredOn": "1992-12-02"
-  },
-  {
     "id": 867,
     "tld": ".mtn",
     "category": "generic",
@@ -42085,21 +38942,6 @@
     ],
     "lastUpdated": "2025-01-28",
     "registeredOn": "2015-03-12"
-  },
-  {
-    "id": 868,
-    "tld": ".mtpc",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/mtpc.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2017-05-16",
-    "registeredOn": "2015-02-27"
   },
   {
     "id": 869,
@@ -42283,70 +39125,6 @@
     ],
     "lastUpdated": "2025-05-15",
     "registeredOn": "2021-10-14"
-  },
-  {
-    "id": 873,
-    "tld": ".mutual",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/mutual.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2023-08-01",
-    "registeredOn": "2015-07-02"
-  },
-  {
-    "id": 874,
-    "tld": ".mutuelle",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/mutuelle.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2016-12-21",
-    "registeredOn": "2015-09-24"
-  },
-  {
-    "id": 875,
-    "tld": ".mv",
-    "category": "country-code",
-    "sponsoringOrganization": "Dhivehi Raajjeyge Gulhun PLC",
-    "infoUrl": "https://www.iana.org/domains/root/db/mv.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "mv-ns.anycast.pch.net",
-        "ipList": [
-          "204.61.216.24"
-        ]
-      },
-      {
-        "host": "ns.dhivehinet.net.mv",
-        "ipList": [
-          "202.1.192.196"
-        ]
-      },
-      {
-        "host": "ns2.dhivehinet.net.mv",
-        "ipList": [
-          "202.1.201.201"
-        ]
-      }
-    ],
-    "lastUpdated": "2024-10-28",
-    "registeredOn": "1996-09-25"
   },
   {
     "id": 876,
@@ -42685,21 +39463,6 @@
     "registeredOn": "2016-08-04"
   },
   {
-    "id": 882,
-    "tld": ".nadex",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/nadex.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2020-03-28",
-    "registeredOn": "2015-04-02"
-  },
-  {
     "id": 883,
     "tld": ".nagoya",
     "category": "generic",
@@ -42785,36 +39548,6 @@
     ],
     "lastUpdated": "2020-10-01",
     "registeredOn": "2001-08-17"
-  },
-  {
-    "id": 885,
-    "tld": ".nationwide",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/nationwide.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2021-04-16",
-    "registeredOn": "2016-04-22"
-  },
-  {
-    "id": 886,
-    "tld": ".natura",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/natura.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2024-06-12",
-    "registeredOn": "2016-01-29"
   },
   {
     "id": 887,
@@ -42975,48 +39708,6 @@
     ],
     "lastUpdated": "2025-07-23",
     "registeredOn": "1993-10-13"
-  },
-  {
-    "id": 890,
-    "tld": ".ne",
-    "category": "country-code",
-    "sponsoringOrganization": "SONITEL",
-    "infoUrl": "https://www.iana.org/domains/root/db/ne.html",
-    "registry": {
-      "registrationServiceUrl": "http://www.intnet.ne",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "bow.rain.fr",
-        "ipList": [
-          "194.51.3.49"
-        ]
-      },
-      {
-        "host": "ne.cctld.authdns.ripe.net",
-        "ipList": [
-          "193.0.9.101",
-          "2001:67c:e0:0:0:0:0:101"
-        ]
-      },
-      {
-        "host": "ns-ne.afrinic.net",
-        "ipList": [
-          "196.216.168.45",
-          "2001:43f8:120:0:0:0:0:45"
-        ]
-      },
-      {
-        "host": "ns.intnet.ne",
-        "ipList": [
-          "41.138.54.10"
-        ]
-      }
-    ],
-    "lastUpdated": "2023-11-09",
-    "registeredOn": "1996-04-24"
   },
   {
     "id": 891,
@@ -43450,21 +40141,6 @@
     ],
     "lastUpdated": "2025-04-11",
     "registeredOn": "2014-06-12"
-  },
-  {
-    "id": 898,
-    "tld": ".newholland",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/newholland.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2021-02-19",
-    "registeredOn": "2016-10-27"
   },
   {
     "id": 899,
@@ -43908,59 +40584,6 @@
     "registeredOn": "2014-04-24"
   },
   {
-    "id": 908,
-    "tld": ".ni",
-    "category": "country-code",
-    "sponsoringOrganization": "Universidad Nacional del Ingernieria. Division de Tecnologias de la Informacion.",
-    "infoUrl": "https://www.iana.org/domains/root/db/ni.html",
-    "registry": {
-      "registrationServiceUrl": "http://www.nic.ni",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "dns-ext.nic.cr",
-        "ipList": [
-          "200.107.82.219",
-          "2001:13c7:7004:110:0:0:0:219"
-        ]
-      },
-      {
-        "host": "ns.ideay.net.ni",
-        "ipList": [
-          "186.1.31.8"
-        ]
-      },
-      {
-        "host": "ns.ni",
-        "ipList": [
-          "165.98.1.2"
-        ]
-      },
-      {
-        "host": "ns.uu.net",
-        "ipList": [
-          "137.39.1.3"
-        ]
-      },
-      {
-        "host": "ns2.ni",
-        "ipList": [
-          "200.9.187.2"
-        ]
-      },
-      {
-        "host": "ns3.ni",
-        "ipList": [
-          "200.119.166.36"
-        ]
-      }
-    ],
-    "lastUpdated": "2025-01-21",
-    "registeredOn": "1989-10-13"
-  },
-  {
     "id": 909,
     "tld": ".nico",
     "category": "generic",
@@ -44389,21 +41012,6 @@
     "registeredOn": "2015-04-23"
   },
   {
-    "id": 918,
-    "tld": ".northwesternmutual",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/northwesternmutual.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2023-08-08",
-    "registeredOn": "2015-12-04"
-  },
-  {
     "id": 919,
     "tld": ".norton",
     "category": "generic",
@@ -44634,97 +41242,6 @@
     ],
     "lastUpdated": "2023-08-03",
     "registeredOn": "2016-04-15"
-  },
-  {
-    "id": 923,
-    "tld": ".np",
-    "category": "country-code",
-    "sponsoringOrganization": "Mercantile Communications Pvt. Ltd.",
-    "infoUrl": "https://www.iana.org/domains/root/db/np.html",
-    "registry": {
-      "registrationServiceUrl": "http://www.mos.com.np",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "np-ns.npix.net.np",
-        "ipList": [
-          "198.32.126.50"
-        ]
-      },
-      {
-        "host": "np.cctld.authdns.ripe.net",
-        "ipList": [
-          "193.0.9.102",
-          "2a13:27c0:30:0:0:0:0:102"
-        ]
-      },
-      {
-        "host": "ns4.apnic.net",
-        "ipList": [
-          "202.12.31.53",
-          "2001:dd8:12:0:0:0:0:53"
-        ]
-      },
-      {
-        "host": "pch.nnic.np",
-        "ipList": [
-          "204.61.216.11",
-          "2001:500:14:6011:ad:0:0:1"
-        ]
-      },
-      {
-        "host": "shikhar.mos.com.np",
-        "ipList": [
-          "27.111.31.5"
-        ]
-      }
-    ],
-    "lastUpdated": "2025-07-14",
-    "registeredOn": "1995-01-25"
-  },
-  {
-    "id": 924,
-    "tld": ".nr",
-    "category": "country-code",
-    "sponsoringOrganization": "CENPAC NET",
-    "infoUrl": "https://www.iana.org/domains/root/db/nr.html",
-    "registry": {
-      "registrationServiceUrl": "http://www.cenpac.net.nr",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "ns0.cenpac.net.nr",
-        "ipList": [
-          "203.98.224.66"
-        ]
-      },
-      {
-        "host": "ns1.cenpac.net.nr",
-        "ipList": [
-          "203.98.225.9"
-        ]
-      },
-      {
-        "host": "ns2.cenpac.net.nr",
-        "ipList": [
-          "202.144.128.200",
-          "2405:d000:0:100:0:0:0:200"
-        ]
-      },
-      {
-        "host": "phloem.uoregon.edu",
-        "ipList": [
-          "128.223.32.35",
-          "2001:468:d01:20:0:0:80df:2023"
-        ]
-      }
-    ],
-    "lastUpdated": "2020-03-09",
-    "registeredOn": "1998-03-30"
   },
   {
     "id": 925,
@@ -45156,21 +41673,6 @@
     "registeredOn": "2016-09-15"
   },
   {
-    "id": 933,
-    "tld": ".off",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/off.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2021-12-03",
-    "registeredOn": "2016-07-14"
-  },
-  {
     "id": 934,
     "tld": ".office",
     "category": "generic",
@@ -45400,21 +41902,6 @@
     ],
     "lastUpdated": "2024-05-31",
     "registeredOn": "2016-04-21"
-  },
-  {
-    "id": 938,
-    "tld": ".oldnavy",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/oldnavy.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2024-01-22",
-    "registeredOn": "2016-07-14"
   },
   {
     "id": 939,
@@ -45795,21 +42282,6 @@
     "registeredOn": "2015-03-06"
   },
   {
-    "id": 946,
-    "tld": ".onyourside",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/onyourside.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2021-04-16",
-    "registeredOn": "2016-04-22"
-  },
-  {
     "id": 947,
     "tld": ".ooo",
     "category": "generic",
@@ -46116,21 +42588,6 @@
     "registeredOn": "2014-05-29"
   },
   {
-    "id": 953,
-    "tld": ".orientexpress",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/orientexpress.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2017-04-19",
-    "registeredOn": "2016-06-14"
-  },
-  {
     "id": 954,
     "tld": ".origins",
     "category": "generic",
@@ -46357,81 +42814,6 @@
     "registeredOn": "2014-05-01"
   },
   {
-    "id": 959,
-    "tld": ".pa",
-    "category": "country-code",
-    "sponsoringOrganization": "Universidad Tecnologica de Panama",
-    "infoUrl": "https://www.iana.org/domains/root/db/pa.html",
-    "registry": {
-      "registrationServiceUrl": "http://www.nic.pa/",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "a.lactld.org",
-        "ipList": [
-          "200.0.68.10",
-          "2801:14:a000:0:0:0:0:10"
-        ]
-      },
-      {
-        "host": "dns-ext.nic.cr",
-        "ipList": [
-          "200.107.82.219",
-          "2001:13c7:7004:110:0:0:0:219"
-        ]
-      },
-      {
-        "host": "ns.dns.br",
-        "ipList": [
-          "200.160.0.5",
-          "2001:12ff:0:a20:0:0:0:5"
-        ]
-      },
-      {
-        "host": "ns.nic.pa",
-        "ipList": [
-          "168.77.9.6"
-        ]
-      },
-      {
-        "host": "ns1.anycastdns.cz",
-        "ipList": [
-          "185.38.108.108",
-          "2a00:fea0:dead:0:0:0:0:beef"
-        ]
-      },
-      {
-        "host": "ns1.nic.pa",
-        "ipList": [
-          "168.77.9.7"
-        ]
-      },
-      {
-        "host": "ns2.anycastdns.cz",
-        "ipList": [
-          "185.28.194.194"
-        ]
-      },
-      {
-        "host": "ns2.nic.pa",
-        "ipList": [
-          "168.77.9.8"
-        ]
-      },
-      {
-        "host": "ssdns-tld.nic.cl",
-        "ipList": [
-          "200.7.5.14",
-          "2001:1398:276:0:200:7:5:14"
-        ]
-      }
-    ],
-    "lastUpdated": "2024-11-25",
-    "registeredOn": "1994-05-25"
-  },
-  {
     "id": 960,
     "tld": ".page",
     "category": "generic",
@@ -46483,21 +42865,6 @@
     "registeredOn": "2015-02-05"
   },
   {
-    "id": 961,
-    "tld": ".pamperedchef",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/pamperedchef.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2017-09-21",
-    "registeredOn": "2015-05-14"
-  },
-  {
     "id": 962,
     "tld": ".panasonic",
     "category": "generic",
@@ -46539,21 +42906,6 @@
     ],
     "lastUpdated": "2023-06-20",
     "registeredOn": "2016-06-24"
-  },
-  {
-    "id": 963,
-    "tld": ".panerai",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/panerai.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2018-09-18",
-    "registeredOn": "2015-02-19"
   },
   {
     "id": 964,
@@ -46837,21 +43189,6 @@
     ],
     "lastUpdated": "2024-05-11",
     "registeredOn": "2014-10-23"
-  },
-  {
-    "id": 969,
-    "tld": ".passagens",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/passagens.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2023-07-08",
-    "registeredOn": "2016-02-19"
   },
   {
     "id": 970,
@@ -47183,50 +43520,6 @@
     ],
     "lastUpdated": "2025-04-25",
     "registeredOn": "1991-09-26"
-  },
-  {
-    "id": 977,
-    "tld": ".ph",
-    "category": "country-code",
-    "sponsoringOrganization": "PH Domain Foundation",
-    "infoUrl": "https://www.iana.org/domains/root/db/ph.html",
-    "registry": {
-      "registrationServiceUrl": "http://dot.ph",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "1.ns.ph",
-        "ipList": [
-          "206.51.255.1",
-          "2620:171:805:ad2:7068:0:0:1"
-        ]
-      },
-      {
-        "host": "ns2.cuhk.edu.hk",
-        "ipList": [
-          "137.189.6.21",
-          "2405:3000:3:6:0:0:0:15"
-        ]
-      },
-      {
-        "host": "ns4.apnic.net",
-        "ipList": [
-          "202.12.31.53",
-          "2001:dd8:12:0:0:0:0:53"
-        ]
-      },
-      {
-        "host": "ph.communitydns.net",
-        "ipList": [
-          "194.0.1.23",
-          "2001:678:4:0:0:0:0:17"
-        ]
-      }
-    ],
-    "lastUpdated": "2024-01-30",
-    "registeredOn": "1990-09-14"
   },
   {
     "id": 978,
@@ -47684,21 +43977,6 @@
     ],
     "lastUpdated": "2023-12-05",
     "registeredOn": "2014-06-05"
-  },
-  {
-    "id": 986,
-    "tld": ".piaget",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/piaget.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2019-11-14",
-    "registeredOn": "2015-01-08"
   },
   {
     "id": 987,
@@ -49050,21 +45328,6 @@
     "registeredOn": "1989-08-27"
   },
   {
-    "id": 1012,
-    "tld": ".pramerica",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/pramerica.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2025-05-16",
-    "registeredOn": "2016-07-14"
-  },
-  {
     "id": 1013,
     "tld": ".praxi",
     "category": "generic",
@@ -49807,62 +46070,6 @@
     "registeredOn": "2016-07-14"
   },
   {
-    "id": 1027,
-    "tld": ".ps",
-    "category": "country-code",
-    "sponsoringOrganization": "Ministry Of Telecommunications & Information Technology, Government Computer Center.",
-    "infoUrl": "https://www.iana.org/domains/root/db/ps.html",
-    "registry": {
-      "registrationServiceUrl": "http://www.nic.ps",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "bilal.pnina.ps",
-        "ipList": [
-          "168.119.39.120"
-        ]
-      },
-      {
-        "host": "fork.sth.dnsnode.net",
-        "ipList": [
-          "77.72.229.254",
-          "2a01:3f0:0:306:0:0:0:53"
-        ]
-      },
-      {
-        "host": "ns1.pnina.ps",
-        "ipList": [
-          "194.6.225.20"
-        ]
-      },
-      {
-        "host": "ps-ns.anycast.pch.net",
-        "ipList": [
-          "204.61.216.29",
-          "2001:500:14:6029:ad:0:0:1"
-        ]
-      },
-      {
-        "host": "ps.cctld.authdns.ripe.net",
-        "ipList": [
-          "193.0.9.105",
-          "2001:67c:e0:0:0:0:0:105"
-        ]
-      },
-      {
-        "host": "rip.psg.com",
-        "ipList": [
-          "147.28.0.39",
-          "2001:418:1:0:0:0:0:39"
-        ]
-      }
-    ],
-    "lastUpdated": "2024-11-13",
-    "registeredOn": "2000-03-22"
-  },
-  {
     "id": 1028,
     "tld": ".pt",
     "category": "country-code",
@@ -50088,56 +46295,6 @@
     "registeredOn": "2016-01-15"
   },
   {
-    "id": 1032,
-    "tld": ".py",
-    "category": "country-code",
-    "sponsoringOrganization": "NIC-PY",
-    "infoUrl": "https://www.iana.org/domains/root/db/py.html",
-    "registry": {
-      "registrationServiceUrl": "http://www.nic.py",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "b.dns.py",
-        "ipList": [
-          "200.160.0.5",
-          "2001:12ff:0:a20:0:0:0:5"
-        ]
-      },
-      {
-        "host": "c.dns.py",
-        "ipList": [
-          "130.59.31.30",
-          "2001:620:0:ff:0:0:0:30"
-        ]
-      },
-      {
-        "host": "l.dns.py",
-        "ipList": [
-          "200.0.68.10",
-          "2801:14:a000:0:0:0:0:10"
-        ]
-      },
-      {
-        "host": "p.dns.py",
-        "ipList": [
-          "204.61.216.107",
-          "2001:500:14:6107:ad:0:0:1"
-        ]
-      },
-      {
-        "host": "u.dns.py",
-        "ipList": [
-          "198.6.1.65"
-        ]
-      }
-    ],
-    "lastUpdated": "2023-01-18",
-    "registeredOn": "1991-09-09"
-  },
-  {
     "id": 1033,
     "tld": ".qa",
     "category": "country-code",
@@ -50344,21 +46501,6 @@
     "registeredOn": "2015-08-06"
   },
   {
-    "id": 1037,
-    "tld": ".qvc",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/qvc.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2021-10-07",
-    "registeredOn": "2016-07-21"
-  },
-  {
     "id": 1038,
     "tld": ".racing",
     "category": "generic",
@@ -50459,21 +46601,6 @@
     ],
     "lastUpdated": "2022-01-07",
     "registeredOn": "2016-09-22"
-  },
-  {
-    "id": 1040,
-    "tld": ".raid",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/raid.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2021-12-03",
-    "registeredOn": "2016-07-14"
   },
   {
     "id": 1041,
@@ -51978,21 +48105,6 @@
     "registeredOn": "2015-03-06"
   },
   {
-    "id": 1069,
-    "tld": ".rightathome",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/rightathome.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2020-07-28",
-    "registeredOn": "2016-07-14"
-  },
-  {
     "id": 1070,
     "tld": ".ril",
     "category": "generic",
@@ -52153,21 +48265,6 @@
     "registeredOn": "2014-10-09"
   },
   {
-    "id": 1073,
-    "tld": ".rmit",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/rmit.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2021-09-27",
-    "registeredOn": "2015-12-23"
-  },
-  {
     "id": 1074,
     "tld": ".ro",
     "category": "country-code",
@@ -52223,21 +48320,6 @@
     ],
     "lastUpdated": "2025-05-09",
     "registeredOn": "1993-02-26"
-  },
-  {
-    "id": 1075,
-    "tld": ".rocher",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/rocher.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2023-11-02",
-    "registeredOn": "2015-09-10"
   },
   {
     "id": 1076,
@@ -53696,21 +49778,6 @@
     "registeredOn": "2015-03-19"
   },
   {
-    "id": 1102,
-    "tld": ".sapo",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/sapo.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2018-05-26",
-    "registeredOn": "2015-01-15"
-  },
-  {
     "id": 1103,
     "tld": ".sarl",
     "category": "generic",
@@ -54145,21 +50212,6 @@
     "registeredOn": "1997-05-09"
   },
   {
-    "id": 1111,
-    "tld": ".sca",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/sca.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2023-12-11",
-    "registeredOn": "2014-07-17"
-  },
-  {
     "id": 1112,
     "tld": ".scb",
     "category": "generic",
@@ -54552,36 +50604,6 @@
     ],
     "lastUpdated": "2024-05-11",
     "registeredOn": "2014-10-23"
-  },
-  {
-    "id": 1120,
-    "tld": ".scjohnson",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/scjohnson.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2021-12-03",
-    "registeredOn": "2016-07-14"
-  },
-  {
-    "id": 1121,
-    "tld": ".scor",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/scor.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2020-05-28",
-    "registeredOn": "2015-04-30"
   },
   {
     "id": 1122,
@@ -55218,21 +51240,6 @@
     "registeredOn": "2014-04-03"
   },
   {
-    "id": 1133,
-    "tld": ".ses",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/ses.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2022-12-16",
-    "registeredOn": "2016-05-05"
-  },
-  {
     "id": 1134,
     "tld": ".seven",
     "category": "generic",
@@ -55661,21 +51668,6 @@
     ],
     "lastUpdated": "2023-06-20",
     "registeredOn": "2015-11-25"
-  },
-  {
-    "id": 1143,
-    "tld": ".shaw",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/shaw.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2024-07-09",
-    "registeredOn": "2016-03-10"
   },
   {
     "id": 1144,
@@ -56125,36 +52117,6 @@
     "registeredOn": "2015-04-09"
   },
   {
-    "id": 1152,
-    "tld": ".showtime",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/showtime.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2023-10-25",
-    "registeredOn": "2016-07-21"
-  },
-  {
-    "id": 1153,
-    "tld": ".shriram",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/shriram.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2020-11-24",
-    "registeredOn": "2014-12-04"
-  },
-  {
     "id": 1154,
     "tld": ".si",
     "category": "country-code",
@@ -56429,64 +52391,6 @@
     ],
     "lastUpdated": "2025-05-08",
     "registeredOn": "2015-03-06"
-  },
-  {
-    "id": 1159,
-    "tld": ".sj",
-    "category": "country-code",
-    "sponsoringOrganization": "Norid A/S",
-    "infoUrl": "https://www.iana.org/domains/root/db/sj.html",
-    "registry": {
-      "registrationServiceUrl": "https://www.norid.no/en/omnorid/toppdomenet-sj/",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "nac.no",
-        "ipList": [
-          "128.39.2.22",
-          "2001:700:0:102:0:0:0:aa53"
-        ]
-      },
-      {
-        "host": "nn.uninett.no",
-        "ipList": [
-          "158.38.0.181",
-          "2001:700:0:503:0:0:aa:5302"
-        ]
-      },
-      {
-        "host": "server.nordu.net",
-        "ipList": [
-          "193.10.252.19",
-          "2001:948:4:2:0:0:0:19"
-        ]
-      },
-      {
-        "host": "x.nic.no",
-        "ipList": [
-          "128.39.8.40",
-          "2001:700:0:412f:0:0:0:40"
-        ]
-      },
-      {
-        "host": "y.nic.no",
-        "ipList": [
-          "193.75.4.22",
-          "2001:8c0:8200:1:0:0:0:2"
-        ]
-      },
-      {
-        "host": "z.nic.no",
-        "ipList": [
-          "158.38.8.133",
-          "2001:700:0:52d:158:38:8:133"
-        ]
-      }
-    ],
-    "lastUpdated": "2022-01-14",
-    "registeredOn": "1997-08-21"
   },
   {
     "id": 1160,
@@ -56784,34 +52688,6 @@
     ],
     "lastUpdated": "2025-05-01",
     "registeredOn": "2015-03-19"
-  },
-  {
-    "id": 1165,
-    "tld": ".sl",
-    "category": "country-code",
-    "sponsoringOrganization": "Sierratel",
-    "infoUrl": "https://www.iana.org/domains/root/db/sl.html",
-    "registry": {
-      "registrationServiceUrl": "https://www.nic.sl",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "ns1.neoip.com",
-        "ipList": [
-          "51.195.14.249"
-        ]
-      },
-      {
-        "host": "ns2.neoip.com",
-        "ipList": [
-          "45.83.41.38"
-        ]
-      }
-    ],
-    "lastUpdated": "2021-10-08",
-    "registeredOn": "1997-05-09"
   },
   {
     "id": 1166,
@@ -57768,21 +53644,6 @@
     "registeredOn": "2014-05-22"
   },
   {
-    "id": 1185,
-    "tld": ".spiegel",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/spiegel.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2018-12-16",
-    "registeredOn": "2014-06-19"
-  },
-  {
     "id": 1186,
     "tld": ".sport",
     "category": "generic",
@@ -57899,21 +53760,6 @@
     "registeredOn": "2016-01-29"
   },
   {
-    "id": 1188,
-    "tld": ".spreadbetting",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/spreadbetting.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2021-04-21",
-    "registeredOn": "2015-03-06"
-  },
-  {
     "id": 1189,
     "tld": ".sr",
     "category": "country-code",
@@ -57986,21 +53832,6 @@
     ],
     "lastUpdated": "2023-08-03",
     "registeredOn": "2015-07-09"
-  },
-  {
-    "id": 1191,
-    "tld": ".srt",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/srt.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2019-11-20",
-    "registeredOn": "2016-07-07"
   },
   {
     "id": 1192,
@@ -58230,21 +54061,6 @@
     "registeredOn": "2015-12-10"
   },
   {
-    "id": 1197,
-    "tld": ".starhub",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/starhub.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2019-08-03",
-    "registeredOn": "2015-05-08"
-  },
-  {
     "id": 1198,
     "tld": ".statebank",
     "category": "generic",
@@ -58345,21 +54161,6 @@
     ],
     "lastUpdated": "2024-05-11",
     "registeredOn": "2015-11-06"
-  },
-  {
-    "id": 1200,
-    "tld": ".statoil",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/statoil.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2018-10-03",
-    "registeredOn": "2015-06-11"
   },
   {
     "id": 1201,
@@ -59256,49 +55057,6 @@
     "registeredOn": "2014-06-26"
   },
   {
-    "id": 1218,
-    "tld": ".sv",
-    "category": "country-code",
-    "sponsoringOrganization": "SVNet",
-    "infoUrl": "https://www.iana.org/domains/root/db/sv.html",
-    "registry": {
-      "registrationServiceUrl": "http://www.svnet.sv",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "a.lactld.org",
-        "ipList": [
-          "200.0.68.10",
-          "2801:14:a000:0:0:0:0:10"
-        ]
-      },
-      {
-        "host": "dns-ext.nic.cr",
-        "ipList": [
-          "200.107.82.219",
-          "2001:13c7:7004:110:0:0:0:219"
-        ]
-      },
-      {
-        "host": "ns.dns.br",
-        "ipList": [
-          "200.160.0.5",
-          "2001:12ff:0:a20:0:0:0:5"
-        ]
-      },
-      {
-        "host": "sir.red.sv",
-        "ipList": [
-          "131.100.140.162"
-        ]
-      }
-    ],
-    "lastUpdated": "2023-09-11",
-    "registeredOn": "1994-11-04"
-  },
-  {
     "id": 1219,
     "tld": ".swatch",
     "category": "generic",
@@ -59369,21 +55127,6 @@
     ],
     "lastUpdated": "2025-01-28",
     "registeredOn": "2015-04-23"
-  },
-  {
-    "id": 1220,
-    "tld": ".swiftcover",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/swiftcover.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2021-10-06",
-    "registeredOn": "2016-06-09"
   },
   {
     "id": 1221,
@@ -59589,21 +55332,6 @@
     "registeredOn": "2014-10-30"
   },
   {
-    "id": 1225,
-    "tld": ".symantec",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/symantec.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2020-07-17",
-    "registeredOn": "2015-09-24"
-  },
-  {
     "id": 1226,
     "tld": ".systems",
     "category": "generic",
@@ -59660,42 +55388,6 @@
     ],
     "lastUpdated": "2023-09-12",
     "registeredOn": "2013-12-12"
-  },
-  {
-    "id": 1227,
-    "tld": ".sz",
-    "category": "country-code",
-    "sponsoringOrganization": "University of Swaziland Department of Computer Science",
-    "infoUrl": "https://www.iana.org/domains/root/db/sz.html",
-    "registry": {
-      "registrationServiceUrl": "http://www.sispa.org.sz/",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "ns1.sispa.org.sz",
-        "ipList": [
-          "41.77.232.4"
-        ]
-      },
-      {
-        "host": "rip.psg.com",
-        "ipList": [
-          "147.28.0.39",
-          "2001:418:1:0:0:0:0:39"
-        ]
-      },
-      {
-        "host": "sz.cctld.authdns.ripe.net",
-        "ipList": [
-          "193.0.9.114",
-          "2a13:27c0:30:0:0:0:0:114"
-        ]
-      }
-    ],
-    "lastUpdated": "2025-07-14",
-    "registeredOn": "1993-07-19"
   },
   {
     "id": 1228,
@@ -60702,36 +56394,6 @@
     "registeredOn": "2007-03-01"
   },
   {
-    "id": 1246,
-    "tld": ".telecity",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/telecity.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2018-08-20",
-    "registeredOn": "2016-02-11"
-  },
-  {
-    "id": 1247,
-    "tld": ".telefonica",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/telefonica.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2019-12-24",
-    "registeredOn": "2015-06-18"
-  },
-  {
     "id": 1248,
     "tld": ".temasek",
     "category": "generic",
@@ -61360,21 +57022,6 @@
     "registeredOn": "2014-01-16"
   },
   {
-    "id": 1260,
-    "tld": ".tiffany",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/tiffany.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2023-07-25",
-    "registeredOn": "2015-12-17"
-  },
-  {
     "id": 1261,
     "tld": ".tips",
     "category": "generic",
@@ -61526,48 +57173,6 @@
     ],
     "lastUpdated": "2025-03-13",
     "registeredOn": "2014-05-29"
-  },
-  {
-    "id": 1264,
-    "tld": ".tj",
-    "category": "country-code",
-    "sponsoringOrganization": "Information Technology Center",
-    "infoUrl": "https://www.iana.org/domains/root/db/tj.html",
-    "registry": {
-      "registrationServiceUrl": "http://www.nic.tj",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "ns1.nic.tj",
-        "ipList": [
-          "91.218.160.197"
-        ]
-      },
-      {
-        "host": "ns2.tojikiston.com",
-        "ipList": [
-          "193.111.11.4"
-        ]
-      },
-      {
-        "host": "phloem.uoregon.edu",
-        "ipList": [
-          "128.223.32.35",
-          "2001:468:d01:20:0:0:80df:2023"
-        ]
-      },
-      {
-        "host": "tj.cctld.authdns.ripe.net",
-        "ipList": [
-          "193.0.9.117",
-          "2001:67c:e0:0:0:0:0:117"
-        ]
-      }
-    ],
-    "lastUpdated": "2020-03-09",
-    "registeredOn": "1997-12-11"
   },
   {
     "id": 1265,
@@ -62596,21 +58201,6 @@
     "registeredOn": "2014-04-03"
   },
   {
-    "id": 1285,
-    "tld": ".tp",
-    "category": "country-code",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/tp.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2015-03-04",
-    "registeredOn": "1997-05-09"
-  },
-  {
     "id": 1286,
     "tld": ".tr",
     "category": "country-code",
@@ -62903,21 +58493,6 @@
     "registeredOn": "2005-07-27"
   },
   {
-    "id": 1291,
-    "tld": ".travelchannel",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/travelchannel.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2023-06-14",
-    "registeredOn": "2016-05-05"
-  },
-  {
     "id": 1292,
     "tld": ".travelers",
     "category": "generic",
@@ -63092,43 +58667,6 @@
     ],
     "lastUpdated": "2023-08-11",
     "registeredOn": "2015-11-25"
-  },
-  {
-    "id": 1296,
-    "tld": ".tt",
-    "category": "country-code",
-    "sponsoringOrganization": "University of the West Indies Faculty of Engineering",
-    "infoUrl": "https://www.iana.org/domains/root/db/tt.html",
-    "registry": {
-      "registrationServiceUrl": "http://www.nic.tt",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "a.lactld.org",
-        "ipList": [
-          "200.0.68.10",
-          "2801:14:a000:0:0:0:0:10"
-        ]
-      },
-      {
-        "host": "pch.nic.tt",
-        "ipList": [
-          "204.61.216.63",
-          "2001:500:14:6063:ad:0:0:1"
-        ]
-      },
-      {
-        "host": "ripe.nic.tt",
-        "ipList": [
-          "193.0.9.50",
-          "2a13:27c0:30:0:0:0:0:50"
-        ]
-      }
-    ],
-    "lastUpdated": "2025-07-07",
-    "registeredOn": "1991-09-03"
   },
   {
     "id": 1297,
@@ -63734,21 +59272,6 @@
     "registeredOn": "2015-06-11"
   },
   {
-    "id": 1308,
-    "tld": ".uconnect",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/uconnect.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2019-11-20",
-    "registeredOn": "2016-07-07"
-  },
-  {
     "id": 1309,
     "tld": ".ug",
     "category": "country-code",
@@ -63869,21 +59392,6 @@
     ],
     "lastUpdated": "2023-03-07",
     "registeredOn": "1985-07-24"
-  },
-  {
-    "id": 1311,
-    "tld": ".um",
-    "category": "country-code",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/um.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2008-04-20",
-    "registeredOn": "2008-04-21"
   },
   {
     "id": 1312,
@@ -64354,57 +59862,6 @@
     ],
     "lastUpdated": "2025-04-17",
     "registeredOn": "1995-04-29"
-  },
-  {
-    "id": 1320,
-    "tld": ".va",
-    "category": "country-code",
-    "sponsoringOrganization": "Holy See - Vatican City State",
-    "infoUrl": "https://www.iana.org/domains/root/db/va.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "a.nic.va",
-        "ipList": [
-          "212.77.0.110",
-          "2a01:b8:0:1:212:77:0:110"
-        ]
-      },
-      {
-        "host": "b.nic.va",
-        "ipList": [
-          "212.77.0.2",
-          "2a01:b8:0:1:212:77:0:2"
-        ]
-      },
-      {
-        "host": "c.nic.va",
-        "ipList": [
-          "212.77.2.58",
-          "2a01:b8:0:0:0:0:2:3a"
-        ]
-      },
-      {
-        "host": "osiris.namex.it",
-        "ipList": [
-          "193.201.40.6",
-          "2a0f:80:1:0:0:0:0:6"
-        ]
-      },
-      {
-        "host": "seth.namex.it",
-        "ipList": [
-          "193.201.40.7",
-          "2a0f:80:1:0:0:0:0:7"
-        ]
-      }
-    ],
-    "lastUpdated": "2024-12-03",
-    "registeredOn": "1995-09-11"
   },
   {
     "id": 1321,
@@ -65547,36 +61004,6 @@
     "registeredOn": "2014-02-06"
   },
   {
-    "id": 1343,
-    "tld": ".vista",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/vista.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2018-09-13",
-    "registeredOn": "2015-06-04"
-  },
-  {
-    "id": 1344,
-    "tld": ".vistaprint",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/vistaprint.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2020-03-14",
-    "registeredOn": "2015-06-04"
-  },
-  {
     "id": 1345,
     "tld": ".viva",
     "category": "generic",
@@ -65737,78 +61164,6 @@
     "registeredOn": "2014-06-05"
   },
   {
-    "id": 1348,
-    "tld": ".vn",
-    "category": "country-code",
-    "sponsoringOrganization": "Viet Nam Internet Network Information Center (VNNIC)",
-    "infoUrl": "https://www.iana.org/domains/root/db/vn.html",
-    "registry": {
-      "registrationServiceUrl": "https://www.vnnic.vn/",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "a.dns-servers.vn",
-        "ipList": [
-          "194.0.1.18",
-          "2001:678:4:0:0:0:0:12"
-        ]
-      },
-      {
-        "host": "b.dns-servers.vn",
-        "ipList": [
-          "203.119.73.105",
-          "2001:dc8:1:2:0:0:0:105"
-        ]
-      },
-      {
-        "host": "c.dns-servers.vn",
-        "ipList": [
-          "203.119.38.105",
-          "2001:dc8:c000:7:0:0:0:105"
-        ]
-      },
-      {
-        "host": "d.dns-servers.vn",
-        "ipList": [
-          "203.119.44.105",
-          "2001:dc8:8000:2:0:0:0:105"
-        ]
-      },
-      {
-        "host": "e.dns-servers.vn",
-        "ipList": [
-          "203.119.60.105",
-          "2001:dc8:1000:2:0:0:0:105"
-        ]
-      },
-      {
-        "host": "f.dns-servers.vn",
-        "ipList": [
-          "203.119.68.105",
-          "2001:dc8:d000:2:0:0:0:105"
-        ]
-      },
-      {
-        "host": "g.dns-servers.vn",
-        "ipList": [
-          "204.61.216.115",
-          "2001:500:14:6115:ad:0:0:1"
-        ]
-      },
-      {
-        "host": "h.dns-servers.vn",
-        "ipList": [
-          "202.47.142.105",
-          "2001:dc8:6000:0:0:0:0:105"
-        ]
-      }
-    ],
-    "lastUpdated": "2023-07-19",
-    "registeredOn": "1994-04-14"
-  },
-  {
     "id": 1349,
     "tld": ".vodka",
     "category": "generic",
@@ -65865,21 +61220,6 @@
     ],
     "lastUpdated": "2024-04-17",
     "registeredOn": "2014-02-28"
-  },
-  {
-    "id": 1350,
-    "tld": ".volkswagen",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/volkswagen.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2023-11-20",
-    "registeredOn": "2015-12-23"
   },
   {
     "id": 1351,
@@ -66172,21 +61512,6 @@
     ],
     "lastUpdated": "2024-05-21",
     "registeredOn": "1995-04-10"
-  },
-  {
-    "id": 1357,
-    "tld": ".vuelos",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/vuelos.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2023-07-08",
-    "registeredOn": "2016-02-19"
   },
   {
     "id": 1358,
@@ -66511,21 +61836,6 @@
     ],
     "lastUpdated": "2025-02-14",
     "registeredOn": "2015-11-12"
-  },
-  {
-    "id": 1363,
-    "tld": ".warman",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/warman.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2019-11-19",
-    "registeredOn": "2016-04-14"
   },
   {
     "id": 1364,
@@ -68296,21 +63606,6 @@
     "registeredOn": "2015-04-02"
   },
   {
-    "id": 1396,
-    "tld": ".xfinity",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/xfinity.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2024-02-07",
-    "registeredOn": "2016-06-16"
-  },
-  {
     "id": 1397,
     "tld": ".xihuan",
     "category": "generic",
@@ -68397,21 +63692,6 @@
     "registeredOn": "2015-02-19"
   },
   {
-    "id": 1399,
-    "tld": ".测试",
-    "category": "test",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/xn--0zwm56d.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2020-04-02",
-    "registeredOn": "2007-10-19"
-  },
-  {
     "id": 1400,
     "tld": ".कॉम",
     "category": "generic",
@@ -68454,21 +63734,6 @@
     ],
     "lastUpdated": "2020-10-01",
     "registeredOn": "2015-07-02"
-  },
-  {
-    "id": 1401,
-    "tld": ".परीक्षा",
-    "category": "test",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/xn--11b5bs3a9aj6g.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2020-04-02",
-    "registeredOn": "2007-10-19"
   },
   {
     "id": 1402,
@@ -68892,21 +64157,6 @@
     "registeredOn": "2016-04-18"
   },
   {
-    "id": 1410,
-    "tld": ".大众汽车",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/xn--3oq18vl8pn36a.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2021-10-27",
-    "registeredOn": "2016-07-21"
-  },
-  {
     "id": 1411,
     "tld": ".点看",
     "category": "generic",
@@ -69261,43 +64511,6 @@
     "registeredOn": "2014-05-15"
   },
   {
-    "id": 1418,
-    "tld": ".বাংলা",
-    "category": "country-code",
-    "sponsoringOrganization": "Posts and Telecommunications Division",
-    "infoUrl": "https://www.iana.org/domains/root/db/xn--54b7fta0cc.html",
-    "registry": {
-      "registrationServiceUrl": "http://domainreg.btcl.com.bd/",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "bayanno.btcl.net.bd",
-        "ipList": [
-          "180.211.212.213",
-          "2407:5000:88:2:0:0:0:3"
-        ]
-      },
-      {
-        "host": "bd-ns.anycast.pch.net",
-        "ipList": [
-          "204.61.216.108",
-          "2001:500:14:6108:ad:0:0:1"
-        ]
-      },
-      {
-        "host": "ekushey.btcl.net.bd",
-        "ipList": [
-          "123.49.50.51",
-          "2407:5000:88:1:0:0:0:2"
-        ]
-      }
-    ],
-    "lastUpdated": "2024-05-29",
-    "registeredOn": "2011-03-30"
-  },
-  {
     "id": 1419,
     "tld": ".公益",
     "category": "generic",
@@ -69634,21 +64847,6 @@
     ],
     "lastUpdated": "2025-05-29",
     "registeredOn": "2014-04-17"
-  },
-  {
-    "id": 1426,
-    "tld": ".испытание",
-    "category": "test",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/xn--80akhbyknj4f.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2020-04-02",
-    "registeredOn": "2007-10-19"
   },
   {
     "id": 1427,
@@ -70214,21 +65412,6 @@
     ],
     "lastUpdated": "2023-08-08",
     "registeredOn": "2016-02-29"
-  },
-  {
-    "id": 1438,
-    "tld": ".테스트",
-    "category": "test",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/xn--9t4b11yi5a.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2020-04-02",
-    "registeredOn": "2007-10-19"
   },
   {
     "id": 1439,
@@ -70947,21 +66130,6 @@
     "registeredOn": "2014-04-21"
   },
   {
-    "id": 1452,
-    "tld": "‏.טעסט‎",
-    "category": "test",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/xn--deba0ad.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2020-04-02",
-    "registeredOn": "2007-10-19"
-  },
-  {
     "id": 1453,
     "tld": ".ею",
     "category": "country-code",
@@ -71132,21 +66300,6 @@
     ],
     "lastUpdated": "2024-12-23",
     "registeredOn": "2015-08-06"
-  },
-  {
-    "id": 1456,
-    "tld": ".工行",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/xn--estv75g.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2020-04-01",
-    "registeredOn": "2015-04-23"
   },
   {
     "id": 1457,
@@ -71612,71 +66765,6 @@
     "registeredOn": "2011-02-05"
   },
   {
-    "id": 1466,
-    "tld": ".ලංකා",
-    "category": "country-code",
-    "sponsoringOrganization": "LK Domain Registry",
-    "infoUrl": "https://www.iana.org/domains/root/db/xn--fzc2c9e2c.html",
-    "registry": {
-      "registrationServiceUrl": "http://www.domains.lk",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "lk.communitydns.net",
-        "ipList": [
-          "194.0.1.27"
-        ]
-      },
-      {
-        "host": "nic.lk-anycast.pch.net",
-        "ipList": [
-          "204.61.216.27"
-        ]
-      },
-      {
-        "host": "ns-c.nic.lk",
-        "ipList": [
-          "203.143.19.3"
-        ]
-      },
-      {
-        "host": "ns-d.nic.lk",
-        "ipList": [
-          "123.231.6.18"
-        ]
-      },
-      {
-        "host": "ns-l.nic.lk",
-        "ipList": [
-          "192.248.8.17"
-        ]
-      },
-      {
-        "host": "ns-t.nic.lk",
-        "ipList": [
-          "203.94.66.129"
-        ]
-      },
-      {
-        "host": "ns1.ac.lk",
-        "ipList": [
-          "192.248.1.162",
-          "2401:dd00:1:0:0:0:0:162"
-        ]
-      },
-      {
-        "host": "ns3.ac.lk",
-        "ipList": [
-          "202.124.166.178"
-        ]
-      }
-    ],
-    "lastUpdated": "2025-04-23",
-    "registeredOn": "2010-08-19"
-  },
-  {
     "id": 1467,
     "tld": ".電訊盈科",
     "category": "generic",
@@ -71777,21 +66865,6 @@
     ],
     "lastUpdated": "2025-03-13",
     "registeredOn": "2016-01-08"
-  },
-  {
-    "id": 1469,
-    "tld": ".測試",
-    "category": "test",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/xn--g6w251d.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2020-04-02",
-    "registeredOn": "2007-10-19"
   },
   {
     "id": 1470,
@@ -72084,36 +67157,6 @@
     ],
     "lastUpdated": "2025-07-21",
     "registeredOn": "2016-08-15"
-  },
-  {
-    "id": 1476,
-    "tld": "‏.آزمایشی‎",
-    "category": "test",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/xn--hgbk6aj7f53bba.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2020-04-02",
-    "registeredOn": "2007-10-19"
-  },
-  {
-    "id": 1477,
-    "tld": ".பரிட்சை",
-    "category": "test",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/xn--hlcj6aya9esc7a.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2020-04-02",
-    "registeredOn": "2007-10-19"
   },
   {
     "id": 1478,
@@ -72586,21 +67629,6 @@
     "registeredOn": "2020-05-28"
   },
   {
-    "id": 1486,
-    "tld": ".诺基亚",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/xn--jlq61u9w7b.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2022-12-06",
-    "registeredOn": "2015-04-23"
-  },
-  {
     "id": 1487,
     "tld": ".食品",
     "category": "generic",
@@ -72659,21 +67687,6 @@
     "registeredOn": "2016-01-29"
   },
   {
-    "id": 1488,
-    "tld": ".δοκιμή",
-    "category": "test",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/xn--jxalpdlp.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2020-04-02",
-    "registeredOn": "2007-10-19"
-  },
-  {
     "id": 1489,
     "tld": ".飞利浦",
     "category": "generic",
@@ -72730,21 +67743,6 @@
     ],
     "lastUpdated": "2023-11-30",
     "registeredOn": "2015-02-13"
-  },
-  {
-    "id": 1490,
-    "tld": "‏.إختبار‎",
-    "category": "test",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/xn--kgbechtv.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2020-04-02",
-    "registeredOn": "2007-10-19"
   },
   {
     "id": 1491,
@@ -72857,21 +67855,6 @@
     ],
     "lastUpdated": "2025-07-15",
     "registeredOn": "2010-07-14"
-  },
-  {
-    "id": 1493,
-    "tld": ".手表",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/xn--kpu716f.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2020-06-26",
-    "registeredOn": "2015-11-12"
   },
   {
     "id": 1494,
@@ -73176,21 +68159,6 @@
     "registeredOn": "2016-04-21"
   },
   {
-    "id": 1501,
-    "tld": "‏.اتصالات‎",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/xn--mgbaakc7dvf.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2023-11-17",
-    "registeredOn": "2017-05-18"
-  },
-  {
     "id": 1502,
     "tld": "‏.امارات‎",
     "category": "country-code",
@@ -73321,104 +68289,6 @@
     "registeredOn": "2017-11-28"
   },
   {
-    "id": 1505,
-    "tld": "‏.پاکستان‎",
-    "category": "country-code",
-    "sponsoringOrganization": "National Telecommunication Corporation",
-    "infoUrl": "https://www.iana.org/domains/root/db/xn--mgbai9azgqp6j.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "ns.ntc.net.pk",
-        "ipList": [
-          "202.83.164.166"
-        ]
-      },
-      {
-        "host": "ns1.ntc.net.pk",
-        "ipList": [
-          "202.83.164.167"
-        ]
-      },
-      {
-        "host": "ns2.ntc.net.pk",
-        "ipList": [
-          "175.107.198.150"
-        ]
-      }
-    ],
-    "lastUpdated": "2023-03-07",
-    "registeredOn": "2011-02-28"
-  },
-  {
-    "id": 1506,
-    "tld": "‏.الاردن‎",
-    "category": "country-code",
-    "sponsoringOrganization": "Ministry of Digital Economy and Entrepreneurship (MoDEE)",
-    "infoUrl": "https://www.iana.org/domains/root/db/xn--mgbayh7gpa.html",
-    "registry": {
-      "registrationServiceUrl": "https://dns.jo/",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "amra.nic.gov.jo",
-        "ipList": [
-          "193.188.66.103"
-        ]
-      },
-      {
-        "host": "cloudns.nic.net.jo",
-        "ipList": [
-          "54.155.28.251",
-          "2a05:d018:123c:3500:3e00:7185:3a6e:e082"
-        ]
-      },
-      {
-        "host": "jo.cctld.authdns.ripe.net",
-        "ipList": [
-          "193.0.9.83",
-          "2a13:27c0:30:0:0:0:0:83"
-        ]
-      },
-      {
-        "host": "jordan1st.nic.gov.jo",
-        "ipList": [
-          "193.188.69.19",
-          "2a02:9c0:0:19:0:0:0:19"
-        ]
-      },
-      {
-        "host": "petra.nic.gov.jo",
-        "ipList": [
-          "193.188.66.2"
-        ]
-      }
-    ],
-    "lastUpdated": "2024-09-19",
-    "registeredOn": "2010-08-20"
-  },
-  {
-    "id": 1507,
-    "tld": "‏.موبايلي‎",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/xn--mgbb9fbpob.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2019-09-09",
-    "registeredOn": "2015-12-03"
-  },
-  {
     "id": 1508,
     "tld": "‏.بارت‎",
     "category": "country-code",
@@ -73507,74 +68377,6 @@
     "registeredOn": "2011-02-05"
   },
   {
-    "id": 1510,
-    "tld": "‏.المغرب‎",
-    "category": "country-code",
-    "sponsoringOrganization": "Agence Nationale de Réglementation des Télécommunications (ANRT)",
-    "infoUrl": "https://www.iana.org/domains/root/db/xn--mgbc0a9azcg.html",
-    "registry": {
-      "registrationServiceUrl": "http://www.registre.ma",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "a.tld.ma",
-        "ipList": [
-          "81.192.171.83",
-          "81.192.171.131",
-          "2001:4288:1800:186:0:0:0:3"
-        ]
-      },
-      {
-        "host": "b.tld.ma",
-        "ipList": [
-          "81.192.171.132",
-          "81.192.171.84",
-          "2001:4288:1800:186:0:0:0:4"
-        ]
-      },
-      {
-        "host": "c.tld.ma",
-        "ipList": [
-          "81.192.171.115",
-          "81.192.171.139",
-          "2001:4288:1800:386:0:0:0:3"
-        ]
-      },
-      {
-        "host": "d.tld.ma",
-        "ipList": [
-          "81.192.171.116",
-          "81.192.171.140",
-          "2001:4288:1800:386:0:0:0:4"
-        ]
-      },
-      {
-        "host": "e.tld.ma",
-        "ipList": [
-          "105.73.80.236"
-        ]
-      },
-      {
-        "host": "f.tld.ma",
-        "ipList": [
-          "41.214.240.4",
-          "2c0f:fb20:100:fc:0:0:0:33"
-        ]
-      },
-      {
-        "host": "ns-ma.nic.fr",
-        "ipList": [
-          "194.0.9.1",
-          "2001:678:c:0:0:0:0:1"
-        ]
-      }
-    ],
-    "lastUpdated": "2023-03-07",
-    "registeredOn": "2011-02-05"
-  },
-  {
     "id": 1511,
     "tld": "‏.ابوظبي‎",
     "category": "generic",
@@ -73617,50 +68419,6 @@
     ],
     "lastUpdated": "2019-11-26",
     "registeredOn": "2016-03-03"
-  },
-  {
-    "id": 1512,
-    "tld": "‏.البحرين‎",
-    "category": "country-code",
-    "sponsoringOrganization": "Telecommunications Regulatory Authority (TRA)",
-    "infoUrl": "https://www.iana.org/domains/root/db/xn--mgbcpq6gpa1a.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "a.nic.xn--mgbcpq6gpa1a",
-        "ipList": [
-          "194.169.218.115",
-          "2001:67c:13cc:0:0:0:1:115"
-        ]
-      },
-      {
-        "host": "b.nic.xn--mgbcpq6gpa1a",
-        "ipList": [
-          "185.24.64.115",
-          "2a04:2b00:13cc:0:0:0:1:115"
-        ]
-      },
-      {
-        "host": "c.nic.xn--mgbcpq6gpa1a",
-        "ipList": [
-          "212.18.248.115",
-          "2a04:2b00:13ee:0:0:0:0:115"
-        ]
-      },
-      {
-        "host": "d.nic.xn--mgbcpq6gpa1a",
-        "ipList": [
-          "212.18.249.115",
-          "2a04:2b00:13ff:0:0:0:0:115"
-        ]
-      }
-    ],
-    "lastUpdated": "2024-07-01",
-    "registeredOn": "2019-06-13"
   },
   {
     "id": 1513,
@@ -73842,35 +68600,6 @@
     ],
     "lastUpdated": "2023-12-21",
     "registeredOn": "2016-11-16"
-  },
-  {
-    "id": 1516,
-    "tld": "‏.سودان‎",
-    "category": "country-code",
-    "sponsoringOrganization": "Sudan Internet Society",
-    "infoUrl": "https://www.iana.org/domains/root/db/xn--mgbpl2fh.html",
-    "registry": {
-      "registrationServiceUrl": "http://domains.sd",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "ans1.sis.sd",
-        "ipList": [
-          "196.29.166.134"
-        ]
-      },
-      {
-        "host": "pch.sis.sd",
-        "ipList": [
-          "204.61.216.97",
-          "2001:500:14:6097:ad:0:0:1"
-        ]
-      }
-    ],
-    "lastUpdated": "2023-03-07",
-    "registeredOn": "2012-11-20"
   },
   {
     "id": 1517,
@@ -74344,36 +69073,6 @@
     "registeredOn": "2017-05-11"
   },
   {
-    "id": 1526,
-    "tld": ".გე",
-    "category": "country-code",
-    "sponsoringOrganization": "Information Technologies Development Center (ITDC)",
-    "infoUrl": "https://www.iana.org/domains/root/db/xn--node.html",
-    "registry": {
-      "registrationServiceUrl": "http://xn--lodaehvb5cdik4g.xn--node",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "xn--node.ns.anycast.pch.net",
-        "ipList": [
-          "204.61.216.88",
-          "2001:500:14:6088:ad:0:0:1"
-        ]
-      },
-      {
-        "host": "xn--node.ns.cloudhosted.io",
-        "ipList": [
-          "188.93.94.2",
-          "2a0a:5000:0:4:0:0:0:2"
-        ]
-      }
-    ],
-    "lastUpdated": "2024-06-26",
-    "registeredOn": "2011-02-11"
-  },
-  {
     "id": 1527,
     "tld": ".机构",
     "category": "generic",
@@ -74748,21 +69447,6 @@
     "registeredOn": "2010-05-12"
   },
   {
-    "id": 1535,
-    "tld": ".珠宝",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/xn--pbt977c.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2020-06-26",
-    "registeredOn": "2015-11-12"
-  },
-  {
     "id": 1536,
     "tld": "‏.تونس‎",
     "category": "country-code",
@@ -75059,55 +69743,6 @@
     ],
     "lastUpdated": "2023-03-07",
     "registeredOn": "2019-07-18"
-  },
-  {
-    "id": 1542,
-    "tld": ".ελ",
-    "category": "country-code",
-    "sponsoringOrganization": "ICS-FORTH GR",
-    "infoUrl": "https://www.iana.org/domains/root/db/xn--qxam.html",
-    "registry": {
-      "registrationServiceUrl": "http://www.gr",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "estia.ics.forth.gr",
-        "ipList": [
-          "139.91.191.3",
-          "2001:648:2c30:0:0:0:191:3"
-        ]
-      },
-      {
-        "host": "gr-at.ics.forth.gr",
-        "ipList": [
-          "78.104.145.227"
-        ]
-      },
-      {
-        "host": "gr-c.ics.forth.gr",
-        "ipList": [
-          "194.0.1.25",
-          "2001:678:4:0:0:0:0:19"
-        ]
-      },
-      {
-        "host": "gr-d.ics.forth.gr",
-        "ipList": [
-          "194.0.11.102",
-          "2001:678:e:102:0:0:0:53"
-        ]
-      },
-      {
-        "host": "grdns.ics.forth.gr",
-        "ipList": [
-          "139.91.1.1"
-        ]
-      }
-    ],
-    "lastUpdated": "2023-03-07",
-    "registeredOn": "2015-05-06"
   },
   {
     "id": 1543,
@@ -75842,46 +70477,6 @@
     "registeredOn": "2016-02-05"
   },
   {
-    "id": 1558,
-    "tld": "‏.مصر‎",
-    "category": "country-code",
-    "sponsoringOrganization": "National Telecommunication Regulatory Authority - NTRA",
-    "infoUrl": "https://www.iana.org/domains/root/db/xn--wgbh1c.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "ns1.dotmasr.eg",
-        "ipList": [
-          "81.21.97.155"
-        ]
-      },
-      {
-        "host": "ns2.dotmasr.eg",
-        "ipList": [
-          "81.21.99.11"
-        ]
-      },
-      {
-        "host": "ns3.dotmasr.eg",
-        "ipList": [
-          "81.10.38.11"
-        ]
-      },
-      {
-        "host": "ns4.dotmasr.eg",
-        "ipList": [
-          "204.61.216.106"
-        ]
-      }
-    ],
-    "lastUpdated": "2023-07-25",
-    "registeredOn": "2010-05-05"
-  },
-  {
     "id": 1559,
     "tld": "‏.قطر‎",
     "category": "country-code",
@@ -76003,63 +70598,6 @@
     ],
     "lastUpdated": "2022-04-22",
     "registeredOn": "2014-07-24"
-  },
-  {
-    "id": 1561,
-    "tld": ".இலங்கை",
-    "category": "country-code",
-    "sponsoringOrganization": "LK Domain Registry",
-    "infoUrl": "https://www.iana.org/domains/root/db/xn--xkc2al3hye2a.html",
-    "registry": {
-      "registrationServiceUrl": "http://www.domains.lk",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "h.nic.lk",
-        "ipList": [
-          "43.252.12.206",
-          "2404:8a00:0:a00:0:0:0:4005"
-        ]
-      },
-      {
-        "host": "m.nic.lk",
-        "ipList": [
-          "202.129.235.229",
-          "2407:c00:21:8:202:129:235:229"
-        ]
-      },
-      {
-        "host": "ns1.ac.lk",
-        "ipList": [
-          "192.248.1.162",
-          "2401:dd00:1:0:0:0:0:162"
-        ]
-      },
-      {
-        "host": "p.nic.lk",
-        "ipList": [
-          "204.61.216.27",
-          "2001:500:14:6027:ad:0:0:1"
-        ]
-      },
-      {
-        "host": "t.nic.lk",
-        "ipList": [
-          "203.94.66.129",
-          "2402:d000:100c:0:0:0:0:129"
-        ]
-      },
-      {
-        "host": "y.nic.lk",
-        "ipList": [
-          "194.0.1.27"
-        ]
-      }
-    ],
-    "lastUpdated": "2025-06-24",
-    "registeredOn": "2010-08-19"
   },
   {
     "id": 1562,
@@ -76262,21 +70800,6 @@
     "registeredOn": "2010-08-20"
   },
   {
-    "id": 1566,
-    "tld": ".テスト",
-    "category": "test",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/xn--zckzah.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2020-04-02",
-    "registeredOn": "2007-10-19"
-  },
-  {
     "id": 1567,
     "tld": ".政务",
     "category": "generic",
@@ -76324,21 +70847,6 @@
     ],
     "lastUpdated": "2024-07-18",
     "registeredOn": "2013-12-12"
-  },
-  {
-    "id": 1568,
-    "tld": ".xperia",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/xperia.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2018-07-21",
-    "registeredOn": "2015-07-23"
   },
   {
     "id": 1569,
@@ -77058,42 +71566,6 @@
     "registeredOn": "2016-03-18"
   },
   {
-    "id": 1583,
-    "tld": ".za",
-    "category": "country-code",
-    "sponsoringOrganization": "ZA Domain Name Authority",
-    "infoUrl": "https://www.iana.org/domains/root/db/za.html",
-    "registry": {
-      "registrationServiceUrl": "http://www.zadna.org.za/",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "nsza.is.co.za",
-        "ipList": [
-          "196.4.160.27"
-        ]
-      },
-      {
-        "host": "za-ns.anycast.pch.net",
-        "ipList": [
-          "204.61.216.55",
-          "2001:500:14:6055:ad:0:0:1"
-        ]
-      },
-      {
-        "host": "za1.dnsnode.net",
-        "ipList": [
-          "194.146.106.78",
-          "2001:67c:1010:19:0:0:0:53"
-        ]
-      }
-    ],
-    "lastUpdated": "2025-04-16",
-    "registeredOn": "1990-11-07"
-  },
-  {
     "id": 1584,
     "tld": ".zappos",
     "category": "generic",
@@ -77319,21 +71791,6 @@
     "registeredOn": "2014-08-23"
   },
   {
-    "id": 1588,
-    "tld": ".zippo",
-    "category": "generic",
-    "sponsoringOrganization": "Not assigned",
-    "infoUrl": "https://www.iana.org/domains/root/db/zippo.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [],
-    "lastUpdated": "2019-02-15",
-    "registeredOn": "2016-05-26"
-  },
-  {
     "id": 1589,
     "tld": ".zm",
     "category": "country-code",
@@ -77471,56 +71928,5 @@
     ],
     "lastUpdated": "2023-10-16",
     "registeredOn": "2014-12-18"
-  },
-  {
-    "id": 1592,
-    "tld": ".zw",
-    "category": "country-code",
-    "sponsoringOrganization": "Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)",
-    "infoUrl": "https://www.iana.org/domains/root/db/zw.html",
-    "registry": {
-      "registrationServiceUrl": "",
-      "whoisServer": "",
-      "rdapServer": ""
-    },
-    "nameServers": [
-      {
-        "host": "ns1.liquidtelecom.net",
-        "ipList": [
-          "5.11.11.1",
-          "2c0f:fe40:0:0:5:11:11:1"
-        ]
-      },
-      {
-        "host": "ns1zim.telone.co.zw",
-        "ipList": [
-          "41.220.30.81",
-          "2c0f:f758:0:a:0:0:0:81"
-        ]
-      },
-      {
-        "host": "ns2.liquidtelecom.net",
-        "ipList": [
-          "5.11.11.10",
-          "2c0f:fe40:0:0:5:11:11:10"
-        ]
-      },
-      {
-        "host": "ns2zim.telone.co.zw",
-        "ipList": [
-          "41.220.30.82",
-          "2c0f:f758:0:a:0:0:0:82"
-        ]
-      },
-      {
-        "host": "zw-ns.anycast.pch.net",
-        "ipList": [
-          "204.61.216.128",
-          "2001:500:14:6128:ad:0:0:1"
-        ]
-      }
-    ],
-    "lastUpdated": "2021-03-11",
-    "registeredOn": "1991-11-06"
   }
 ]

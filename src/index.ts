@@ -24,7 +24,7 @@ export const getTLDData = async () => {
             const infoUrl = BASE_URL + linkEl.attr('href')
             const category = $(el).find('td:nth-child(2)').text().trim()
             let sponsoringOrganization = $(el).find('td:nth-child(3)').text().trim()
-            sponsoringOrganization = sponsoringOrganization.replace(/\n/g, ' ')
+            sponsoringOrganization = sponsoringOrganization.replace(/\n/g, ' ').trim()
             if (tld) {
                 tldMetadataList.push({ id: i + 1, tld, category, sponsoringOrganization, infoUrl })
             }
@@ -33,8 +33,14 @@ export const getTLDData = async () => {
         console.log('✅ Total TLDMetadata :', tldMetadataList.length)
         const tLDRecords = await getTLDRecordsWithRetry(tldMetadataList)
 
-        await saveToJsonFile(tLDRecords, 'tlds')
-        await saveToReadmeFile(tLDRecords)
+        const cleanedTLDRecords = tLDRecords.filter((record) => record.registry.rdapServer || record.registry.whoisServer)
+        const genericTLDRecords = cleanedTLDRecords.filter((record) => record.category === 'generic')
+        const countryCodeTLDRecords = cleanedTLDRecords.filter((record) => record.category === 'country-code')
+
+        await saveToJsonFile(cleanedTLDRecords, 'data/tlds')
+        await saveToJsonFile(genericTLDRecords, 'data/generic-tlds')
+        await saveToJsonFile(countryCodeTLDRecords, 'data/country-code-tlds')
+        await saveToReadmeFile(genericTLDRecords, countryCodeTLDRecords)
 
         const diffInSeconds = (Date.now() - timeStart) / 1000
         console.log(getInfoTable(tldMetadataList, tLDRecords, diffInSeconds))

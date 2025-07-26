@@ -67,15 +67,20 @@ const getTLDData = () => __awaiter(void 0, void 0, void 0, function* () {
             const infoUrl = constant_1.BASE_URL + linkEl.attr('href');
             const category = $(el).find('td:nth-child(2)').text().trim();
             let sponsoringOrganization = $(el).find('td:nth-child(3)').text().trim();
-            sponsoringOrganization = sponsoringOrganization.replace(/\n/g, ' ');
+            sponsoringOrganization = sponsoringOrganization.replace(/\n/g, ' ').trim();
             if (tld) {
                 tldMetadataList.push({ id: i + 1, tld, category, sponsoringOrganization, infoUrl });
             }
         });
         console.log('✅ Total TLDMetadata :', tldMetadataList.length);
         const tLDRecords = yield getTLDRecordsWithRetry(tldMetadataList);
-        yield (0, utils_1.saveToJsonFile)(tLDRecords, 'tlds');
-        yield (0, utils_1.saveToReadmeFile)(tLDRecords);
+        const cleanedTLDRecords = tLDRecords.filter((record) => record.registry.rdapServer || record.registry.whoisServer);
+        const genericTLDRecords = cleanedTLDRecords.filter((record) => record.category === 'generic');
+        const countryCodeTLDRecords = cleanedTLDRecords.filter((record) => record.category === 'country-code');
+        yield (0, utils_1.saveToJsonFile)(cleanedTLDRecords, 'data/tlds');
+        yield (0, utils_1.saveToJsonFile)(genericTLDRecords, 'data/generic-tlds');
+        yield (0, utils_1.saveToJsonFile)(countryCodeTLDRecords, 'data/country-code-tlds');
+        yield (0, utils_1.saveToReadmeFile)(genericTLDRecords, countryCodeTLDRecords);
         const diffInSeconds = (Date.now() - timeStart) / 1000;
         console.log((0, utils_1.getInfoTable)(tldMetadataList, tLDRecords, diffInSeconds));
     }
