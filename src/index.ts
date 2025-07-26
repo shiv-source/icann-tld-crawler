@@ -24,7 +24,7 @@ export const getTLDData = async () => {
             const infoUrl = BASE_URL + linkEl.attr('href')
             const category = $(el).find('td:nth-child(2)').text().trim()
             let sponsoringOrganization = $(el).find('td:nth-child(3)').text().trim()
-            sponsoringOrganization = sponsoringOrganization.replace(/\n/g, ' ')
+            sponsoringOrganization = sponsoringOrganization.replace(/\n/g, ' ').trim()
             if (tld) {
                 tldMetadataList.push({ id: i + 1, tld, category, sponsoringOrganization, infoUrl })
             }
