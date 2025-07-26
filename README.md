@@ -18,7 +18,7 @@ This tool collects all publicly available TLD data from ICANN and outputs a list
 
 ## 📅 Last Updated
 
-> **Data Refreshed On:** `Fri, 25 Jul 2025 09:44:21 GMT`
+> **Data Refreshed On:** `Sat, 26 Jul 2025 03:39:48 GMT`
 
 > The TLD dataset is automatically crawled and regenerated daily.  
 > Output is saved in [`tlds.json`](./tlds.json) and reflected below in the summary table.
