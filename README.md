@@ -22,6 +22,7 @@ The output is suitable for developers, researchers, domain registrars, and secur
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 > **Data Refreshed On:** `Sat, 26 Jul 2025 03:39:48 GMT`
 =======
 > **Last Refreshed On:** `Sat, 26 Jul 2025 03:18:56 GMT`
@@ -29,6 +30,9 @@ The output is suitable for developers, researchers, domain registrars, and secur
 =======
 > **Last Refreshed On:** `Sat, 26 Jul 2025 03:43:34 GMT`
 >>>>>>> 6be26cc (chore: 📝 updated tlds and README.md after ⚙️ build executable)
+=======
+> **Last Refreshed On:** `Sat, 26 Jul 2025 03:51:14 GMT`
+>>>>>>> 4accaf6 (chore: 📝 updated tlds and README.md after ⚙️ build executable)
 
 > This dataset is automatically updated on a daily basis by the crawler.  
 > Outputs are written to JSON files and previewed in tabular format below.
@@ -39,7 +43,6 @@ The output is suitable for developers, researchers, domain registrars, and secur
 
 ### 🌍 Generic TLDs
 
-```ejs
 | ID   | TLD                                                                                      | WhoIs Server                       | RDAP Server                                            | Sponsor Organization                                                                                                     |
 | ---- | ---------------------------------------------------------------------------------------- | ---------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
 | 0    | [.aaa](https://www.iana.org/domains/root/db/aaa.html)                                    | whois.nic.aaa                      | https://rdap.nic.aaa/                                  | American Automobile Association, Inc.                                                                                    |
@@ -1155,7 +1158,6 @@ The output is suitable for developers, researchers, domain registrars, and secur
 | 1110 | [.zip](https://www.iana.org/domains/root/db/zip.html)                                    | N/A                                | https://pubapi.registry.google/rdap/                   | Charleston Road Registry Inc.                                                                                            |
 | 1111 | [.zone](https://www.iana.org/domains/root/db/zone.html)                                  | whois.nic.zone                     | https://rdap.identitydigital.services/rdap/            | Binky Moon, LLC                                                                                                          |
 | 1112 | [.zuerich](https://www.iana.org/domains/root/db/zuerich.html)                            | whois.nic.zuerich                  | https://rdap.centralnic.com/zuerich                    | Kanton Zürich (Canton of Zurich)                                                                                         |
-````
 
 > 📦 Full dataset available in [`generic-tlds.json`](./data/generic-tlds.json)
 > 💡 This table is automatically regenerated daily from live ICANN data.
@@ -1164,7 +1166,6 @@ The output is suitable for developers, researchers, domain registrars, and secur
 
 ### 🏳️ Country Code TLDs
 
-```ejs
 | ID  | TLD                                                                              | WhoIs Server                   | RDAP Server                                 | Sponsor Organization                                                                                         |
 | --- | -------------------------------------------------------------------------------- | ------------------------------ | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | 0   | [.ac](https://www.iana.org/domains/root/db/ac.html)                              | whois.nic.ac                   | N/A                                         | Internet Computer Bureau Limited                                                                             |
@@ -1404,7 +1405,7 @@ The output is suitable for developers, researchers, domain registrars, and secur
 | 234 | [.ye](https://www.iana.org/domains/root/db/ye.html)                              | whois.y.net.ye                 | https://rdap.y.net.ye/                      | TeleYemen                                                                                                    |
 | 235 | [.yt](https://www.iana.org/domains/root/db/yt.html)                              | whois.nic.yt                   | https://rdap.nic.yt/                        | Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)                                   |
 | 236 | [.zm](https://www.iana.org/domains/root/db/zm.html)                              | whois.zicta.zm                 | https://rdap.nic.zm                         | Zambia Information and Communications Technology Authority (ZICTA)                                           |
-```
+
 
 > 📦 Full dataset available in [`country-code-tlds.json`](./data/country-code-tlds.json)
 > 💡 This table is also auto-updated every 24 hours.
@@ -1450,7 +1451,7 @@ npm install
 npm start
 ```
 
-The crawler will fetch and store the latest TLD data in `tlds.json`, `generic.json`, and `country-code-tlds.json`.
+The crawler will fetch and store the latest TLD data in `tlds.json`, `generic-tlds.json`, and `country-code-tlds.json`.
 
 ---
 
