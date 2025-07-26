@@ -1,13 +1,13 @@
-name: Build Executable and Update TLDRecords CI
+name: Build Executable and Update TLDRecords CI (Dev)
 
 on:
     push:
         branches:
-            - master
+            - dev
 
     pull_request:
         branches:
-            - master
+            - dev
 
     workflow_dispatch:
 
