@@ -20,19 +20,7 @@ The output is suitable for developers, researchers, domain registrars, and secur
 
 ## 📅 Data Freshness
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-> **Data Refreshed On:** `Sat, 26 Jul 2025 03:39:48 GMT`
-=======
-> **Last Refreshed On:** `Sat, 26 Jul 2025 03:18:56 GMT`
->>>>>>> 54a1671 (fix: fix the table issue)
-=======
-> **Last Refreshed On:** `Sat, 26 Jul 2025 03:43:34 GMT`
->>>>>>> 6be26cc (chore: 📝 updated tlds and README.md after ⚙️ build executable)
-=======
-> **Last Refreshed On:** `Sat, 26 Jul 2025 03:51:14 GMT`
->>>>>>> 4accaf6 (chore: 📝 updated tlds and README.md after ⚙️ build executable)
+> **Last Refreshed On:** `Sat, 26 Jul 2025 03:58:39 GMT`
 
 > This dataset is automatically updated on a daily basis by the crawler.  
 > Outputs are written to JSON files and previewed in tabular format below.
