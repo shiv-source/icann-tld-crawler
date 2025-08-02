@@ -48,7 +48,7 @@ const extractRegistryInfo = ($) => {
     return {
         registrationServiceUrl: url,
         whoisServer: whois,
-        rdapServer: rdap
+        rdapServer: rdap.replace(/\/$/, '')
     };
 };
 const extractDates = ($) => {

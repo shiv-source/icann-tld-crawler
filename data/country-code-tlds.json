@@ -234,7 +234,7 @@
     "registry": {
       "registrationServiceUrl": "https://nic.ai",
       "whoisServer": "whois.nic.ai",
-      "rdapServer": "https://rdap.identitydigital.services/rdap/"
+      "rdapServer": "https://rdap.identitydigital.services/rdap"
     },
     "nameServers": [
       {
@@ -952,7 +952,7 @@
     "registry": {
       "registrationServiceUrl": "http://www.bermudanic.bm",
       "whoisServer": "whois.nic.bm",
-      "rdapServer": "https://rdap.identitydigital.services/rdap/"
+      "rdapServer": "https://rdap.identitydigital.services/rdap"
     },
     "nameServers": [
       {
@@ -1095,7 +1095,7 @@
     "registry": {
       "registrationServiceUrl": "http://registro.br/",
       "whoisServer": "whois.registro.br",
-      "rdapServer": "https://rdap.registro.br/"
+      "rdapServer": "https://rdap.registro.br"
     },
     "nameServers": [
       {
@@ -1245,7 +1245,7 @@
     "registry": {
       "registrationServiceUrl": "http://www.cira.ca/",
       "whoisServer": "whois.cira.ca",
-      "rdapServer": "https://rdap.ca.fury.ca/rdap/"
+      "rdapServer": "https://rdap.ca.fury.ca/rdap"
     },
     "nameServers": [
       {
@@ -1289,7 +1289,7 @@
     "registry": {
       "registrationServiceUrl": "http://www.nic.cc/",
       "whoisServer": "ccwhois.verisign-grs.com",
-      "rdapServer": "https://tld-rdap.verisign.com/cc/v1/"
+      "rdapServer": "https://tld-rdap.verisign.com/cc/v1"
     },
     "nameServers": [
       {
@@ -1543,7 +1543,7 @@
     "registry": {
       "registrationServiceUrl": "https://www.nic.cm",
       "whoisServer": "whois.nic.cm",
-      "rdapServer": "https://rdap.nic.cm/"
+      "rdapServer": "https://rdap.nic.cm"
     },
     "nameServers": [
       {
@@ -1734,7 +1734,7 @@
     "registry": {
       "registrationServiceUrl": "http://www.nic.cr/",
       "whoisServer": "whois.nic.cr",
-      "rdapServer": "https://rdap.nic.cr/"
+      "rdapServer": "https://rdap.nic.cr"
     },
     "nameServers": [
       {
@@ -2404,7 +2404,7 @@
     "registry": {
       "registrationServiceUrl": "https://domain.fi",
       "whoisServer": "whois.fi",
-      "rdapServer": "https://rdap.fi/rdap/rdap/"
+      "rdapServer": "https://rdap.fi/rdap/rdap"
     },
     "nameServers": [
       {
@@ -2532,7 +2532,7 @@
     "registry": {
       "registrationServiceUrl": "https://www.dot.fm/",
       "whoisServer": "whois.nic.fm",
-      "rdapServer": "https://rdap.centralnic.com/fm/"
+      "rdapServer": "https://rdap.centralnic.com/fm"
     },
     "nameServers": [
       {
@@ -2634,7 +2634,7 @@
     "registry": {
       "registrationServiceUrl": "https://www.nic.fr",
       "whoisServer": "whois.nic.fr",
-      "rdapServer": "https://rdap.nic.fr/"
+      "rdapServer": "https://rdap.nic.fr"
     },
     "nameServers": [
       {
@@ -3303,7 +3303,7 @@
     "registry": {
       "registrationServiceUrl": "https://www.nic.hn",
       "whoisServer": "whois.nic.hn",
-      "rdapServer": "https://rdap.nic.hn/"
+      "rdapServer": "https://rdap.nic.hn"
     },
     "nameServers": [
       {
@@ -3383,7 +3383,7 @@
     "registry": {
       "registrationServiceUrl": "http://www.nic.ht",
       "whoisServer": "whois.nic.ht",
-      "rdapServer": "https://rdap.nic.ht/"
+      "rdapServer": "https://rdap.nic.ht"
     },
     "nameServers": [
       {
@@ -3478,7 +3478,7 @@
     "registry": {
       "registrationServiceUrl": "https://pandi.id",
       "whoisServer": "whois.id",
-      "rdapServer": "https://rdap.pandi.id/rdap/"
+      "rdapServer": "https://rdap.pandi.id/rdap"
     },
     "nameServers": [
       {
@@ -3698,7 +3698,7 @@
     "registry": {
       "registrationServiceUrl": "https://registry.in",
       "whoisServer": "whois.nixiregistry.in",
-      "rdapServer": "https://rdap.nixiregistry.in/rdap/"
+      "rdapServer": "https://rdap.nixiregistry.in/rdap"
     },
     "nameServers": [
       {
@@ -3873,7 +3873,7 @@
     "registry": {
       "registrationServiceUrl": "https://www.isnic.is/",
       "whoisServer": "whois.isnic.is",
-      "rdapServer": "https://rdap.isnic.is/rdap/"
+      "rdapServer": "https://rdap.isnic.is/rdap"
     },
     "nameServers": [
       {
@@ -4158,7 +4158,7 @@
     "registry": {
       "registrationServiceUrl": "https://www.cctld.kg/",
       "whoisServer": "whois.kg",
-      "rdapServer": "http://rdap.cctld.kg/"
+      "rdapServer": "http://rdap.cctld.kg"
     },
     "nameServers": [
       {
@@ -4323,7 +4323,7 @@
     "registry": {
       "registrationServiceUrl": "http://uniregistry.com",
       "whoisServer": "whois.kyregistry.ky",
-      "rdapServer": "https://whois.kyregistry.ky/rdap/"
+      "rdapServer": "https://whois.kyregistry.ky/rdap"
     },
     "nameServers": [
       {
@@ -5468,7 +5468,7 @@
     "registry": {
       "registrationServiceUrl": "http://www.nic.mu/",
       "whoisServer": "whois.tld.mu",
-      "rdapServer": "https://rdap.identitydigital.services/rdap/"
+      "rdapServer": "https://rdap.identitydigital.services/rdap"
     },
     "nameServers": [
       {
@@ -5947,7 +5947,7 @@
     "registry": {
       "registrationServiceUrl": "https://www.sidn.nl/",
       "whoisServer": "whois.domain-registry.nl",
-      "rdapServer": "https://rdap.sidn.nl/"
+      "rdapServer": "https://rdap.sidn.nl"
     },
     "nameServers": [
       {
@@ -5984,7 +5984,7 @@
     "registry": {
       "registrationServiceUrl": "http://www.norid.no",
       "whoisServer": "whois.norid.no",
-      "rdapServer": "https://rdap.norid.no/"
+      "rdapServer": "https://rdap.norid.no"
     },
     "nameServers": [
       {
@@ -6435,7 +6435,7 @@
     "registry": {
       "registrationServiceUrl": "http://www.nic.pm",
       "whoisServer": "whois.nic.pm",
-      "rdapServer": "https://rdap.nic.pm/"
+      "rdapServer": "https://rdap.nic.pm"
     },
     "nameServers": [
       {
@@ -6472,7 +6472,7 @@
     "registry": {
       "registrationServiceUrl": "https://nic.pn",
       "whoisServer": "",
-      "rdapServer": "https://rdap.nominet.uk/pn/"
+      "rdapServer": "https://rdap.nominet.uk/pn"
     },
     "nameServers": [
       {
@@ -6813,7 +6813,7 @@
     "registry": {
       "registrationServiceUrl": "http://www.nic.re",
       "whoisServer": "whois.nic.re",
-      "rdapServer": "https://rdap.nic.re/"
+      "rdapServer": "https://rdap.nic.re"
     },
     "nameServers": [
       {
@@ -7500,7 +7500,7 @@
     "registry": {
       "registrationServiceUrl": "https://www.registry.si/",
       "whoisServer": "whois.register.si",
-      "rdapServer": "https://rdap.register.si/"
+      "rdapServer": "https://rdap.register.si"
     },
     "nameServers": [
       {
@@ -7743,7 +7743,7 @@
     "registry": {
       "registrationServiceUrl": "https://isp.datasur.sr/",
       "whoisServer": "whois.sr",
-      "rdapServer": "https://whois.sr/rdap/"
+      "rdapServer": "https://whois.sr/rdap"
     },
     "nameServers": [
       {
@@ -8096,7 +8096,7 @@
     "registry": {
       "registrationServiceUrl": "http://www.nic.tf",
       "whoisServer": "whois.nic.tf",
-      "rdapServer": "https://rdap.nic.tf/"
+      "rdapServer": "https://rdap.nic.tf"
     },
     "nameServers": [
       {
@@ -8459,7 +8459,7 @@
     "registry": {
       "registrationServiceUrl": "http://www.tonic.to/",
       "whoisServer": "whois.tonicregistry.to",
-      "rdapServer": "https://rdap.tonicregistry.to/rdap/"
+      "rdapServer": "https://rdap.tonicregistry.to/rdap"
     },
     "nameServers": [
       {
@@ -8563,7 +8563,7 @@
     "registry": {
       "registrationServiceUrl": "https://turnon.tv/",
       "whoisServer": "whois.nic.tv",
-      "rdapServer": "https://rdap.nic.tv/"
+      "rdapServer": "https://rdap.nic.tv"
     },
     "nameServers": [
       {
@@ -8607,7 +8607,7 @@
     "registry": {
       "registrationServiceUrl": "http://rs.twnic.net.tw",
       "whoisServer": "whois.twnic.net.tw",
-      "rdapServer": "https://ccrdap.twnic.tw/tw/"
+      "rdapServer": "https://ccrdap.twnic.tw/tw"
     },
     "nameServers": [
       {
@@ -8684,7 +8684,7 @@
     "registry": {
       "registrationServiceUrl": "https://karibu.tz/",
       "whoisServer": "whois.tznic.or.tz",
-      "rdapServer": "https://whois.tznic.or.tz/rdap/"
+      "rdapServer": "https://whois.tznic.or.tz/rdap"
     },
     "nameServers": [
       {
@@ -8852,7 +8852,7 @@
     "registry": {
       "registrationServiceUrl": "http://www.nic.uk/",
       "whoisServer": "whois.nic.uk",
-      "rdapServer": "https://rdap.nominet.uk/uk/"
+      "rdapServer": "https://rdap.nominet.uk/uk"
     },
     "nameServers": [
       {
@@ -9357,7 +9357,7 @@
     "registry": {
       "registrationServiceUrl": "http://www.nic.wf",
       "whoisServer": "whois.nic.wf",
-      "rdapServer": "https://rdap.nic.wf/"
+      "rdapServer": "https://rdap.nic.wf"
     },
     "nameServers": [
       {
@@ -10608,7 +10608,7 @@
     "registry": {
       "registrationServiceUrl": "http://rs.twnic.net.tw",
       "whoisServer": "whois.twnic.net.tw",
-      "rdapServer": "https://ccrdap.twnic.tw/taiwan/"
+      "rdapServer": "https://ccrdap.twnic.tw/taiwan"
     },
     "nameServers": [
       {
@@ -11921,7 +11921,7 @@
     "registry": {
       "registrationServiceUrl": "",
       "whoisServer": "whois.y.net.ye",
-      "rdapServer": "https://rdap.y.net.ye/"
+      "rdapServer": "https://rdap.y.net.ye"
     },
     "nameServers": [
       {
@@ -11972,7 +11972,7 @@
     "registry": {
       "registrationServiceUrl": "http://www.nic.yt",
       "whoisServer": "whois.nic.yt",
-      "rdapServer": "https://rdap.nic.yt/"
+      "rdapServer": "https://rdap.nic.yt"
     },
     "nameServers": [
       {
