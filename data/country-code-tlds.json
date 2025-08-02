@@ -1,7 +1,7 @@
 [
   {
     "id": 11,
-    "tld": ".ac",
+    "tld": "ac",
     "category": "country-code",
     "sponsoringOrganization": "Internet Computer Bureau Limited",
     "infoUrl": "https://www.iana.org/domains/root/db/ac.html",
@@ -45,7 +45,7 @@
   },
   {
     "id": 19,
-    "tld": ".ad",
+    "tld": "ad",
     "category": "country-code",
     "sponsoringOrganization": "Andorra Telecom",
     "infoUrl": "https://www.iana.org/domains/root/db/ad.html",
@@ -89,7 +89,7 @@
   },
   {
     "id": 23,
-    "tld": ".ae",
+    "tld": "ae",
     "category": "country-code",
     "sponsoringOrganization": "Telecommunications and Digital Government Regulatory Authority (TDRA)",
     "infoUrl": "https://www.iana.org/domains/root/db/ae.html",
@@ -133,7 +133,7 @@
   },
   {
     "id": 27,
-    "tld": ".af",
+    "tld": "af",
     "category": "country-code",
     "sponsoringOrganization": "Ministry of Communications and IT",
     "infoUrl": "https://www.iana.org/domains/root/db/af.html",
@@ -169,7 +169,7 @@
   },
   {
     "id": 31,
-    "tld": ".ag",
+    "tld": "ag",
     "category": "country-code",
     "sponsoringOrganization": "UHSA School of Medicine",
     "infoUrl": "https://www.iana.org/domains/root/db/ag.html",
@@ -227,7 +227,7 @@
   },
   {
     "id": 34,
-    "tld": ".ai",
+    "tld": "ai",
     "category": "country-code",
     "sponsoringOrganization": "Government of Anguilla",
     "infoUrl": "https://www.iana.org/domains/root/db/ai.html",
@@ -285,7 +285,7 @@
   },
   {
     "id": 50,
-    "tld": ".am",
+    "tld": "am",
     "category": "country-code",
     "sponsoringOrganization": "\"Internet Society\" Non-governmental Organization",
     "infoUrl": "https://www.iana.org/domains/root/db/am.html",
@@ -329,7 +329,7 @@
   },
   {
     "id": 70,
-    "tld": ".ar",
+    "tld": "ar",
     "category": "country-code",
     "sponsoringOrganization": "Presidencia de la Nación , Secretaría Legal y Técnica",
     "infoUrl": "https://www.iana.org/domains/root/db/ar.html",
@@ -380,7 +380,7 @@
   },
   {
     "id": 78,
-    "tld": ".as",
+    "tld": "as",
     "category": "country-code",
     "sponsoringOrganization": "AS Domain Registry",
     "infoUrl": "https://www.iana.org/domains/root/db/as.html",
@@ -438,7 +438,7 @@
   },
   {
     "id": 82,
-    "tld": ".at",
+    "tld": "at",
     "category": "country-code",
     "sponsoringOrganization": "nic.at GmbH",
     "infoUrl": "https://www.iana.org/domains/root/db/at.html",
@@ -503,7 +503,7 @@
   },
   {
     "id": 85,
-    "tld": ".au",
+    "tld": "au",
     "category": "country-code",
     "sponsoringOrganization": ".au Domain Administration (auDA)",
     "infoUrl": "https://www.iana.org/domains/root/db/au.html",
@@ -554,7 +554,7 @@
   },
   {
     "id": 95,
-    "tld": ".aw",
+    "tld": "aw",
     "category": "country-code",
     "sponsoringOrganization": "SETAR",
     "infoUrl": "https://www.iana.org/domains/root/db/aw.html",
@@ -603,7 +603,7 @@
   },
   {
     "id": 97,
-    "tld": ".ax",
+    "tld": "ax",
     "category": "country-code",
     "sponsoringOrganization": "Ålands landskapsregering",
     "infoUrl": "https://www.iana.org/domains/root/db/ax.html",
@@ -645,7 +645,7 @@
   },
   {
     "id": 125,
-    "tld": ".be",
+    "tld": "be",
     "category": "country-code",
     "sponsoringOrganization": "DNS Belgium vzw/asbl",
     "infoUrl": "https://www.iana.org/domains/root/db/be.html",
@@ -703,7 +703,7 @@
   },
   {
     "id": 134,
-    "tld": ".bf",
+    "tld": "bf",
     "category": "country-code",
     "sponsoringOrganization": "Autorité de Régulation des Communications Electroniques et des Postes (ARCEP)",
     "infoUrl": "https://www.iana.org/domains/root/db/bf.html",
@@ -745,7 +745,7 @@
   },
   {
     "id": 135,
-    "tld": ".bg",
+    "tld": "bg",
     "category": "country-code",
     "sponsoringOrganization": "Register.BG",
     "infoUrl": "https://www.iana.org/domains/root/db/bg.html",
@@ -803,7 +803,7 @@
   },
   {
     "id": 136,
-    "tld": ".bh",
+    "tld": "bh",
     "category": "country-code",
     "sponsoringOrganization": "Telecommunications Regulatory Authority (TRA)",
     "infoUrl": "https://www.iana.org/domains/root/db/bh.html",
@@ -847,7 +847,7 @@
   },
   {
     "id": 138,
-    "tld": ".bi",
+    "tld": "bi",
     "category": "country-code",
     "sponsoringOrganization": "Centre National de l'Informatique",
     "infoUrl": "https://www.iana.org/domains/root/db/bi.html",
@@ -896,7 +896,7 @@
   },
   {
     "id": 146,
-    "tld": ".bj",
+    "tld": "bj",
     "category": "country-code",
     "sponsoringOrganization": "Autorité de Régulation des Communications Electroniques et de la Poste du Bénin (ARCEP BENIN)",
     "infoUrl": "https://www.iana.org/domains/root/db/bj.html",
@@ -945,7 +945,7 @@
   },
   {
     "id": 155,
-    "tld": ".bm",
+    "tld": "bm",
     "category": "country-code",
     "sponsoringOrganization": "Registry General Department, Ministry of Home Affairs",
     "infoUrl": "https://www.iana.org/domains/root/db/bm.html",
@@ -1003,7 +1003,7 @@
   },
   {
     "id": 158,
-    "tld": ".bn",
+    "tld": "bn",
     "category": "country-code",
     "sponsoringOrganization": "Authority for Info-communications Technology Industry of Brunei Darussalam (AITI)",
     "infoUrl": "https://www.iana.org/domains/root/db/bn.html",
@@ -1045,7 +1045,7 @@
   },
   {
     "id": 161,
-    "tld": ".bo",
+    "tld": "bo",
     "category": "country-code",
     "sponsoringOrganization": "Agencia para el Desarrollo de la Información de la Sociedad en Bolivia",
     "infoUrl": "https://www.iana.org/domains/root/db/bo.html",
@@ -1088,7 +1088,7 @@
   },
   {
     "id": 178,
-    "tld": ".br",
+    "tld": "br",
     "category": "country-code",
     "sponsoringOrganization": "Comite Gestor da Internet no Brasil",
     "infoUrl": "https://www.iana.org/domains/root/db/br.html",
@@ -1146,7 +1146,7 @@
   },
   {
     "id": 195,
-    "tld": ".bw",
+    "tld": "bw",
     "category": "country-code",
     "sponsoringOrganization": "Botswana Communications Regulatory Authority (BOCRA)",
     "infoUrl": "https://www.iana.org/domains/root/db/bw.html",
@@ -1188,7 +1188,7 @@
   },
   {
     "id": 196,
-    "tld": ".by",
+    "tld": "by",
     "category": "country-code",
     "sponsoringOrganization": "Belarusian Cloud Technologies LLC",
     "infoUrl": "https://www.iana.org/domains/root/db/by.html",
@@ -1238,7 +1238,7 @@
   },
   {
     "id": 199,
-    "tld": ".ca",
+    "tld": "ca",
     "category": "country-code",
     "sponsoringOrganization": "Canadian Internet Registration Authority (CIRA) Autorité Canadienne pour les enregistrements Internet (ACEI)",
     "infoUrl": "https://www.iana.org/domains/root/db/ca.html",
@@ -1282,7 +1282,7 @@
   },
   {
     "id": 233,
-    "tld": ".cc",
+    "tld": "cc",
     "category": "country-code",
     "sponsoringOrganization": "eNIC Cocos (Keeling) Islands Pty. Ltd. d/b/a Island Internet Services",
     "infoUrl": "https://www.iana.org/domains/root/db/cc.html",
@@ -1326,7 +1326,7 @@
   },
   {
     "id": 239,
-    "tld": ".cf",
+    "tld": "cf",
     "category": "country-code",
     "sponsoringOrganization": "Societe Centrafricaine de Telecommunications (SOCATEL)",
     "infoUrl": "https://www.iana.org/domains/root/db/cf.html",
@@ -1370,7 +1370,7 @@
   },
   {
     "id": 243,
-    "tld": ".ch",
+    "tld": "ch",
     "category": "country-code",
     "sponsoringOrganization": "SWITCH The Swiss Education & Research Network",
     "infoUrl": "https://www.iana.org/domains/root/db/ch.html",
@@ -1421,7 +1421,7 @@
   },
   {
     "id": 256,
-    "tld": ".ci",
+    "tld": "ci",
     "category": "country-code",
     "sponsoringOrganization": "Autorité de Régulation des Télécommunications/TIC de Côte d’lvoire (ARTCI)",
     "infoUrl": "https://www.iana.org/domains/root/db/ci.html",
@@ -1471,7 +1471,7 @@
   },
   {
     "id": 266,
-    "tld": ".cl",
+    "tld": "cl",
     "category": "country-code",
     "sponsoringOrganization": "NIC Chile (University of Chile)",
     "infoUrl": "https://www.iana.org/domains/root/db/cl.html",
@@ -1536,7 +1536,7 @@
   },
   {
     "id": 276,
-    "tld": ".cm",
+    "tld": "cm",
     "category": "country-code",
     "sponsoringOrganization": "Agence Nationale des Technologies de l'Information et de la Communication (ANTIC)",
     "infoUrl": "https://www.iana.org/domains/root/db/cm.html",
@@ -1598,7 +1598,7 @@
   },
   {
     "id": 277,
-    "tld": ".cn",
+    "tld": "cn",
     "category": "country-code",
     "sponsoringOrganization": "China Internet Network Information Center (CNNIC)",
     "infoUrl": "https://www.iana.org/domains/root/db/cn.html",
@@ -1655,7 +1655,7 @@
   },
   {
     "id": 278,
-    "tld": ".co",
+    "tld": "co",
     "category": "country-code",
     "sponsoringOrganization": "Ministry of Information and Communications Technologies (MinTIC)",
     "infoUrl": "https://www.iana.org/domains/root/db/co.html",
@@ -1727,7 +1727,7 @@
   },
   {
     "id": 307,
-    "tld": ".cr",
+    "tld": "cr",
     "category": "country-code",
     "sponsoringOrganization": "National Academy of Sciences Academia Nacional de Ciencias",
     "infoUrl": "https://www.iana.org/domains/root/db/cr.html",
@@ -1785,7 +1785,7 @@
   },
   {
     "id": 319,
-    "tld": ".cv",
+    "tld": "cv",
     "category": "country-code",
     "sponsoringOrganization": "Agência Reguladora Multissectorial da Economia (ARME)",
     "infoUrl": "https://www.iana.org/domains/root/db/cv.html",
@@ -1828,7 +1828,7 @@
   },
   {
     "id": 321,
-    "tld": ".cx",
+    "tld": "cx",
     "category": "country-code",
     "sponsoringOrganization": "Christmas Island Domain Administration Limited",
     "infoUrl": "https://www.iana.org/domains/root/db/cx.html",
@@ -1864,7 +1864,7 @@
   },
   {
     "id": 325,
-    "tld": ".cz",
+    "tld": "cz",
     "category": "country-code",
     "sponsoringOrganization": "CZ.NIC, z.s.p.o",
     "infoUrl": "https://www.iana.org/domains/root/db/cz.html",
@@ -1908,7 +1908,7 @@
   },
   {
     "id": 336,
-    "tld": ".de",
+    "tld": "de",
     "category": "country-code",
     "sponsoringOrganization": "DENIC eG",
     "infoUrl": "https://www.iana.org/domains/root/db/de.html",
@@ -1966,7 +1966,7 @@
   },
   {
     "id": 362,
-    "tld": ".dk",
+    "tld": "dk",
     "category": "country-code",
     "sponsoringOrganization": "Dansk Internet Forum",
     "infoUrl": "https://www.iana.org/domains/root/db/dk.html",
@@ -2024,7 +2024,7 @@
   },
   {
     "id": 363,
-    "tld": ".dm",
+    "tld": "dm",
     "category": "country-code",
     "sponsoringOrganization": "DotDM Corporation",
     "infoUrl": "https://www.iana.org/domains/root/db/dm.html",
@@ -2081,7 +2081,7 @@
   },
   {
     "id": 365,
-    "tld": ".do",
+    "tld": "do",
     "category": "country-code",
     "sponsoringOrganization": "Pontificia Universidad Catolica Madre y Maestra Recinto Santo Tomas de Aquino",
     "infoUrl": "https://www.iana.org/domains/root/db/do.html",
@@ -2146,7 +2146,7 @@
   },
   {
     "id": 385,
-    "tld": ".dz",
+    "tld": "dz",
     "category": "country-code",
     "sponsoringOrganization": "CERIST",
     "infoUrl": "https://www.iana.org/domains/root/db/dz.html",
@@ -2203,7 +2203,7 @@
   },
   {
     "id": 388,
-    "tld": ".ec",
+    "tld": "ec",
     "category": "country-code",
     "sponsoringOrganization": "ECUADORDOMAIN S.A.",
     "infoUrl": "https://www.iana.org/domains/root/db/ec.html",
@@ -2253,7 +2253,7 @@
   },
   {
     "id": 393,
-    "tld": ".ee",
+    "tld": "ee",
     "category": "country-code",
     "sponsoringOrganization": "Eesti Interneti Sihtasutus (EIS)",
     "infoUrl": "https://www.iana.org/domains/root/db/ee.html",
@@ -2303,7 +2303,7 @@
   },
   {
     "id": 409,
-    "tld": ".es",
+    "tld": "es",
     "category": "country-code",
     "sponsoringOrganization": "Red.es",
     "infoUrl": "https://www.iana.org/domains/root/db/es.html",
@@ -2347,7 +2347,7 @@
   },
   {
     "id": 415,
-    "tld": ".eu",
+    "tld": "eu",
     "category": "country-code",
     "sponsoringOrganization": "EURid vzw/asbl",
     "infoUrl": "https://www.iana.org/domains/root/db/eu.html",
@@ -2397,7 +2397,7 @@
   },
   {
     "id": 440,
-    "tld": ".fi",
+    "tld": "fi",
     "category": "country-code",
     "sponsoringOrganization": "Finnish Transport and Communications Agency Traficom",
     "infoUrl": "https://www.iana.org/domains/root/db/fi.html",
@@ -2476,7 +2476,7 @@
   },
   {
     "id": 455,
-    "tld": ".fj",
+    "tld": "fj",
     "category": "country-code",
     "sponsoringOrganization": "The University of the South Pacific IT Services",
     "infoUrl": "https://www.iana.org/domains/root/db/fj.html",
@@ -2525,7 +2525,7 @@
   },
   {
     "id": 464,
-    "tld": ".fm",
+    "tld": "fm",
     "category": "country-code",
     "sponsoringOrganization": "FSM Telecommunications Corporation",
     "infoUrl": "https://www.iana.org/domains/root/db/fm.html",
@@ -2583,7 +2583,7 @@
   },
   {
     "id": 465,
-    "tld": ".fo",
+    "tld": "fo",
     "category": "country-code",
     "sponsoringOrganization": "FO Council",
     "infoUrl": "https://www.iana.org/domains/root/db/fo.html",
@@ -2627,7 +2627,7 @@
   },
   {
     "id": 476,
-    "tld": ".fr",
+    "tld": "fr",
     "category": "country-code",
     "sponsoringOrganization": "Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)",
     "infoUrl": "https://www.iana.org/domains/root/db/fr.html",
@@ -2664,7 +2664,7 @@
   },
   {
     "id": 503,
-    "tld": ".gd",
+    "tld": "gd",
     "category": "country-code",
     "sponsoringOrganization": "The National Telecommunications Regulatory Commission (NTRC)",
     "infoUrl": "https://www.iana.org/domains/root/db/gd.html",
@@ -2708,7 +2708,7 @@
   },
   {
     "id": 505,
-    "tld": ".ge",
+    "tld": "ge",
     "category": "country-code",
     "sponsoringOrganization": "Caucasus Online LLC",
     "infoUrl": "https://www.iana.org/domains/root/db/ge.html",
@@ -2748,7 +2748,7 @@
   },
   {
     "id": 510,
-    "tld": ".gf",
+    "tld": "gf",
     "category": "country-code",
     "sponsoringOrganization": "CANAL+ TELECOM",
     "infoUrl": "https://www.iana.org/domains/root/db/gf.html",
@@ -2782,7 +2782,7 @@
   },
   {
     "id": 511,
-    "tld": ".gg",
+    "tld": "gg",
     "category": "country-code",
     "sponsoringOrganization": "Island Networks Ltd.",
     "infoUrl": "https://www.iana.org/domains/root/db/gg.html",
@@ -2840,7 +2840,7 @@
   },
   {
     "id": 513,
-    "tld": ".gh",
+    "tld": "gh",
     "category": "country-code",
     "sponsoringOrganization": "Network Computer Systems Limited",
     "infoUrl": "https://www.iana.org/domains/root/db/gh.html",
@@ -2875,7 +2875,7 @@
   },
   {
     "id": 514,
-    "tld": ".gi",
+    "tld": "gi",
     "category": "country-code",
     "sponsoringOrganization": "Sapphire Networks",
     "infoUrl": "https://www.iana.org/domains/root/db/gi.html",
@@ -2933,7 +2933,7 @@
   },
   {
     "id": 519,
-    "tld": ".gl",
+    "tld": "gl",
     "category": "country-code",
     "sponsoringOrganization": "TELE Greenland A/S",
     "infoUrl": "https://www.iana.org/domains/root/db/gl.html",
@@ -2981,7 +2981,7 @@
   },
   {
     "id": 530,
-    "tld": ".gn",
+    "tld": "gn",
     "category": "country-code",
     "sponsoringOrganization": "Centre National des Sciences Halieutiques de Boussoura",
     "infoUrl": "https://www.iana.org/domains/root/db/gn.html",
@@ -3024,7 +3024,7 @@
   },
   {
     "id": 543,
-    "tld": ".gp",
+    "tld": "gp",
     "category": "country-code",
     "sponsoringOrganization": "Networking Technologies Group",
     "infoUrl": "https://www.iana.org/domains/root/db/gp.html",
@@ -3073,7 +3073,7 @@
   },
   {
     "id": 544,
-    "tld": ".gq",
+    "tld": "gq",
     "category": "country-code",
     "sponsoringOrganization": "GETESA",
     "infoUrl": "https://www.iana.org/domains/root/db/gq.html",
@@ -3117,7 +3117,7 @@
   },
   {
     "id": 553,
-    "tld": ".gs",
+    "tld": "gs",
     "category": "country-code",
     "sponsoringOrganization": "Government of South Georgia and South Sandwich Islands (GSGSSI)",
     "infoUrl": "https://www.iana.org/domains/root/db/gs.html",
@@ -3153,7 +3153,7 @@
   },
   {
     "id": 563,
-    "tld": ".gy",
+    "tld": "gy",
     "category": "country-code",
     "sponsoringOrganization": "University of Guyana",
     "infoUrl": "https://www.iana.org/domains/root/db/gy.html",
@@ -3183,7 +3183,7 @@
   },
   {
     "id": 582,
-    "tld": ".hk",
+    "tld": "hk",
     "category": "country-code",
     "sponsoringOrganization": "Hong Kong Internet Registration Corporation Ltd.",
     "infoUrl": "https://www.iana.org/domains/root/db/hk.html",
@@ -3262,7 +3262,7 @@
   },
   {
     "id": 584,
-    "tld": ".hm",
+    "tld": "hm",
     "category": "country-code",
     "sponsoringOrganization": "HM Domain Registry",
     "infoUrl": "https://www.iana.org/domains/root/db/hm.html",
@@ -3296,7 +3296,7 @@
   },
   {
     "id": 585,
-    "tld": ".hn",
+    "tld": "hn",
     "category": "country-code",
     "sponsoringOrganization": "Red de Desarrollo Sostenible Honduras",
     "infoUrl": "https://www.iana.org/domains/root/db/hn.html",
@@ -3339,7 +3339,7 @@
   },
   {
     "id": 605,
-    "tld": ".hr",
+    "tld": "hr",
     "category": "country-code",
     "sponsoringOrganization": "CARNet - Croatian Academic and Research Network",
     "infoUrl": "https://www.iana.org/domains/root/db/hr.html",
@@ -3376,7 +3376,7 @@
   },
   {
     "id": 607,
-    "tld": ".ht",
+    "tld": "ht",
     "category": "country-code",
     "sponsoringOrganization": "Consortium FDS/RDDH",
     "infoUrl": "https://www.iana.org/domains/root/db/ht.html",
@@ -3413,7 +3413,7 @@
   },
   {
     "id": 609,
-    "tld": ".hu",
+    "tld": "hu",
     "category": "country-code",
     "sponsoringOrganization": "Council of Hungarian Internet Providers (CHIP)",
     "infoUrl": "https://www.iana.org/domains/root/db/hu.html",
@@ -3471,7 +3471,7 @@
   },
   {
     "id": 617,
-    "tld": ".id",
+    "tld": "id",
     "category": "country-code",
     "sponsoringOrganization": "Perkumpulan Pengelola Nama Domain Internet Indonesia (PANDI)",
     "infoUrl": "https://www.iana.org/domains/root/db/id.html",
@@ -3522,7 +3522,7 @@
   },
   {
     "id": 618,
-    "tld": ".ie",
+    "tld": "ie",
     "category": "country-code",
     "sponsoringOrganization": "University College Dublin Computing Services Computer Centre",
     "infoUrl": "https://www.iana.org/domains/root/db/ie.html",
@@ -3580,7 +3580,7 @@
   },
   {
     "id": 623,
-    "tld": ".il",
+    "tld": "il",
     "category": "country-code",
     "sponsoringOrganization": "The Israel Internet Association (RA)",
     "infoUrl": "https://www.iana.org/domains/root/db/il.html",
@@ -3650,7 +3650,7 @@
   },
   {
     "id": 624,
-    "tld": ".im",
+    "tld": "im",
     "category": "country-code",
     "sponsoringOrganization": "Isle of Man Government",
     "infoUrl": "https://www.iana.org/domains/root/db/im.html",
@@ -3691,7 +3691,7 @@
   },
   {
     "id": 629,
-    "tld": ".in",
+    "tld": "in",
     "category": "country-code",
     "sponsoringOrganization": "National Internet Exchange of India",
     "infoUrl": "https://www.iana.org/domains/root/db/in.html",
@@ -3735,7 +3735,7 @@
   },
   {
     "id": 644,
-    "tld": ".io",
+    "tld": "io",
     "category": "country-code",
     "sponsoringOrganization": "Internet Computer Bureau Limited",
     "infoUrl": "https://www.iana.org/domains/root/db/io.html",
@@ -3779,7 +3779,7 @@
   },
   {
     "id": 646,
-    "tld": ".iq",
+    "tld": "iq",
     "category": "country-code",
     "sponsoringOrganization": "Communications and Media Commission (CMC)",
     "infoUrl": "https://www.iana.org/domains/root/db/iq.html",
@@ -3822,7 +3822,7 @@
   },
   {
     "id": 647,
-    "tld": ".ir",
+    "tld": "ir",
     "category": "country-code",
     "sponsoringOrganization": "Institute for Research in Fundamental Sciences",
     "infoUrl": "https://www.iana.org/domains/root/db/ir.html",
@@ -3866,7 +3866,7 @@
   },
   {
     "id": 649,
-    "tld": ".is",
+    "tld": "is",
     "category": "country-code",
     "sponsoringOrganization": "ISNIC - Internet á Íslandi hf.",
     "infoUrl": "https://www.iana.org/domains/root/db/is.html",
@@ -3917,7 +3917,7 @@
   },
   {
     "id": 654,
-    "tld": ".it",
+    "tld": "it",
     "category": "country-code",
     "sponsoringOrganization": "IIT - CNR",
     "infoUrl": "https://www.iana.org/domains/root/db/it.html",
@@ -3975,7 +3975,7 @@
   },
   {
     "id": 663,
-    "tld": ".je",
+    "tld": "je",
     "category": "country-code",
     "sponsoringOrganization": "Island Networks (Jersey) Ltd.",
     "infoUrl": "https://www.iana.org/domains/root/db/je.html",
@@ -4033,7 +4033,7 @@
   },
   {
     "id": 678,
-    "tld": ".jp",
+    "tld": "jp",
     "category": "country-code",
     "sponsoringOrganization": "Japan Registry Services Co., Ltd.",
     "infoUrl": "https://www.iana.org/domains/root/db/jp.html",
@@ -4104,7 +4104,7 @@
   },
   {
     "id": 685,
-    "tld": ".ke",
+    "tld": "ke",
     "category": "country-code",
     "sponsoringOrganization": "Kenya Network Information Center (KeNIC)",
     "infoUrl": "https://www.iana.org/domains/root/db/ke.html",
@@ -4151,7 +4151,7 @@
   },
   {
     "id": 690,
-    "tld": ".kg",
+    "tld": "kg",
     "category": "country-code",
     "sponsoringOrganization": "AsiaInfo Telecommunication Enterprise",
     "infoUrl": "https://www.iana.org/domains/root/db/kg.html",
@@ -4188,7 +4188,7 @@
   },
   {
     "id": 692,
-    "tld": ".ki",
+    "tld": "ki",
     "category": "country-code",
     "sponsoringOrganization": "Ministry of Information, Communications and Transport (MICT)",
     "infoUrl": "https://www.iana.org/domains/root/db/ki.html",
@@ -4224,7 +4224,7 @@
   },
   {
     "id": 701,
-    "tld": ".kn",
+    "tld": "kn",
     "category": "country-code",
     "sponsoringOrganization": "Ministry of Finance, Sustainable Development Information & Technology",
     "infoUrl": "https://www.iana.org/domains/root/db/kn.html",
@@ -4260,7 +4260,7 @@
   },
   {
     "id": 708,
-    "tld": ".kr",
+    "tld": "kr",
     "category": "country-code",
     "sponsoringOrganization": "Korea Internet & Security Agency (KISA)",
     "infoUrl": "https://www.iana.org/domains/root/db/kr.html",
@@ -4316,7 +4316,7 @@
   },
   {
     "id": 713,
-    "tld": ".ky",
+    "tld": "ky",
     "category": "country-code",
     "sponsoringOrganization": "Utility Regulation and Competition Office (OfReg)",
     "infoUrl": "https://www.iana.org/domains/root/db/ky.html",
@@ -4360,7 +4360,7 @@
   },
   {
     "id": 715,
-    "tld": ".kz",
+    "tld": "kz",
     "category": "country-code",
     "sponsoringOrganization": "Association of IT Companies of Kazakhstan",
     "infoUrl": "https://www.iana.org/domains/root/db/kz.html",
@@ -4397,7 +4397,7 @@
   },
   {
     "id": 716,
-    "tld": ".la",
+    "tld": "la",
     "category": "country-code",
     "sponsoringOrganization": "Lao National Internet Center (LANIC), Ministry of Technology and Communications",
     "infoUrl": "https://www.iana.org/domains/root/db/la.html",
@@ -4441,7 +4441,7 @@
   },
   {
     "id": 733,
-    "tld": ".lb",
+    "tld": "lb",
     "category": "country-code",
     "sponsoringOrganization": "Internet Society Lebanon",
     "infoUrl": "https://www.iana.org/domains/root/db/lb.html",
@@ -4520,7 +4520,7 @@
   },
   {
     "id": 743,
-    "tld": ".li",
+    "tld": "li",
     "category": "country-code",
     "sponsoringOrganization": "SWITCH The Swiss Education & Research Network",
     "infoUrl": "https://www.iana.org/domains/root/db/li.html",
@@ -4571,7 +4571,7 @@
   },
   {
     "id": 777,
-    "tld": ".ls",
+    "tld": "ls",
     "category": "country-code",
     "sponsoringOrganization": "Lesotho Network Information Centre Proprietary (LSNIC)",
     "infoUrl": "https://www.iana.org/domains/root/db/ls.html",
@@ -4613,7 +4613,7 @@
   },
   {
     "id": 778,
-    "tld": ".lt",
+    "tld": "lt",
     "category": "country-code",
     "sponsoringOrganization": "Kaunas University of Technology",
     "infoUrl": "https://www.iana.org/domains/root/db/lt.html",
@@ -4669,7 +4669,7 @@
   },
   {
     "id": 781,
-    "tld": ".lu",
+    "tld": "lu",
     "category": "country-code",
     "sponsoringOrganization": "RESTENA",
     "infoUrl": "https://www.iana.org/domains/root/db/lu.html",
@@ -4727,7 +4727,7 @@
   },
   {
     "id": 786,
-    "tld": ".lv",
+    "tld": "lv",
     "category": "country-code",
     "sponsoringOrganization": "University of Latvia Institute of Mathematics and Computer Science Department of Network Solutions (DNS)",
     "infoUrl": "https://www.iana.org/domains/root/db/lv.html",
@@ -4791,7 +4791,7 @@
   },
   {
     "id": 787,
-    "tld": ".ly",
+    "tld": "ly",
     "category": "country-code",
     "sponsoringOrganization": "General Post and Telecommunication Company",
     "infoUrl": "https://www.iana.org/domains/root/db/ly.html",
@@ -4840,7 +4840,7 @@
   },
   {
     "id": 788,
-    "tld": ".ma",
+    "tld": "ma",
     "category": "country-code",
     "sponsoringOrganization": "Agence Nationale de Réglementation des Télécommunications (ANRT)",
     "infoUrl": "https://www.iana.org/domains/root/db/ma.html",
@@ -4914,7 +4914,7 @@
   },
   {
     "id": 810,
-    "tld": ".md",
+    "tld": "md",
     "category": "country-code",
     "sponsoringOrganization": "IP Serviciul Tehnologia Informatiei si Securitate Cibernetica",
     "infoUrl": "https://www.iana.org/domains/root/db/md.html",
@@ -4963,7 +4963,7 @@
   },
   {
     "id": 811,
-    "tld": ".me",
+    "tld": "me",
     "category": "country-code",
     "sponsoringOrganization": "Government of Montenegro",
     "infoUrl": "https://www.iana.org/domains/root/db/me.html",
@@ -5014,7 +5014,7 @@
   },
   {
     "id": 824,
-    "tld": ".mg",
+    "tld": "mg",
     "category": "country-code",
     "sponsoringOrganization": "NIC-MG (Network Information Center Madagascar)",
     "infoUrl": "https://www.iana.org/domains/root/db/mg.html",
@@ -5062,7 +5062,7 @@
   },
   {
     "id": 833,
-    "tld": ".mk",
+    "tld": "mk",
     "category": "country-code",
     "sponsoringOrganization": "Macedonian Academic Research Network Skopje",
     "infoUrl": "https://www.iana.org/domains/root/db/mk.html",
@@ -5105,7 +5105,7 @@
   },
   {
     "id": 834,
-    "tld": ".ml",
+    "tld": "ml",
     "category": "country-code",
     "sponsoringOrganization": "Agence des Technologies de l’Information et de la Communication",
     "infoUrl": "https://www.iana.org/domains/root/db/ml.html",
@@ -5148,7 +5148,7 @@
   },
   {
     "id": 837,
-    "tld": ".mm",
+    "tld": "mm",
     "category": "country-code",
     "sponsoringOrganization": "Ministry of Transport and Communications",
     "infoUrl": "https://www.iana.org/domains/root/db/mm.html",
@@ -5188,7 +5188,7 @@
   },
   {
     "id": 839,
-    "tld": ".mn",
+    "tld": "mn",
     "category": "country-code",
     "sponsoringOrganization": "Datacom Co., Ltd.",
     "infoUrl": "https://www.iana.org/domains/root/db/mn.html",
@@ -5270,7 +5270,7 @@
   },
   {
     "id": 840,
-    "tld": ".mo",
+    "tld": "mo",
     "category": "country-code",
     "sponsoringOrganization": "Macao Post and Telecommunications Bureau (CTT)",
     "infoUrl": "https://www.iana.org/domains/root/db/mo.html",
@@ -5335,7 +5335,7 @@
   },
   {
     "id": 862,
-    "tld": ".mq",
+    "tld": "mq",
     "category": "country-code",
     "sponsoringOrganization": "CANAL+ TELECOM",
     "infoUrl": "https://www.iana.org/domains/root/db/mq.html",
@@ -5369,7 +5369,7 @@
   },
   {
     "id": 863,
-    "tld": ".mr",
+    "tld": "mr",
     "category": "country-code",
     "sponsoringOrganization": "Université de Nouakchott Al Aasriya",
     "infoUrl": "https://www.iana.org/domains/root/db/mr.html",
@@ -5418,7 +5418,7 @@
   },
   {
     "id": 864,
-    "tld": ".ms",
+    "tld": "ms",
     "category": "country-code",
     "sponsoringOrganization": "MNI Networks Ltd.",
     "infoUrl": "https://www.iana.org/domains/root/db/ms.html",
@@ -5461,7 +5461,7 @@
   },
   {
     "id": 870,
-    "tld": ".mu",
+    "tld": "mu",
     "category": "country-code",
     "sponsoringOrganization": "Internet Direct Ltd",
     "infoUrl": "https://www.iana.org/domains/root/db/mu.html",
@@ -5519,7 +5519,7 @@
   },
   {
     "id": 876,
-    "tld": ".mw",
+    "tld": "mw",
     "category": "country-code",
     "sponsoringOrganization": "Malawi Sustainable Development Network Programme (Malawi SDNP)",
     "infoUrl": "https://www.iana.org/domains/root/db/mw.html",
@@ -5584,7 +5584,7 @@
   },
   {
     "id": 877,
-    "tld": ".mx",
+    "tld": "mx",
     "category": "country-code",
     "sponsoringOrganization": "NIC-Mexico ITESM - Campus Monterrey",
     "infoUrl": "https://www.iana.org/domains/root/db/mx.html",
@@ -5642,7 +5642,7 @@
   },
   {
     "id": 878,
-    "tld": ".my",
+    "tld": "my",
     "category": "country-code",
     "sponsoringOrganization": "MYNIC Berhad",
     "infoUrl": "https://www.iana.org/domains/root/db/my.html",
@@ -5713,7 +5713,7 @@
   },
   {
     "id": 879,
-    "tld": ".mz",
+    "tld": "mz",
     "category": "country-code",
     "sponsoringOrganization": "Centro de Informatica de Universidade Eduardo Mondlane",
     "infoUrl": "https://www.iana.org/domains/root/db/mz.html",
@@ -5767,7 +5767,7 @@
   },
   {
     "id": 880,
-    "tld": ".na",
+    "tld": "na",
     "category": "country-code",
     "sponsoringOrganization": "Namibian Network Information Center",
     "infoUrl": "https://www.iana.org/domains/root/db/na.html",
@@ -5811,7 +5811,7 @@
   },
   {
     "id": 889,
-    "tld": ".nc",
+    "tld": "nc",
     "category": "country-code",
     "sponsoringOrganization": "Office des Postes et Telecommunications",
     "infoUrl": "https://www.iana.org/domains/root/db/nc.html",
@@ -5855,7 +5855,7 @@
   },
   {
     "id": 903,
-    "tld": ".nf",
+    "tld": "nf",
     "category": "country-code",
     "sponsoringOrganization": "Norfolk Island Data Services",
     "infoUrl": "https://www.iana.org/domains/root/db/nf.html",
@@ -5891,7 +5891,7 @@
   },
   {
     "id": 905,
-    "tld": ".ng",
+    "tld": "ng",
     "category": "country-code",
     "sponsoringOrganization": "Nigeria Internet Registration Association",
     "infoUrl": "https://www.iana.org/domains/root/db/ng.html",
@@ -5940,7 +5940,7 @@
   },
   {
     "id": 915,
-    "tld": ".nl",
+    "tld": "nl",
     "category": "country-code",
     "sponsoringOrganization": "SIDN (Stichting Internet Domeinregistratie Nederland)",
     "infoUrl": "https://www.iana.org/domains/root/db/nl.html",
@@ -5977,7 +5977,7 @@
   },
   {
     "id": 916,
-    "tld": ".no",
+    "tld": "no",
     "category": "country-code",
     "sponsoringOrganization": "Norid A/S",
     "infoUrl": "https://www.iana.org/domains/root/db/no.html",
@@ -6034,7 +6034,7 @@
   },
   {
     "id": 928,
-    "tld": ".nu",
+    "tld": "nu",
     "category": "country-code",
     "sponsoringOrganization": "The IUSN Foundation",
     "infoUrl": "https://www.iana.org/domains/root/db/nu.html",
@@ -6092,7 +6092,7 @@
   },
   {
     "id": 930,
-    "tld": ".nz",
+    "tld": "nz",
     "category": "country-code",
     "sponsoringOrganization": "InternetNZ",
     "infoUrl": "https://www.iana.org/domains/root/db/nz.html",
@@ -6157,7 +6157,7 @@
   },
   {
     "id": 940,
-    "tld": ".om",
+    "tld": "om",
     "category": "country-code",
     "sponsoringOrganization": "Telecommunications Regulatory Authority (TRA)",
     "infoUrl": "https://www.iana.org/domains/root/db/om.html",
@@ -6215,7 +6215,7 @@
   },
   {
     "id": 972,
-    "tld": ".pe",
+    "tld": "pe",
     "category": "country-code",
     "sponsoringOrganization": "Red Cientifica Peruana",
     "infoUrl": "https://www.iana.org/domains/root/db/pe.html",
@@ -6258,7 +6258,7 @@
   },
   {
     "id": 974,
-    "tld": ".pf",
+    "tld": "pf",
     "category": "country-code",
     "sponsoringOrganization": "Gouvernement de la Polynésie française",
     "infoUrl": "https://www.iana.org/domains/root/db/pf.html",
@@ -6286,7 +6286,7 @@
   },
   {
     "id": 976,
-    "tld": ".pg",
+    "tld": "pg",
     "category": "country-code",
     "sponsoringOrganization": "PNG DNS Administration Vice Chancellors Office The Papua New Guinea University of Technology",
     "infoUrl": "https://www.iana.org/domains/root/db/pg.html",
@@ -6328,7 +6328,7 @@
   },
   {
     "id": 996,
-    "tld": ".pk",
+    "tld": "pk",
     "category": "country-code",
     "sponsoringOrganization": "PKNIC",
     "infoUrl": "https://www.iana.org/domains/root/db/pk.html",
@@ -6370,7 +6370,7 @@
   },
   {
     "id": 997,
-    "tld": ".pl",
+    "tld": "pl",
     "category": "country-code",
     "sponsoringOrganization": "Research and Academic Computer Network",
     "infoUrl": "https://www.iana.org/domains/root/db/pl.html",
@@ -6428,7 +6428,7 @@
   },
   {
     "id": 1003,
-    "tld": ".pm",
+    "tld": "pm",
     "category": "country-code",
     "sponsoringOrganization": "Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)",
     "infoUrl": "https://www.iana.org/domains/root/db/pm.html",
@@ -6465,7 +6465,7 @@
   },
   {
     "id": 1004,
-    "tld": ".pn",
+    "tld": "pn",
     "category": "country-code",
     "sponsoringOrganization": "Pitcairn Island Administration",
     "infoUrl": "https://www.iana.org/domains/root/db/pn.html",
@@ -6537,7 +6537,7 @@
   },
   {
     "id": 1011,
-    "tld": ".pr",
+    "tld": "pr",
     "category": "country-code",
     "sponsoringOrganization": "Gauss Research Laboratory Inc.",
     "infoUrl": "https://www.iana.org/domains/root/db/pr.html",
@@ -6609,7 +6609,7 @@
   },
   {
     "id": 1028,
-    "tld": ".pt",
+    "tld": "pt",
     "category": "country-code",
     "sponsoringOrganization": "Associação DNS.PT",
     "infoUrl": "https://www.iana.org/domains/root/db/pt.html",
@@ -6688,7 +6688,7 @@
   },
   {
     "id": 1030,
-    "tld": ".pw",
+    "tld": "pw",
     "category": "country-code",
     "sponsoringOrganization": "Micronesia Investment and Development Corporation",
     "infoUrl": "https://www.iana.org/domains/root/db/pw.html",
@@ -6732,7 +6732,7 @@
   },
   {
     "id": 1033,
-    "tld": ".qa",
+    "tld": "qa",
     "category": "country-code",
     "sponsoringOrganization": "Communications Regulatory Authority",
     "infoUrl": "https://www.iana.org/domains/root/db/qa.html",
@@ -6806,7 +6806,7 @@
   },
   {
     "id": 1041,
-    "tld": ".re",
+    "tld": "re",
     "category": "country-code",
     "sponsoringOrganization": "Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)",
     "infoUrl": "https://www.iana.org/domains/root/db/re.html",
@@ -6843,7 +6843,7 @@
   },
   {
     "id": 1074,
-    "tld": ".ro",
+    "tld": "ro",
     "category": "country-code",
     "sponsoringOrganization": "National Institute for R&D in Informatics",
     "infoUrl": "https://www.iana.org/domains/root/db/ro.html",
@@ -6900,7 +6900,7 @@
   },
   {
     "id": 1080,
-    "tld": ".rs",
+    "tld": "rs",
     "category": "country-code",
     "sponsoringOrganization": "Serbian National Internet Domain Registry (RNIDS)",
     "infoUrl": "https://www.iana.org/domains/root/db/rs.html",
@@ -6958,7 +6958,7 @@
   },
   {
     "id": 1082,
-    "tld": ".ru",
+    "tld": "ru",
     "category": "country-code",
     "sponsoringOrganization": "Coordination Center for TLD RU",
     "infoUrl": "https://www.iana.org/domains/root/db/ru.html",
@@ -7009,7 +7009,7 @@
   },
   {
     "id": 1086,
-    "tld": ".rw",
+    "tld": "rw",
     "category": "country-code",
     "sponsoringOrganization": "Rwanda Internet Community and Technology  Alliance (RICTA) Ltd",
     "infoUrl": "https://www.iana.org/domains/root/db/rw.html",
@@ -7072,7 +7072,7 @@
   },
   {
     "id": 1089,
-    "tld": ".sa",
+    "tld": "sa",
     "category": "country-code",
     "sponsoringOrganization": "Communications, Space and Technology Commission",
     "infoUrl": "https://www.iana.org/domains/root/db/sa.html",
@@ -7151,7 +7151,7 @@
   },
   {
     "id": 1107,
-    "tld": ".sb",
+    "tld": "sb",
     "category": "country-code",
     "sponsoringOrganization": "Solomon Telekom Company Limited",
     "infoUrl": "https://www.iana.org/domains/root/db/sb.html",
@@ -7187,7 +7187,7 @@
   },
   {
     "id": 1110,
-    "tld": ".sc",
+    "tld": "sc",
     "category": "country-code",
     "sponsoringOrganization": "VCS Pty Ltd",
     "infoUrl": "https://www.iana.org/domains/root/db/sc.html",
@@ -7251,7 +7251,7 @@
   },
   {
     "id": 1123,
-    "tld": ".sd",
+    "tld": "sd",
     "category": "country-code",
     "sponsoringOrganization": "Sudan Internet Society",
     "infoUrl": "https://www.iana.org/domains/root/db/sd.html",
@@ -7312,7 +7312,7 @@
   },
   {
     "id": 1124,
-    "tld": ".se",
+    "tld": "se",
     "category": "country-code",
     "sponsoringOrganization": "The Internet Infrastructure Foundation",
     "infoUrl": "https://www.iana.org/domains/root/db/se.html",
@@ -7398,7 +7398,7 @@
   },
   {
     "id": 1139,
-    "tld": ".sg",
+    "tld": "sg",
     "category": "country-code",
     "sponsoringOrganization": "Singapore Network Information Centre (SGNIC) Pte Ltd",
     "infoUrl": "https://www.iana.org/domains/root/db/sg.html",
@@ -7449,7 +7449,7 @@
   },
   {
     "id": 1140,
-    "tld": ".sh",
+    "tld": "sh",
     "category": "country-code",
     "sponsoringOrganization": "Government of St. Helena",
     "infoUrl": "https://www.iana.org/domains/root/db/sh.html",
@@ -7493,7 +7493,7 @@
   },
   {
     "id": 1154,
-    "tld": ".si",
+    "tld": "si",
     "category": "country-code",
     "sponsoringOrganization": "Academic and Research Network of Slovenia (ARNES)",
     "infoUrl": "https://www.iana.org/domains/root/db/si.html",
@@ -7551,7 +7551,7 @@
   },
   {
     "id": 1160,
-    "tld": ".sk",
+    "tld": "sk",
     "category": "country-code",
     "sponsoringOrganization": "SK-NIC, a.s.",
     "infoUrl": "https://www.iana.org/domains/root/db/sk.html",
@@ -7616,7 +7616,7 @@
   },
   {
     "id": 1167,
-    "tld": ".sm",
+    "tld": "sm",
     "category": "country-code",
     "sponsoringOrganization": "Telecom Italia San Marino S.p.A.",
     "infoUrl": "https://www.iana.org/domains/root/db/sm.html",
@@ -7658,7 +7658,7 @@
   },
   {
     "id": 1170,
-    "tld": ".sn",
+    "tld": "sn",
     "category": "country-code",
     "sponsoringOrganization": "Universite Cheikh Anta Diop",
     "infoUrl": "https://www.iana.org/domains/root/db/sn.html",
@@ -7706,7 +7706,7 @@
   },
   {
     "id": 1172,
-    "tld": ".so",
+    "tld": "so",
     "category": "country-code",
     "sponsoringOrganization": "Ministry of Post and Telecommunications",
     "infoUrl": "https://www.iana.org/domains/root/db/so.html",
@@ -7736,7 +7736,7 @@
   },
   {
     "id": 1189,
-    "tld": ".sr",
+    "tld": "sr",
     "category": "country-code",
     "sponsoringOrganization": "Telesur",
     "infoUrl": "https://www.iana.org/domains/root/db/sr.html",
@@ -7766,7 +7766,7 @@
   },
   {
     "id": 1192,
-    "tld": ".ss",
+    "tld": "ss",
     "category": "country-code",
     "sponsoringOrganization": "National Communication Authority (NCA)",
     "infoUrl": "https://www.iana.org/domains/root/db/ss.html",
@@ -7803,7 +7803,7 @@
   },
   {
     "id": 1193,
-    "tld": ".st",
+    "tld": "st",
     "category": "country-code",
     "sponsoringOrganization": "Tecnisys",
     "infoUrl": "https://www.iana.org/domains/root/db/st.html",
@@ -7847,7 +7847,7 @@
   },
   {
     "id": 1210,
-    "tld": ".su",
+    "tld": "su",
     "category": "country-code",
     "sponsoringOrganization": "Russian Institute for Development of Public Networks (ROSNIIROS)",
     "infoUrl": "https://www.iana.org/domains/root/db/su.html",
@@ -7898,7 +7898,7 @@
   },
   {
     "id": 1222,
-    "tld": ".sx",
+    "tld": "sx",
     "category": "country-code",
     "sponsoringOrganization": "SX Registry SA B.V.",
     "infoUrl": "https://www.iana.org/domains/root/db/sx.html",
@@ -7942,7 +7942,7 @@
   },
   {
     "id": 1223,
-    "tld": ".sy",
+    "tld": "sy",
     "category": "country-code",
     "sponsoringOrganization": "National Agency for Network Services (NANS)",
     "infoUrl": "https://www.iana.org/domains/root/db/sy.html",
@@ -7978,7 +7978,7 @@
   },
   {
     "id": 1238,
-    "tld": ".tc",
+    "tld": "tc",
     "category": "country-code",
     "sponsoringOrganization": "Melrex TC",
     "infoUrl": "https://www.iana.org/domains/root/db/tc.html",
@@ -8046,7 +8046,7 @@
   },
   {
     "id": 1240,
-    "tld": ".td",
+    "tld": "td",
     "category": "country-code",
     "sponsoringOrganization": "l'Agence de Développement des Technologies de l'Information et de la Communication (ADETIC)",
     "infoUrl": "https://www.iana.org/domains/root/db/td.html",
@@ -8089,7 +8089,7 @@
   },
   {
     "id": 1251,
-    "tld": ".tf",
+    "tld": "tf",
     "category": "country-code",
     "sponsoringOrganization": "Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)",
     "infoUrl": "https://www.iana.org/domains/root/db/tf.html",
@@ -8126,7 +8126,7 @@
   },
   {
     "id": 1252,
-    "tld": ".tg",
+    "tld": "tg",
     "category": "country-code",
     "sponsoringOrganization": "Autorité de Régulation des Communications Electroniques et des Postes (ARCEP)",
     "infoUrl": "https://www.iana.org/domains/root/db/tg.html",
@@ -8194,7 +8194,7 @@
   },
   {
     "id": 1253,
-    "tld": ".th",
+    "tld": "th",
     "category": "country-code",
     "sponsoringOrganization": "Thai Network Information Center Foundation",
     "infoUrl": "https://www.iana.org/domains/root/db/th.html",
@@ -8251,7 +8251,7 @@
   },
   {
     "id": 1267,
-    "tld": ".tk",
+    "tld": "tk",
     "category": "country-code",
     "sponsoringOrganization": "Telecommunication Tokelau Corporation (Teletok)",
     "infoUrl": "https://www.iana.org/domains/root/db/tk.html",
@@ -8295,7 +8295,7 @@
   },
   {
     "id": 1269,
-    "tld": ".tl",
+    "tld": "tl",
     "category": "country-code",
     "sponsoringOrganization": "Autoridade Nacional de Comunicações",
     "infoUrl": "https://www.iana.org/domains/root/db/tl.html",
@@ -8331,7 +8331,7 @@
   },
   {
     "id": 1270,
-    "tld": ".tm",
+    "tld": "tm",
     "category": "country-code",
     "sponsoringOrganization": "TM Domain Registry Ltd",
     "infoUrl": "https://www.iana.org/domains/root/db/tm.html",
@@ -8394,7 +8394,7 @@
   },
   {
     "id": 1272,
-    "tld": ".tn",
+    "tld": "tn",
     "category": "country-code",
     "sponsoringOrganization": "Agence Tunisienne d'Internet",
     "infoUrl": "https://www.iana.org/domains/root/db/tn.html",
@@ -8452,14 +8452,14 @@
   },
   {
     "id": 1273,
-    "tld": ".to",
+    "tld": "to",
     "category": "country-code",
     "sponsoringOrganization": "Government of the Kingdom of Tonga H.R.H. Crown Prince Tupouto'a c/o Consulate of Tonga",
     "infoUrl": "https://www.iana.org/domains/root/db/to.html",
     "registry": {
       "registrationServiceUrl": "http://www.tonic.to/",
-      "whoisServer": "whois.tonic.to",
-      "rdapServer": ""
+      "whoisServer": "whois.tonicregistry.to",
+      "rdapServer": "https://rdap.tonicregistry.to/rdap/"
     },
     "nameServers": [
       {
@@ -8491,12 +8491,12 @@
         ]
       }
     ],
-    "lastUpdated": "2025-07-17",
+    "lastUpdated": "2025-08-01",
     "registeredOn": "1995-12-18"
   },
   {
     "id": 1286,
-    "tld": ".tr",
+    "tld": "tr",
     "category": "country-code",
     "sponsoringOrganization": "Bilgi Teknolojileri ve İletişim Kurumu (BTK)",
     "infoUrl": "https://www.iana.org/domains/root/db/tr.html",
@@ -8556,7 +8556,7 @@
   },
   {
     "id": 1301,
-    "tld": ".tv",
+    "tld": "tv",
     "category": "country-code",
     "sponsoringOrganization": "Ministry of Justice, Communications and Foreign Affairs",
     "infoUrl": "https://www.iana.org/domains/root/db/tv.html",
@@ -8600,7 +8600,7 @@
   },
   {
     "id": 1303,
-    "tld": ".tw",
+    "tld": "tw",
     "category": "country-code",
     "sponsoringOrganization": "Taiwan Network Information Center (TWNIC)",
     "infoUrl": "https://www.iana.org/domains/root/db/tw.html",
@@ -8677,7 +8677,7 @@
   },
   {
     "id": 1304,
-    "tld": ".tz",
+    "tld": "tz",
     "category": "country-code",
     "sponsoringOrganization": "Tanzania Communications Regulatory Authority",
     "infoUrl": "https://www.iana.org/domains/root/db/tz.html",
@@ -8728,7 +8728,7 @@
   },
   {
     "id": 1305,
-    "tld": ".ua",
+    "tld": "ua",
     "category": "country-code",
     "sponsoringOrganization": "Hostmaster Ltd.",
     "infoUrl": "https://www.iana.org/domains/root/db/ua.html",
@@ -8795,7 +8795,7 @@
   },
   {
     "id": 1309,
-    "tld": ".ug",
+    "tld": "ug",
     "category": "country-code",
     "sponsoringOrganization": "Uganda Online Ltd.",
     "infoUrl": "https://www.iana.org/domains/root/db/ug.html",
@@ -8845,7 +8845,7 @@
   },
   {
     "id": 1310,
-    "tld": ".uk",
+    "tld": "uk",
     "category": "country-code",
     "sponsoringOrganization": "Nominet UK",
     "infoUrl": "https://www.iana.org/domains/root/db/uk.html",
@@ -8917,7 +8917,7 @@
   },
   {
     "id": 1317,
-    "tld": ".us",
+    "tld": "us",
     "category": "country-code",
     "sponsoringOrganization": "Registry Services, LLC",
     "infoUrl": "https://www.iana.org/domains/root/db/us.html",
@@ -8989,7 +8989,7 @@
   },
   {
     "id": 1318,
-    "tld": ".uy",
+    "tld": "uy",
     "category": "country-code",
     "sponsoringOrganization": "SeCIU - Universidad de la Republica",
     "infoUrl": "https://www.iana.org/domains/root/db/uy.html",
@@ -9053,7 +9053,7 @@
   },
   {
     "id": 1319,
-    "tld": ".uz",
+    "tld": "uz",
     "category": "country-code",
     "sponsoringOrganization": "Single Integrator for Creation and Support of State Information Systems UZINFOCOM",
     "infoUrl": "https://www.iana.org/domains/root/db/uz.html",
@@ -9119,7 +9119,7 @@
   },
   {
     "id": 1324,
-    "tld": ".vc",
+    "tld": "vc",
     "category": "country-code",
     "sponsoringOrganization": "Ministry of Telecommunications, Science, Technology and Industry",
     "infoUrl": "https://www.iana.org/domains/root/db/vc.html",
@@ -9177,7 +9177,7 @@
   },
   {
     "id": 1325,
-    "tld": ".ve",
+    "tld": "ve",
     "category": "country-code",
     "sponsoringOrganization": "Comisión Nacional de Telecomunicaciones (CONATEL)",
     "infoUrl": "https://www.iana.org/domains/root/db/ve.html",
@@ -9233,7 +9233,7 @@
   },
   {
     "id": 1331,
-    "tld": ".vg",
+    "tld": "vg",
     "category": "country-code",
     "sponsoringOrganization": "Telecommunications Regulatory Commission of the Virgin Islands",
     "infoUrl": "https://www.iana.org/domains/root/db/vg.html",
@@ -9277,7 +9277,7 @@
   },
   {
     "id": 1332,
-    "tld": ".vi",
+    "tld": "vi",
     "category": "country-code",
     "sponsoringOrganization": "Virgin Islands Public Telecommunications System, Inc.",
     "infoUrl": "https://www.iana.org/domains/root/db/vi.html",
@@ -9306,7 +9306,7 @@
   },
   {
     "id": 1356,
-    "tld": ".vu",
+    "tld": "vu",
     "category": "country-code",
     "sponsoringOrganization": "Telecommunications Radiocommunications and Broadcasting Regulator (TRBR)",
     "infoUrl": "https://www.iana.org/domains/root/db/vu.html",
@@ -9350,7 +9350,7 @@
   },
   {
     "id": 1375,
-    "tld": ".wf",
+    "tld": "wf",
     "category": "country-code",
     "sponsoringOrganization": "Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)",
     "infoUrl": "https://www.iana.org/domains/root/db/wf.html",
@@ -9387,7 +9387,7 @@
   },
   {
     "id": 1391,
-    "tld": ".ws",
+    "tld": "ws",
     "category": "country-code",
     "sponsoringOrganization": "Government of Samoa Ministry of Foreign Affairs & Trade",
     "infoUrl": "https://www.iana.org/domains/root/db/ws.html",
@@ -9441,7 +9441,7 @@
   },
   {
     "id": 1404,
-    "tld": ".ಭಾರತ",
+    "tld": "ಭಾರತ",
     "category": "country-code",
     "sponsoringOrganization": "National Internet eXchange of India",
     "infoUrl": "https://www.iana.org/domains/root/db/xn--2scrj9c.html",
@@ -9485,7 +9485,7 @@
   },
   {
     "id": 1408,
-    "tld": ".한국",
+    "tld": "한국",
     "category": "country-code",
     "sponsoringOrganization": "KISA (Korea Internet & Security Agency)",
     "infoUrl": "https://www.iana.org/domains/root/db/xn--3e0b707e.html",
@@ -9541,7 +9541,7 @@
   },
   {
     "id": 1409,
-    "tld": ".ଭାରତ",
+    "tld": "ଭାରତ",
     "category": "country-code",
     "sponsoringOrganization": "National Internet eXchange of India",
     "infoUrl": "https://www.iana.org/domains/root/db/xn--3hcrj9c.html",
@@ -9585,7 +9585,7 @@
   },
   {
     "id": 1413,
-    "tld": ".ভাৰত",
+    "tld": "ভাৰত",
     "category": "country-code",
     "sponsoringOrganization": "National Internet eXchange of India",
     "infoUrl": "https://www.iana.org/domains/root/db/xn--45br5cyl.html",
@@ -9629,7 +9629,7 @@
   },
   {
     "id": 1414,
-    "tld": ".ভারত",
+    "tld": "ভারত",
     "category": "country-code",
     "sponsoringOrganization": "National Internet Exchange of India",
     "infoUrl": "https://www.iana.org/domains/root/db/xn--45brj9c.html",
@@ -9743,7 +9743,7 @@
   },
   {
     "id": 1427,
-    "tld": ".қаз",
+    "tld": "қаз",
     "category": "country-code",
     "sponsoringOrganization": "Association of IT Companies of Kazakhstan",
     "infoUrl": "https://www.iana.org/domains/root/db/xn--80ao21a.html",
@@ -9780,7 +9780,7 @@
   },
   {
     "id": 1432,
-    "tld": ".срб",
+    "tld": "срб",
     "category": "country-code",
     "sponsoringOrganization": "Serbian National Internet Domain Registry (RNIDS)",
     "infoUrl": "https://www.iana.org/domains/root/db/xn--90a3ac.html",
@@ -9838,7 +9838,7 @@
   },
   {
     "id": 1433,
-    "tld": ".бг",
+    "tld": "бг",
     "category": "country-code",
     "sponsoringOrganization": "Imena.BG AD",
     "infoUrl": "https://www.iana.org/domains/root/db/xn--90ae.html",
@@ -9896,7 +9896,7 @@
   },
   {
     "id": 1434,
-    "tld": ".бел",
+    "tld": "бел",
     "category": "country-code",
     "sponsoringOrganization": "Belarusian Cloud Technologies LLC",
     "infoUrl": "https://www.iana.org/domains/root/db/xn--90ais.html",
@@ -9946,7 +9946,7 @@
   },
   {
     "id": 1446,
-    "tld": ".சிங்கப்பூர்",
+    "tld": "சிங்கப்பூர்",
     "category": "country-code",
     "sponsoringOrganization": "Singapore Network Information Centre (SGNIC) Pte Ltd",
     "infoUrl": "https://www.iana.org/domains/root/db/xn--clchc0ea0b2g2a9gcd.html",
@@ -9997,7 +9997,7 @@
   },
   {
     "id": 1451,
-    "tld": ".мкд",
+    "tld": "мкд",
     "category": "country-code",
     "sponsoringOrganization": "Macedonian Academic Research Network Skopje",
     "infoUrl": "https://www.iana.org/domains/root/db/xn--d1alf.html",
@@ -10040,7 +10040,7 @@
   },
   {
     "id": 1453,
-    "tld": ".ею",
+    "tld": "ею",
     "category": "country-code",
     "sponsoringOrganization": "EURid vzw",
     "infoUrl": "https://www.iana.org/domains/root/db/xn--e1a4c.html",
@@ -10090,7 +10090,7 @@
   },
   {
     "id": 1461,
-    "tld": ".中国",
+    "tld": "中国",
     "category": "country-code",
     "sponsoringOrganization": "China Internet Network Information Center (CNNIC)",
     "infoUrl": "https://www.iana.org/domains/root/db/xn--fiqs8s.html",
@@ -10141,7 +10141,7 @@
   },
   {
     "id": 1462,
-    "tld": ".中國",
+    "tld": "中國",
     "category": "country-code",
     "sponsoringOrganization": "China Internet Network Information Center (CNNIC)",
     "infoUrl": "https://www.iana.org/domains/root/db/xn--fiqz9s.html",
@@ -10192,7 +10192,7 @@
   },
   {
     "id": 1465,
-    "tld": ".భారత్",
+    "tld": "భారత్",
     "category": "country-code",
     "sponsoringOrganization": "National Internet Exchange of India",
     "infoUrl": "https://www.iana.org/domains/root/db/xn--fpcrj9c3d.html",
@@ -10236,7 +10236,7 @@
   },
   {
     "id": 1471,
-    "tld": ".ભારત",
+    "tld": "ભારત",
     "category": "country-code",
     "sponsoringOrganization": "National Internet Exchange of India",
     "infoUrl": "https://www.iana.org/domains/root/db/xn--gecrj9c.html",
@@ -10280,7 +10280,7 @@
   },
   {
     "id": 1473,
-    "tld": ".भारतम्",
+    "tld": "भारतम्",
     "category": "country-code",
     "sponsoringOrganization": "National Internet eXchange of India",
     "infoUrl": "https://www.iana.org/domains/root/db/xn--h2breg3eve.html",
@@ -10324,7 +10324,7 @@
   },
   {
     "id": 1474,
-    "tld": ".भारत",
+    "tld": "भारत",
     "category": "country-code",
     "sponsoringOrganization": "National Internet Exchange of India",
     "infoUrl": "https://www.iana.org/domains/root/db/xn--h2brj9c.html",
@@ -10368,7 +10368,7 @@
   },
   {
     "id": 1475,
-    "tld": ".भारोत",
+    "tld": "भारोत",
     "category": "country-code",
     "sponsoringOrganization": "National Internet eXchange of India",
     "infoUrl": "https://www.iana.org/domains/root/db/xn--h2brj9c8c.html",
@@ -10412,7 +10412,7 @@
   },
   {
     "id": 1483,
-    "tld": ".укр",
+    "tld": "укр",
     "category": "country-code",
     "sponsoringOrganization": "Ukrainian Network Information Centre (UANIC), Inc.",
     "infoUrl": "https://www.iana.org/domains/root/db/xn--j1amh.html",
@@ -10466,7 +10466,7 @@
   },
   {
     "id": 1484,
-    "tld": ".香港",
+    "tld": "香港",
     "category": "country-code",
     "sponsoringOrganization": "Hong Kong Internet Registration Corporation Ltd.",
     "infoUrl": "https://www.iana.org/domains/root/db/xn--j6w193g.html",
@@ -10545,7 +10545,7 @@
   },
   {
     "id": 1491,
-    "tld": ".台湾",
+    "tld": "台湾",
     "category": "country-code",
     "sponsoringOrganization": "Taiwan Network Information Center (TWNIC)",
     "infoUrl": "https://www.iana.org/domains/root/db/xn--kprw13d.html",
@@ -10601,7 +10601,7 @@
   },
   {
     "id": 1492,
-    "tld": ".台灣",
+    "tld": "台灣",
     "category": "country-code",
     "sponsoringOrganization": "Taiwan Network Information Center (TWNIC)",
     "infoUrl": "https://www.iana.org/domains/root/db/xn--kpry57d.html",
@@ -10657,7 +10657,7 @@
   },
   {
     "id": 1495,
-    "tld": ".мон",
+    "tld": "мон",
     "category": "country-code",
     "sponsoringOrganization": "Datacom Co.,Ltd",
     "infoUrl": "https://www.iana.org/domains/root/db/xn--l1acc.html",
@@ -11198,7 +11198,7 @@
   },
   {
     "id": 1520,
-    "tld": ".澳門",
+    "tld": "澳門",
     "category": "country-code",
     "sponsoringOrganization": "Macao Post and Telecommunications Bureau (CTT)",
     "infoUrl": "https://www.iana.org/domains/root/db/xn--mix891f.html",
@@ -11263,7 +11263,7 @@
   },
   {
     "id": 1530,
-    "tld": ".ไทย",
+    "tld": "ไทย",
     "category": "country-code",
     "sponsoringOrganization": "Thai Network Information Center Foundation",
     "infoUrl": "https://www.iana.org/domains/root/db/xn--o3cw4h.html",
@@ -11349,7 +11349,7 @@
   },
   {
     "id": 1534,
-    "tld": ".рф",
+    "tld": "рф",
     "category": "country-code",
     "sponsoringOrganization": "Coordination Center for TLD RU",
     "infoUrl": "https://www.iana.org/domains/root/db/xn--p1ai.html",
@@ -11458,7 +11458,7 @@
   },
   {
     "id": 1538,
-    "tld": ".ລາວ",
+    "tld": "ລາວ",
     "category": "country-code",
     "sponsoringOrganization": "Lao National Internet Center (LANIC), Ministry of Technology and Communications",
     "infoUrl": "https://www.iana.org/domains/root/db/xn--q7ce6a.html",
@@ -11502,7 +11502,7 @@
   },
   {
     "id": 1541,
-    "tld": ".ευ",
+    "tld": "ευ",
     "category": "country-code",
     "sponsoringOrganization": "EURid vzw",
     "infoUrl": "https://www.iana.org/domains/root/db/xn--qxa6a.html",
@@ -11552,7 +11552,7 @@
   },
   {
     "id": 1545,
-    "tld": ".ഭാരതം",
+    "tld": "ഭാരതം",
     "category": "country-code",
     "sponsoringOrganization": "National Internet eXchange of India",
     "infoUrl": "https://www.iana.org/domains/root/db/xn--rvc1e0am3e.html",
@@ -11596,7 +11596,7 @@
   },
   {
     "id": 1546,
-    "tld": ".ਭਾਰਤ",
+    "tld": "ਭਾਰਤ",
     "category": "country-code",
     "sponsoringOrganization": "National Internet Exchange of India",
     "infoUrl": "https://www.iana.org/domains/root/db/xn--s9brj9c.html",
@@ -11714,7 +11714,7 @@
   },
   {
     "id": 1562,
-    "tld": ".இந்தியா",
+    "tld": "இந்தியா",
     "category": "country-code",
     "sponsoringOrganization": "National Internet Exchange of India",
     "infoUrl": "https://www.iana.org/domains/root/db/xn--xkc2dl3a5ee0h.html",
@@ -11758,7 +11758,7 @@
   },
   {
     "id": 1563,
-    "tld": ".հայ",
+    "tld": "հայ",
     "category": "country-code",
     "sponsoringOrganization": "\"Internet Society\" Non-governmental Organization",
     "infoUrl": "https://www.iana.org/domains/root/db/xn--y9a3aq.html",
@@ -11802,7 +11802,7 @@
   },
   {
     "id": 1564,
-    "tld": ".新加坡",
+    "tld": "新加坡",
     "category": "country-code",
     "sponsoringOrganization": "Singapore Network Information Centre (SGNIC) Pte Ltd",
     "infoUrl": "https://www.iana.org/domains/root/db/xn--yfro4i67o.html",
@@ -11914,7 +11914,7 @@
   },
   {
     "id": 1575,
-    "tld": ".ye",
+    "tld": "ye",
     "category": "country-code",
     "sponsoringOrganization": "TeleYemen",
     "infoUrl": "https://www.iana.org/domains/root/db/ye.html",
@@ -11965,7 +11965,7 @@
   },
   {
     "id": 1581,
-    "tld": ".yt",
+    "tld": "yt",
     "category": "country-code",
     "sponsoringOrganization": "Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)",
     "infoUrl": "https://www.iana.org/domains/root/db/yt.html",
@@ -12002,7 +12002,7 @@
   },
   {
     "id": 1589,
-    "tld": ".zm",
+    "tld": "zm",
     "category": "country-code",
     "sponsoringOrganization": "Zambia Information and Communications Technology Authority (ZICTA)",
     "infoUrl": "https://www.iana.org/domains/root/db/zm.html",
