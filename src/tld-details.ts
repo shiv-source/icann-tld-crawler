@@ -42,7 +42,7 @@ const extractRegistryInfo = ($: CheerioAPI): RegistryDetails => {
     return {
         registrationServiceUrl: url,
         whoisServer: whois,
-        rdapServer: rdap
+        rdapServer: rdap.replace(/\/$/, '')
     }
 }
 
