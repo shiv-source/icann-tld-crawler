@@ -20,7 +20,7 @@ export const getTLDData = async () => {
         const $ = cheerio.load(html)
         $('.iana-table tbody tr').each((i, el) => {
             const linkEl = $(el).find('td a')
-            const tld = $(el).find('td a').text().trim()
+            const tld = $(el).find('td a').text().replace(/^\./, '').trim()
             const infoUrl = BASE_URL + linkEl.attr('href')
             const category = $(el).find('td:nth-child(2)').text().trim()
             let sponsoringOrganization = $(el).find('td:nth-child(3)').text().trim()
