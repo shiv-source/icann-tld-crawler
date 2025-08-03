@@ -20,7 +20,7 @@ The output is suitable for developers, researchers, domain registrars, and secur
 
 ## 📅 Data Freshness
 
-> **Last Refreshed On:** `Sat, 02 Aug 2025 11:59:44 GMT`
+> **Last Refreshed On:** `Sun, 03 Aug 2025 03:54:54 GMT`
 
 > This dataset is automatically updated on a daily basis by the crawler.  
 > Outputs are written to JSON files and previewed in tabular format below.
