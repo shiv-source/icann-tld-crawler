@@ -9633,7 +9633,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-07-29",
+    "lastUpdated": "2025-08-08",
     "registeredOn": "2016-08-04"
   },
   {
@@ -24036,8 +24036,8 @@
     "sponsoringOrganization": "Identity Digital Limited",
     "infoUrl": "https://www.iana.org/domains/root/db/global.html",
     "registry": {
-      "registrationServiceUrl": "https://donuts.domains/",
-      "whoisServer": "whois.nic.global",
+      "registrationServiceUrl": "https://identity.digital/",
+      "whoisServer": "",
       "rdapServer": "https://rdap.identitydigital.services/rdap"
     },
     "nameServers": [
@@ -24070,7 +24070,7 @@
         ]
       }
     ],
-    "lastUpdated": "2024-04-10",
+    "lastUpdated": "2025-08-08",
     "registeredOn": "2014-05-29"
   },
   {
@@ -41108,7 +41108,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-07-29",
+    "lastUpdated": "2025-08-08",
     "registeredOn": "2015-09-24"
   },
   {

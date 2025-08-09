@@ -20,7 +20,7 @@ The output is suitable for developers, researchers, domain registrars, and secur
 
 ## 📅 Data Freshness
 
-> **Last Refreshed On:** `Fri, 08 Aug 2025 03:49:15 GMT`
+> **Last Refreshed On:** `Sat, 09 Aug 2025 03:24:40 GMT`
 
 > This dataset is automatically updated on a daily basis by the crawler.  
 > Outputs are written to JSON files and previewed in tabular format below.
@@ -419,7 +419,7 @@ The output is suitable for developers, researchers, domain registrars, and secur
 | 383  | [giving](https://www.iana.org/domains/root/db/giving.html)                              | whois.nic.giving                   | https://rdap.publicinterestregistry.org/rdap          | Public Interest Registry (PIR)                                                                                           |
 | 384  | [glass](https://www.iana.org/domains/root/db/glass.html)                                | whois.nic.glass                    | https://rdap.identitydigital.services/rdap            | Binky Moon, LLC                                                                                                          |
 | 385  | [gle](https://www.iana.org/domains/root/db/gle.html)                                    | N/A                                | https://pubapi.registry.google/rdap                   | Charleston Road Registry Inc.                                                                                            |
-| 386  | [global](https://www.iana.org/domains/root/db/global.html)                              | whois.nic.global                   | https://rdap.identitydigital.services/rdap            | Identity Digital Limited                                                                                                 |
+| 386  | [global](https://www.iana.org/domains/root/db/global.html)                              | N/A                                | https://rdap.identitydigital.services/rdap            | Identity Digital Limited                                                                                                 |
 | 387  | [globo](https://www.iana.org/domains/root/db/globo.html)                                | whois.gtlds.nic.br                 | https://rdap.gtlds.nic.br                             | Globo Comunicação e Participações S.A                                                                                    |
 | 388  | [gmail](https://www.iana.org/domains/root/db/gmail.html)                                | N/A                                | https://pubapi.registry.google/rdap                   | Charleston Road Registry Inc.                                                                                            |
 | 389  | [gmbh](https://www.iana.org/domains/root/db/gmbh.html)                                  | whois.nic.gmbh                     | https://rdap.identitydigital.services/rdap            | Binky Moon, LLC                                                                                                          |
