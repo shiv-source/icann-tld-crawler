@@ -20,7 +20,7 @@ The output is suitable for developers, researchers, domain registrars, and secur
 
 ## 📅 Data Freshness
 
-> **Last Refreshed On:** `Wed, 13 Aug 2025 03:24:22 GMT`
+> **Last Refreshed On:** `Thu, 14 Aug 2025 03:28:49 GMT`
 
 > This dataset is automatically updated on a daily basis by the crawler.  
 > Outputs are written to JSON files and previewed in tabular format below.
@@ -185,7 +185,7 @@ The output is suitable for developers, researchers, domain registrars, and secur
 | 149  | [canon](https://www.iana.org/domains/root/db/canon.html)                                | whois.nic.canon                    | https://rdap.gmoregistry.net/rdap                     | Canon Inc.                                                                                                               |
 | 150  | [capetown](https://www.iana.org/domains/root/db/capetown.html)                          | whois.nic.capetown                 | https://rdap.nic.capetown/rdap                        | ZA Central Registry NPC trading as ZA Central Registry                                                                   |
 | 151  | [capital](https://www.iana.org/domains/root/db/capital.html)                            | whois.nic.capital                  | https://rdap.identitydigital.services/rdap            | Binky Moon, LLC                                                                                                          |
-| 152  | [capitalone](https://www.iana.org/domains/root/db/capitalone.html)                      | whois.nic.capitalone               | https://tld-rdap.verisign.com/capitalone/v1           | Capital One Financial Corporation                                                                                        |
+| 152  | [capitalone](https://www.iana.org/domains/root/db/capitalone.html)                      | whois.nic.capitalone               | https://rdap.nic.capitalone                           | Capital One Financial Corporation                                                                                        |
 | 153  | [car](https://www.iana.org/domains/root/db/car.html)                                    | whois.nic.car                      | https://rdap.centralnic.com/car                       | XYZ.COM LLC                                                                                                              |
 | 154  | [caravan](https://www.iana.org/domains/root/db/caravan.html)                            | N/A                                | https://rdap.nic.caravan                              | Caravan International, Inc.                                                                                              |
 | 155  | [cards](https://www.iana.org/domains/root/db/cards.html)                                | whois.nic.cards                    | https://rdap.identitydigital.services/rdap            | Binky Moon, LLC                                                                                                          |

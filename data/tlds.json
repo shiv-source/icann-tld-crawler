@@ -9587,7 +9587,7 @@
     "registry": {
       "registrationServiceUrl": "http://www.capitalone.com",
       "whoisServer": "whois.nic.capitalone",
-      "rdapServer": "https://tld-rdap.verisign.com/capitalone/v1"
+      "rdapServer": "https://rdap.nic.capitalone"
     },
     "nameServers": [
       {
@@ -9633,7 +9633,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-08-08",
+    "lastUpdated": "2025-08-13",
     "registeredOn": "2016-08-04"
   },
   {
@@ -10730,7 +10730,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-08-12",
+    "lastUpdated": "2024-02-28",
     "registeredOn": "2013-12-19"
   },
   {
@@ -16382,7 +16382,7 @@
         ]
       }
     ],
-    "lastUpdated": "2024-01-31",
+    "lastUpdated": "2025-08-12",
     "registeredOn": "2014-08-15"
   },
   {
@@ -51060,7 +51060,7 @@
         ]
       }
     ],
-    "lastUpdated": "2024-04-15",
+    "lastUpdated": "2025-08-12",
     "registeredOn": "2015-09-03"
   },
   {
@@ -54391,7 +54391,7 @@
         ]
       }
     ],
-    "lastUpdated": "2024-11-20",
+    "lastUpdated": "2025-08-12",
     "registeredOn": "2015-12-10"
   },
   {
