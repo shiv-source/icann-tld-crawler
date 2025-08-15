@@ -6190,7 +6190,7 @@
     "infoUrl": "https://www.iana.org/domains/root/db/bom.html",
     "registry": {
       "registrationServiceUrl": "",
-      "whoisServer": "whois.gtlds.nic.br",
+      "whoisServer": "",
       "rdapServer": "https://rdap.gtlds.nic.br"
     },
     "nameServers": [
@@ -6237,7 +6237,7 @@
         ]
       }
     ],
-    "lastUpdated": "2023-11-14",
+    "lastUpdated": "2025-08-14",
     "registeredOn": "2015-05-29"
   },
   {
@@ -9075,7 +9075,7 @@
         ]
       }
     ],
-    "lastUpdated": "2024-02-28",
+    "lastUpdated": "2025-08-12",
     "registeredOn": "2013-12-19"
   },
   {
@@ -9374,7 +9374,7 @@
         ]
       }
     ],
-    "lastUpdated": "2023-01-18",
+    "lastUpdated": "2025-08-14",
     "registeredOn": "2018-05-17"
   },
   {
@@ -17451,7 +17451,7 @@
     "infoUrl": "https://www.iana.org/domains/root/db/final.html",
     "registry": {
       "registrationServiceUrl": "",
-      "whoisServer": "whois.gtlds.nic.br",
+      "whoisServer": "",
       "rdapServer": "https://rdap.gtlds.nic.br"
     },
     "nameServers": [
@@ -17498,7 +17498,7 @@
         ]
       }
     ],
-    "lastUpdated": "2023-11-14",
+    "lastUpdated": "2025-08-14",
     "registeredOn": "2015-05-29"
   },
   {
@@ -18747,7 +18747,7 @@
         ]
       }
     ],
-    "lastUpdated": "2023-01-18",
+    "lastUpdated": "2025-08-14",
     "registeredOn": "2014-02-06"
   },
   {
@@ -20398,7 +20398,7 @@
         ]
       }
     ],
-    "lastUpdated": "2023-01-18",
+    "lastUpdated": "2025-08-14",
     "registeredOn": "2014-05-29"
   },
   {
@@ -20456,7 +20456,7 @@
         ]
       }
     ],
-    "lastUpdated": "2023-01-18",
+    "lastUpdated": "2025-08-14",
     "registeredOn": "2015-06-11"
   },
   {
@@ -20620,7 +20620,7 @@
     "infoUrl": "https://www.iana.org/domains/root/db/globo.html",
     "registry": {
       "registrationServiceUrl": "https://nic.globo/",
-      "whoisServer": "whois.gtlds.nic.br",
+      "whoisServer": "",
       "rdapServer": "https://rdap.gtlds.nic.br"
     },
     "nameServers": [
@@ -20667,7 +20667,7 @@
         ]
       }
     ],
-    "lastUpdated": "2024-01-11",
+    "lastUpdated": "2025-08-14",
     "registeredOn": "2014-02-20"
   },
   {
@@ -32219,7 +32219,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-08-12",
+    "lastUpdated": "2024-01-31",
     "registeredOn": "2015-08-13"
   },
   {
@@ -32627,7 +32627,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-08-12",
+    "lastUpdated": "2024-03-11",
     "registeredOn": "2014-05-01"
   },
   {
@@ -33903,7 +33903,7 @@
         ]
       }
     ],
-    "lastUpdated": "2022-06-03",
+    "lastUpdated": "2025-08-14",
     "registeredOn": "2014-07-10"
   },
   {
@@ -34292,7 +34292,7 @@
     "registry": {
       "registrationServiceUrl": "http://www.symantec.com",
       "whoisServer": "whois.nic.norton",
-      "rdapServer": "https://tld-rdap.verisign.com/norton/v1"
+      "rdapServer": "https://rdap.nic.norton"
     },
     "nameServers": [
       {
@@ -34338,7 +34338,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-08-08",
+    "lastUpdated": "2025-08-14",
     "registeredOn": "2015-09-24"
   },
   {
@@ -35295,7 +35295,7 @@
         ]
       }
     ],
-    "lastUpdated": "2022-06-03",
+    "lastUpdated": "2025-08-14",
     "registeredOn": "2014-07-10"
   },
   {
@@ -35645,7 +35645,7 @@
         ]
       }
     ],
-    "lastUpdated": "2022-06-03",
+    "lastUpdated": "2025-08-14",
     "registeredOn": "1985-01-01"
   },
   {
@@ -49752,7 +49752,7 @@
     "infoUrl": "https://www.iana.org/domains/root/db/uol.html",
     "registry": {
       "registrationServiceUrl": "https://nic.uol/",
-      "whoisServer": "whois.gtlds.nic.br",
+      "whoisServer": "",
       "rdapServer": "https://rdap.gtlds.nic.br"
     },
     "nameServers": [
@@ -49799,7 +49799,7 @@
         ]
       }
     ],
-    "lastUpdated": "2023-11-14",
+    "lastUpdated": "2025-08-14",
     "registeredOn": "2014-08-07"
   },
   {
@@ -54712,7 +54712,7 @@
         ]
       }
     ],
-    "lastUpdated": "2022-06-03",
+    "lastUpdated": "2025-08-14",
     "registeredOn": "2014-02-27"
   },
   {
@@ -55953,7 +55953,7 @@
         ]
       }
     ],
-    "lastUpdated": "2022-06-03",
+    "lastUpdated": "2025-08-14",
     "registeredOn": "2014-02-27"
   },
   {
@@ -56952,7 +56952,7 @@
         ]
       }
     ],
-    "lastUpdated": "2022-06-03",
+    "lastUpdated": "2025-08-14",
     "registeredOn": "2014-02-27"
   },
   {
@@ -56996,7 +56996,7 @@
         ]
       }
     ],
-    "lastUpdated": "2022-06-03",
+    "lastUpdated": "2025-08-14",
     "registeredOn": "2014-02-27"
   },
   {
