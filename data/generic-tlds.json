@@ -32219,7 +32219,7 @@
         ]
       }
     ],
-    "lastUpdated": "2024-01-31",
+    "lastUpdated": "2025-08-12",
     "registeredOn": "2015-08-13"
   },
   {
@@ -32627,7 +32627,7 @@
         ]
       }
     ],
-    "lastUpdated": "2024-03-11",
+    "lastUpdated": "2025-08-12",
     "registeredOn": "2014-05-01"
   },
   {
@@ -40517,7 +40517,7 @@
     "infoUrl": "https://www.iana.org/domains/root/db/rio.html",
     "registry": {
       "registrationServiceUrl": "https://nic.rio/",
-      "whoisServer": "whois.gtlds.nic.br",
+      "whoisServer": "",
       "rdapServer": "https://rdap.gtlds.nic.br"
     },
     "nameServers": [
@@ -40564,7 +40564,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-08-07",
+    "lastUpdated": "2025-08-14",
     "registeredOn": "2014-05-15"
   },
   {

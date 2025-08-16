@@ -20,7 +20,7 @@ The output is suitable for developers, researchers, domain registrars, and secur
 
 ## 📅 Data Freshness
 
-> **Last Refreshed On:** `Fri, 15 Aug 2025 03:25:50 GMT`
+> **Last Refreshed On:** `Sat, 16 Aug 2025 03:20:01 GMT`
 
 > This dataset is automatically updated on a daily basis by the crawler.  
 > Outputs are written to JSON files and previewed in tabular format below.
@@ -800,7 +800,7 @@ The output is suitable for developers, researchers, domain registrars, and secur
 | 764  | [richardli](https://www.iana.org/domains/root/db/richardli.html)                        | whois.nic.richardli                | https://rdap.identitydigital.services/rdap            | Pacific Century Asset Management (HK) Limited                                                                            |
 | 765  | [ricoh](https://www.iana.org/domains/root/db/ricoh.html)                                | whois.nic.ricoh                    | https://rdap.gmoregistry.net/rdap                     | Ricoh Company, Ltd.                                                                                                      |
 | 766  | [ril](https://www.iana.org/domains/root/db/ril.html)                                    | whois.nic.ril                      | https://rdap.identitydigital.services/rdap            | Reliance Industries Limited                                                                                              |
-| 767  | [rio](https://www.iana.org/domains/root/db/rio.html)                                    | whois.gtlds.nic.br                 | https://rdap.gtlds.nic.br                             | Empresa Municipal de Informática SA - IPLANRIO                                                                           |
+| 767  | [rio](https://www.iana.org/domains/root/db/rio.html)                                    | N/A                                | https://rdap.gtlds.nic.br                             | Empresa Municipal de Informática SA - IPLANRIO                                                                           |
 | 768  | [rip](https://www.iana.org/domains/root/db/rip.html)                                    | whois.nic.rip                      | https://rdap.identitydigital.services/rdap            | Dog Beach, LLC                                                                                                           |
 | 769  | [rocks](https://www.iana.org/domains/root/db/rocks.html)                                | whois.nic.rocks                    | https://rdap.identitydigital.services/rdap            | Dog Beach, LLC                                                                                                           |
 | 770  | [rodeo](https://www.iana.org/domains/root/db/rodeo.html)                                | whois.nic.rodeo                    | https://rdap.nic.rodeo                                | Registry Services, LLC                                                                                                   |
