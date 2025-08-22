@@ -10628,7 +10628,7 @@
         ]
       }
     ],
-    "lastUpdated": "2023-10-04",
+    "lastUpdated": "2025-08-21",
     "registeredOn": "1997-10-13"
   },
   {
@@ -16925,7 +16925,7 @@
     "id": 365,
     "tld": "do",
     "category": "country-code",
-    "sponsoringOrganization": "Pontificia Universidad Catolica Madre y Maestra Recinto Santo Tomas de Aquino",
+    "sponsoringOrganization": "Pontificia Universidad Catolica Madre y Maestra, Recinto Santo Tomas de Aquino",
     "infoUrl": "https://www.iana.org/domains/root/db/do.html",
     "registry": {
       "registrationServiceUrl": "http://www.nic.do",
@@ -16983,7 +16983,7 @@
         ]
       }
     ],
-    "lastUpdated": "2023-01-18",
+    "lastUpdated": "2025-08-21",
     "registeredOn": "1991-08-25"
   },
   {
@@ -32593,7 +32593,7 @@
         ]
       }
     ],
-    "lastUpdated": "2023-03-17",
+    "lastUpdated": "2025-08-21",
     "registeredOn": "1996-05-14"
   },
   {
@@ -39230,7 +39230,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-07-22",
+    "lastUpdated": "2025-08-21",
     "registeredOn": "1997-01-03"
   },
   {
@@ -54725,7 +54725,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-06-03",
+    "lastUpdated": "2025-08-21",
     "registeredOn": "1990-09-19"
   },
   {
@@ -57660,7 +57660,7 @@
     "id": 1273,
     "tld": "to",
     "category": "country-code",
-    "sponsoringOrganization": "Government of the Kingdom of Tonga H.R.H. Crown Prince Tupouto'a c/o Consulate of Tonga",
+    "sponsoringOrganization": "Government of the Kingdom of Tonga, H.R.H. Crown Prince Tupouto'a, c/o Consulate of Tonga",
     "infoUrl": "https://www.iana.org/domains/root/db/to.html",
     "registry": {
       "registrationServiceUrl": "http://www.tonic.to/",
@@ -57697,7 +57697,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-08-01",
+    "lastUpdated": "2025-08-21",
     "registeredOn": "1995-12-18"
   },
   {
@@ -58997,14 +58997,28 @@
         ]
       },
       {
-        "host": "d.nic.tv",
+        "host": "x.nic.tv",
         "ipList": [
-          "37.209.198.6",
-          "2001:dcd:4:0:0:0:0:6"
+          "156.154.103.22",
+          "2610:a1:1010:0:0:0:0:22"
+        ]
+      },
+      {
+        "host": "y.nic.tv",
+        "ipList": [
+          "156.154.104.22",
+          "2610:a1:1011:0:0:0:0:22"
+        ]
+      },
+      {
+        "host": "z.nic.tv",
+        "ipList": [
+          "156.154.105.22",
+          "2610:a1:1012:0:0:0:0:22"
         ]
       }
     ],
-    "lastUpdated": "2024-05-20",
+    "lastUpdated": "2025-08-21",
     "registeredOn": "1996-03-18"
   },
   {

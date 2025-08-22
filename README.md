@@ -20,7 +20,7 @@ The output is suitable for developers, researchers, domain registrars, and secur
 
 ## 📅 Data Freshness
 
-> **Last Refreshed On:** `Thu, 21 Aug 2025 03:12:52 GMT`
+> **Last Refreshed On:** `Fri, 22 Aug 2025 03:13:21 GMT`
 
 > This dataset is automatically updated on a daily basis by the crawler.  
 > Outputs are written to JSON files and previewed in tabular format below.
@@ -1197,7 +1197,7 @@ The output is suitable for developers, researchers, domain registrars, and secur
 | 38  | [de](https://www.iana.org/domains/root/db/de.html)                              | whois.denic.de                 | N/A                                        | DENIC eG                                                                                                     |
 | 39  | [dk](https://www.iana.org/domains/root/db/dk.html)                              | whois.punktum.dk               | N/A                                        | Dansk Internet Forum                                                                                         |
 | 40  | [dm](https://www.iana.org/domains/root/db/dm.html)                              | whois.dmdomains.dm             | N/A                                        | DotDM Corporation                                                                                            |
-| 41  | [do](https://www.iana.org/domains/root/db/do.html)                              | whois.nic.do                   | N/A                                        | Pontificia Universidad Catolica Madre y Maestra Recinto Santo Tomas de Aquino                                |
+| 41  | [do](https://www.iana.org/domains/root/db/do.html)                              | whois.nic.do                   | N/A                                        | Pontificia Universidad Catolica Madre y Maestra, Recinto Santo Tomas de Aquino                               |
 | 42  | [dz](https://www.iana.org/domains/root/db/dz.html)                              | whois.nic.dz                   | N/A                                        | CERIST                                                                                                       |
 | 43  | [ec](https://www.iana.org/domains/root/db/ec.html)                              | whois.nic.ec                   | https://rdap.registry.ec                   | ECUADORDOMAIN S.A.                                                                                           |
 | 44  | [ee](https://www.iana.org/domains/root/db/ee.html)                              | whois.tld.ee                   | N/A                                        | Eesti Interneti Sihtasutus (EIS)                                                                             |
@@ -1322,7 +1322,7 @@ The output is suitable for developers, researchers, domain registrars, and secur
 | 163 | [tl](https://www.iana.org/domains/root/db/tl.html)                              | whois.nic.tl                   | N/A                                        | Autoridade Nacional de Comunicações                                                                          |
 | 164 | [tm](https://www.iana.org/domains/root/db/tm.html)                              | whois.nic.tm                   | N/A                                        | TM Domain Registry Ltd                                                                                       |
 | 165 | [tn](https://www.iana.org/domains/root/db/tn.html)                              | whois.ati.tn                   | N/A                                        | Agence Tunisienne d&#39;Internet                                                                                 |
-| 166 | [to](https://www.iana.org/domains/root/db/to.html)                              | whois.tonicregistry.to         | https://rdap.tonicregistry.to/rdap         | Government of the Kingdom of Tonga H.R.H. Crown Prince Tupouto&#39;a c/o Consulate of Tonga                      |
+| 166 | [to](https://www.iana.org/domains/root/db/to.html)                              | whois.tonicregistry.to         | https://rdap.tonicregistry.to/rdap         | Government of the Kingdom of Tonga, H.R.H. Crown Prince Tupouto&#39;a, c/o Consulate of Tonga                    |
 | 167 | [tr](https://www.iana.org/domains/root/db/tr.html)                              | whois.trabis.gov.tr            | N/A                                        | Bilgi Teknolojileri ve İletişim Kurumu (BTK)                                                                 |
 | 168 | [tv](https://www.iana.org/domains/root/db/tv.html)                              | whois.nic.tv                   | https://rdap.nic.tv                        | Ministry of Justice, Communications and Foreign Affairs                                                      |
 | 169 | [tw](https://www.iana.org/domains/root/db/tw.html)                              | whois.twnic.net.tw             | https://ccrdap.twnic.tw/tw                 | Taiwan Network Information Center (TWNIC)                                                                    |
