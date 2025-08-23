@@ -1729,7 +1729,7 @@
     "id": 307,
     "tld": "cr",
     "category": "country-code",
-    "sponsoringOrganization": "National Academy of Sciences Academia Nacional de Ciencias",
+    "sponsoringOrganization": "National Academy of Sciences (Academia Nacional de Ciencias)",
     "infoUrl": "https://www.iana.org/domains/root/db/cr.html",
     "registry": {
       "registrationServiceUrl": "http://www.nic.cr/",
@@ -1780,7 +1780,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-02-18",
+    "lastUpdated": "2025-08-22",
     "registeredOn": "1990-09-10"
   },
   {
@@ -3524,7 +3524,7 @@
     "id": 618,
     "tld": "ie",
     "category": "country-code",
-    "sponsoringOrganization": "University College Dublin Computing Services Computer Centre",
+    "sponsoringOrganization": "University College Dublin, Computing Services, Computer Centre",
     "infoUrl": "https://www.iana.org/domains/root/db/ie.html",
     "registry": {
       "registrationServiceUrl": "http://www.weare.ie",
@@ -3575,7 +3575,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-06-20",
+    "lastUpdated": "2025-08-22",
     "registeredOn": "1988-01-27"
   },
   {
@@ -4729,7 +4729,7 @@
     "id": 786,
     "tld": "lv",
     "category": "country-code",
-    "sponsoringOrganization": "University of Latvia Institute of Mathematics and Computer Science Department of Network Solutions (DNS)",
+    "sponsoringOrganization": "University of Latvia, Institute of Mathematics and Computer Science, Department of Network Solutions (DNS)",
     "infoUrl": "https://www.iana.org/domains/root/db/lv.html",
     "registry": {
       "registrationServiceUrl": "http://www.nic.lv/",
@@ -4786,7 +4786,7 @@
         ]
       }
     ],
-    "lastUpdated": "2024-10-04",
+    "lastUpdated": "2025-08-22",
     "registeredOn": "1993-04-29"
   },
   {
@@ -6288,7 +6288,7 @@
     "id": 976,
     "tld": "pg",
     "category": "country-code",
-    "sponsoringOrganization": "PNG DNS Administration Vice Chancellors Office The Papua New Guinea University of Technology",
+    "sponsoringOrganization": "PNG DNS Administration, Vice Chancellors Office, The Papua New Guinea University of Technology",
     "infoUrl": "https://www.iana.org/domains/root/db/pg.html",
     "registry": {
       "registrationServiceUrl": "",
@@ -6323,7 +6323,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-04-25",
+    "lastUpdated": "2025-08-22",
     "registeredOn": "1991-09-26"
   },
   {
@@ -7020,20 +7020,14 @@
     },
     "nameServers": [
       {
-        "host": "ans.dnsstudy.africa",
-        "ipList": [
-          "192.96.24.69"
-        ]
-      },
-      {
-        "host": "fork.sth.dnsnode.net",
+        "host": "dnsnode.ricta.org.rw",
         "ipList": [
           "77.72.229.254",
           "2a01:3f0:0:306:0:0:0:53"
         ]
       },
       {
-        "host": "ns-rw.afrinic.net",
+        "host": "ns-afrinic.ricta.org.rw",
         "ipList": [
           "196.216.168.28",
           "2001:43f8:120:0:0:0:0:28"
@@ -7067,7 +7061,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-06-11",
+    "lastUpdated": "2025-08-22",
     "registeredOn": "1996-10-21"
   },
   {
