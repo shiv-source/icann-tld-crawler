@@ -43,3 +43,4 @@ jobs:
               run: ./scripts/commit-changes.sh
               env:
                 GITHUB_ACTOR: ${{ github.actor }}
+                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
