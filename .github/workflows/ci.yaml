@@ -46,7 +46,7 @@ jobs:
               run: pnpm dev
 
             - name: Commit and Push Changes
-              run: ./scripts/commit-changes.sh
+              run: bash ./scripts/commit-changes.sh
               env:
                 GITHUB_ACTOR: ${{ github.actor }}
                 GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
