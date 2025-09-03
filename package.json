@@ -14,21 +14,21 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "axios": "^1.10.0",
+    "axios": "^1.11.0",
     "cheerio": "^1.1.2",
     "ejs": "^3.1.10",
-    "fs-extra": "^11.3.0",
+    "fs-extra": "^11.3.1",
     "markdown-table": "^3.0.4",
-    "user-agents": "^1.1.610"
+    "user-agents": "^1.1.651"
   },
   "devDependencies": {
     "@types/ejs": "^3.1.5",
     "@types/fs-extra": "^11.0.4",
-    "@types/node": "^24.1.0",
+    "@types/node": "^24.3.0",
     "@types/user-agents": "^1.0.4",
     "prettier": "^3.6.2",
     "rimraf": "^6.0.1",
     "ts-node": "^10.9.2",
-    "typescript": "^5.8.3"
+    "typescript": "^5.9.2"
   }
 }

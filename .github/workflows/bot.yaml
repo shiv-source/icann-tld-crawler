@@ -1,45 +1,45 @@
-name: Bot
-
+name: Daily Tech Stack Update
 on:
-    schedule:
-        - cron: '0 2 * * *' # 2:00 AM every day.
+  schedule:
+    - cron: '0 2 * * *' # 2:00 AM UTC every day
+  workflow_dispatch: # Allow manual triggering
+
 
 permissions:
     contents: write
 
 env:
-    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  PNPM_VERSION: 10
+  NODE_VERSION: 20.x
 
 jobs:
-    update_tech_stack:
+    update-tld-data:
+        if: github.event.repository.fork == false
+        name: Update top level domain data
         runs-on: ubuntu-latest
-        strategy:
-            matrix:
-                node-version: [20.x]
-        if: github.repository == 'shiv-source/icann-tld-crawler'
+        timeout-minutes: 15
         steps:
             - uses: actions/checkout@v4
             - name: Setup pnpm
               uses: pnpm/action-setup@v4
               with:
-                version: 10
+                version: ${{ env.PNPM_VERSION }}
 
-            - name: Setup node.js ${{ matrix.node-version }}
+            - name: Setup node.js ${{ env.NODE_VERSION }}
               uses: actions/setup-node@v4
               with:
-                  node-version: ${{ matrix.node-version }}
+                  node-version: ${{ env.NODE_VERSION }}
                   cache: 'pnpm'
+                  cache-dependency-path: 'pnpm-lock.yaml'
 
             - name: Install Dependencies
-              run: pnpm install --prod
+              run: pnpm install --prod --frozen-lockfile
 
-            - name: Run executable
+            - name: Generate updated data
               run: pnpm start
 
-            - name: Commit and Push Updated Stack
-              run: |
-                  git config user.name "${{ github.actor }}"
-                  git config user.email "${{ github.actor }}@users.noreply.github.com"
-                  git add .
-                  git commit -m "chore: 📝update tlds and README.md"
-                  git push -u origin master
+            - name: Commit and Push Changes
+              run: ./scripts/commit-changes.sh
+              env:
+                GITHUB_ACTOR: ${{ github.actor }}
