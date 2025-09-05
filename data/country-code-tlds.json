@@ -8566,7 +8566,7 @@
     "id": 1301,
     "tld": "tv",
     "category": "country-code",
-    "sponsoringOrganization": "Ministry of Justice, Communications and Foreign Affairs",
+    "sponsoringOrganization": "Ministry of Transport, Energy, Communications and Innovations",
     "infoUrl": "https://www.iana.org/domains/root/db/tv.html",
     "registry": {
       "registrationServiceUrl": "https://turnon.tv/",
@@ -8617,7 +8617,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-08-21",
+    "lastUpdated": "2025-09-04",
     "registeredOn": "1996-03-18"
   },
   {
