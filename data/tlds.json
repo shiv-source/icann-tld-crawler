@@ -6358,7 +6358,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-07-07",
+    "lastUpdated": "2025-09-05",
     "registeredOn": "1996-10-21"
   },
   {
@@ -61496,35 +61496,49 @@
     },
     "nameServers": [
       {
-        "host": "ns1.tldns.vu",
+        "host": "a.tldns.vu",
         "ipList": [
           "37.209.192.6",
           "2001:dcd:1:0:0:0:0:6"
         ]
       },
       {
-        "host": "ns2.tldns.vu",
+        "host": "b.tldns.vu",
         "ipList": [
           "37.209.194.6",
           "2001:dcd:2:0:0:0:0:6"
         ]
       },
       {
-        "host": "ns3.tldns.vu",
+        "host": "c.tldns.vu",
         "ipList": [
           "37.209.196.6",
           "2001:dcd:3:0:0:0:0:6"
         ]
       },
       {
-        "host": "ns4.tldns.vu",
+        "host": "x.tldns.vu",
         "ipList": [
-          "37.209.198.6",
-          "2001:dcd:4:0:0:0:0:6"
+          "156.154.103.22",
+          "2610:a1:1010:0:0:0:0:22"
+        ]
+      },
+      {
+        "host": "y.tldns.vu",
+        "ipList": [
+          "156.154.104.22",
+          "2610:a1:1011:0:0:0:0:22"
+        ]
+      },
+      {
+        "host": "z.tldns.vu",
+        "ipList": [
+          "156.154.105.22",
+          "2610:a1:1012:0:0:0:0:22"
         ]
       }
     ],
-    "lastUpdated": "2024-05-21",
+    "lastUpdated": "2025-09-05",
     "registeredOn": "1995-04-10"
   },
   {
