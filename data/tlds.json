@@ -12149,8 +12149,8 @@
     "infoUrl": "https://www.iana.org/domains/root/db/click.html",
     "registry": {
       "registrationServiceUrl": "https://internetnaming.co",
-      "whoisServer": "whois.nic.click",
-      "rdapServer": "https://whois.uniregistry.net/rdap"
+      "whoisServer": "whois.tucowsregistry.net",
+      "rdapServer": "https://rdap.tucowsregistry.net/rdap"
     },
     "nameServers": [
       {
@@ -12182,7 +12182,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-05-15",
+    "lastUpdated": "2025-09-08",
     "registeredOn": "2014-08-15"
   },
   {
@@ -13887,8 +13887,8 @@
     "infoUrl": "https://www.iana.org/domains/root/db/country.html",
     "registry": {
       "registrationServiceUrl": "https://internetnaming.co",
-      "whoisServer": "whois.nic.country",
-      "rdapServer": "https://whois.uniregistry.net/rdap"
+      "whoisServer": "whois.tucowsregistry.net",
+      "rdapServer": "https://rdap.tucowsregistry.net/rdap"
     },
     "nameServers": [
       {
@@ -13920,7 +13920,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-05-15",
+    "lastUpdated": "2025-09-08",
     "registeredOn": "2014-02-28"
   },
   {
@@ -16727,8 +16727,8 @@
     "infoUrl": "https://www.iana.org/domains/root/db/diy.html",
     "registry": {
       "registrationServiceUrl": "https://internetnaming.co",
-      "whoisServer": "whois.nic.diy",
-      "rdapServer": "https://rdap.nic.diy/rdap"
+      "whoisServer": "whois.tucowsregistry.net",
+      "rdapServer": "https://rdap.tucowsregistry.net/rdap"
     },
     "nameServers": [
       {
@@ -16760,7 +16760,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-05-15",
+    "lastUpdated": "2025-09-08",
     "registeredOn": "2016-07-21"
   },
   {
@@ -21487,8 +21487,8 @@
     "infoUrl": "https://www.iana.org/domains/root/db/food.html",
     "registry": {
       "registrationServiceUrl": "https://internetnaming.co",
-      "whoisServer": "whois.nic.food",
-      "rdapServer": "https://rdap.nic.food/rdap"
+      "whoisServer": "whois.tucowsregistry.net",
+      "rdapServer": "https://rdap.tucowsregistry.net/rdap"
     },
     "nameServers": [
       {
@@ -21520,7 +21520,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-05-15",
+    "lastUpdated": "2025-09-08",
     "registeredOn": "2016-11-04"
   },
   {
@@ -21763,8 +21763,8 @@
     "infoUrl": "https://www.iana.org/domains/root/db/forum.html",
     "registry": {
       "registrationServiceUrl": "http://www.topspectrum.com",
-      "whoisServer": "whois.nic.forum",
-      "rdapServer": "https://rdap.nic.forum/rdap"
+      "whoisServer": "whois.registry.click",
+      "rdapServer": "https://rdap.registry.click/rdap"
     },
     "nameServers": [
       {
@@ -21796,7 +21796,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-05-15",
+    "lastUpdated": "2025-09-08",
     "registeredOn": "2015-06-11"
   },
   {
@@ -23662,8 +23662,8 @@
     "infoUrl": "https://www.iana.org/domains/root/db/gift.html",
     "registry": {
       "registrationServiceUrl": "http://uniregistry.link",
-      "whoisServer": "whois.uniregistry.net",
-      "rdapServer": "https://whois.uniregistry.net/rdap"
+      "whoisServer": "whois.tucowsregistry.net",
+      "rdapServer": "https://rdap.tucowsregistry.net/rdap"
     },
     "nameServers": [
       {
@@ -23695,7 +23695,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-05-15",
+    "lastUpdated": "2025-09-08",
     "registeredOn": "2014-01-09"
   },
   {
@@ -26571,8 +26571,8 @@
     "infoUrl": "https://www.iana.org/domains/root/db/hiv.html",
     "registry": {
       "registrationServiceUrl": "https://internetnaming.co",
-      "whoisServer": "whois.nic.hiv",
-      "rdapServer": "https://whois.uniregistry.net/rdap"
+      "whoisServer": "whois.tucowsregistry.net",
+      "rdapServer": "https://rdap.tucowsregistry.net/rdap"
     },
     "nameServers": [
       {
@@ -26604,7 +26604,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-05-15",
+    "lastUpdated": "2025-09-08",
     "registeredOn": "2014-05-22"
   },
   {
@@ -33878,8 +33878,8 @@
     "infoUrl": "https://www.iana.org/domains/root/db/lifestyle.html",
     "registry": {
       "registrationServiceUrl": "https://internetnaming.co",
-      "whoisServer": "whois.nic.lifestyle",
-      "rdapServer": "https://rdap.nic.lifestyle/rdap"
+      "whoisServer": "whois.tucowsregistry.net",
+      "rdapServer": "https://rdap.tucowsregistry.net/rdap"
     },
     "nameServers": [
       {
@@ -33911,7 +33911,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-05-15",
+    "lastUpdated": "2025-09-08",
     "registeredOn": "2015-10-01"
   },
   {
@@ -34284,8 +34284,8 @@
     "infoUrl": "https://www.iana.org/domains/root/db/link.html",
     "registry": {
       "registrationServiceUrl": "http://uniregistry.link",
-      "whoisServer": "whois.uniregistry.net",
-      "rdapServer": "https://whois.uniregistry.net/rdap"
+      "whoisServer": "whois.tucowsregistry.net",
+      "rdapServer": "https://rdap.tucowsregistry.net/rdap"
     },
     "nameServers": [
       {
@@ -34317,7 +34317,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-05-15",
+    "lastUpdated": "2025-09-08",
     "registeredOn": "2014-01-09"
   },
   {
@@ -34386,8 +34386,8 @@
     "infoUrl": "https://www.iana.org/domains/root/db/living.html",
     "registry": {
       "registrationServiceUrl": "https://internetnaming.co",
-      "whoisServer": "whois.nic.living",
-      "rdapServer": "https://rdap.nic.living/rdap"
+      "whoisServer": "whois.tucowsregistry.net",
+      "rdapServer": "https://rdap.tucowsregistry.net/rdap"
     },
     "nameServers": [
       {
@@ -34419,7 +34419,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-05-15",
+    "lastUpdated": "2025-09-08",
     "registeredOn": "2015-12-10"
   },
   {
@@ -45929,8 +45929,8 @@
     "infoUrl": "https://www.iana.org/domains/root/db/property.html",
     "registry": {
       "registrationServiceUrl": "https://internetnaming.co",
-      "whoisServer": "whois.nic.property",
-      "rdapServer": "https://whois.uniregistry.net/rdap"
+      "whoisServer": "whois.tucowsregistry.net",
+      "rdapServer": "https://rdap.tucowsregistry.net/rdap"
     },
     "nameServers": [
       {
@@ -45962,7 +45962,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-05-15",
+    "lastUpdated": "2025-09-08",
     "registeredOn": "2014-08-15"
   },
   {
@@ -51407,8 +51407,8 @@
     "infoUrl": "https://www.iana.org/domains/root/db/sexy.html",
     "registry": {
       "registrationServiceUrl": "https://internetnaming.co",
-      "whoisServer": "whois.nic.sexy",
-      "rdapServer": "https://whois.uniregistry.net/rdap"
+      "whoisServer": "whois.tucowsregistry.net",
+      "rdapServer": "https://rdap.tucowsregistry.net/rdap"
     },
     "nameServers": [
       {
@@ -51440,7 +51440,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-05-15",
+    "lastUpdated": "2025-09-08",
     "registeredOn": "2013-11-08"
   },
   {
@@ -58588,8 +58588,8 @@
     "infoUrl": "https://www.iana.org/domains/root/db/trust.html",
     "registry": {
       "registrationServiceUrl": "https://internetnaming.co",
-      "whoisServer": "whois.nic.trust",
-      "rdapServer": "https://whois.uniregistry.net/rdap"
+      "whoisServer": "whois.tucowsregistry.net",
+      "rdapServer": "https://rdap.tucowsregistry.net/rdap"
     },
     "nameServers": [
       {
@@ -58621,7 +58621,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-05-15",
+    "lastUpdated": "2025-09-08",
     "registeredOn": "2014-11-26"
   },
   {
@@ -59943,8 +59943,8 @@
     "infoUrl": "https://www.iana.org/domains/root/db/vana.html",
     "registry": {
       "registrationServiceUrl": "https://nic.vana",
-      "whoisServer": "whois.nic.vana",
-      "rdapServer": "https://rdap.nic.vana/rdap"
+      "whoisServer": "whois.tucowsregistry.net",
+      "rdapServer": "https://rdap.tucowsregistry.net/rdap"
     },
     "nameServers": [
       {
@@ -59976,7 +59976,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-05-15",
+    "lastUpdated": "2025-09-08",
     "registeredOn": "2015-09-24"
   },
   {
