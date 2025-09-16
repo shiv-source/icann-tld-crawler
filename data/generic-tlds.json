@@ -17158,9 +17158,9 @@
     "sponsoringOrganization": "Top Level Spectrum, Inc.",
     "infoUrl": "https://www.iana.org/domains/root/db/feedback.html",
     "registry": {
-      "registrationServiceUrl": "https://nic.love",
-      "whoisServer": "whois.nic.feedback",
-      "rdapServer": "https://rdap.nic.feedback/rdap"
+      "registrationServiceUrl": "https://nic.feedback",
+      "whoisServer": "whois.registry.click",
+      "rdapServer": "https://rdap.registry.click/rdap"
     },
     "nameServers": [
       {
@@ -17192,7 +17192,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-05-23",
+    "lastUpdated": "2025-09-15",
     "registeredOn": "2014-03-06"
   },
   {
@@ -37152,8 +37152,8 @@
     "infoUrl": "https://www.iana.org/domains/root/db/pid.html",
     "registry": {
       "registrationServiceUrl": "http://www.topspectrum.com/",
-      "whoisServer": "whois.nic.pid",
-      "rdapServer": "https://rdap.nic.pid/rdap"
+      "whoisServer": "whois.registry.click",
+      "rdapServer": "https://rdap.registry.click/rdap"
     },
     "nameServers": [
       {
@@ -37185,7 +37185,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-05-23",
+    "lastUpdated": "2025-09-15",
     "registeredOn": "2015-12-10"
   },
   {
