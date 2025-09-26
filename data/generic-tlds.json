@@ -26466,9 +26466,9 @@
     "sponsoringOrganization": "Dog Beach, LLC",
     "infoUrl": "https://www.iana.org/domains/root/db/juegos.html",
     "registry": {
-      "registrationServiceUrl": "http://uniregistry.link",
-      "whoisServer": "whois.uniregistry.net",
-      "rdapServer": "https://whois.uniregistry.net/rdap"
+      "registrationServiceUrl": "https://www.identity.digital/",
+      "whoisServer": "",
+      "rdapServer": "https://rdap.identitydigital.services/rdap"
     },
     "nameServers": [
       {
@@ -26514,7 +26514,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-09-24",
+    "lastUpdated": "2025-09-25",
     "registeredOn": "2014-05-08"
   },
   {
