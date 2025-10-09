@@ -1660,8 +1660,8 @@
     "sponsoringOrganization": "Ministry of Information and Communications Technologies (MinTIC)",
     "infoUrl": "https://www.iana.org/domains/root/db/co.html",
     "registry": {
-      "registrationServiceUrl": "http://www.cointernet.com.co",
-      "whoisServer": "whois.nic.co",
+      "registrationServiceUrl": "http://www.registry.co",
+      "whoisServer": "whois.registry.co",
       "rdapServer": ""
     },
     "nameServers": [
@@ -1694,7 +1694,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-10-06",
+    "lastUpdated": "2025-10-08",
     "registeredOn": "1991-12-24"
   },
   {
