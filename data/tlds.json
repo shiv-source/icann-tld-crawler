@@ -23685,7 +23685,7 @@
     "infoUrl": "https://www.iana.org/domains/root/db/gifts.html",
     "registry": {
       "registrationServiceUrl": "https://www.identity.digital/",
-      "whoisServer": "whois.nic.gifts",
+      "whoisServer": "",
       "rdapServer": "https://rdap.identitydigital.services/rdap"
     },
     "nameServers": [
@@ -23732,7 +23732,7 @@
         ]
       }
     ],
-    "lastUpdated": "2023-09-12",
+    "lastUpdated": "2025-10-07",
     "registeredOn": "2014-07-31"
   },
   {
@@ -26852,7 +26852,7 @@
     "infoUrl": "https://www.iana.org/domains/root/db/holdings.html",
     "registry": {
       "registrationServiceUrl": "https://www.identity.digital/",
-      "whoisServer": "whois.nic.holdings",
+      "whoisServer": "",
       "rdapServer": "https://rdap.identitydigital.services/rdap"
     },
     "nameServers": [
@@ -26899,7 +26899,7 @@
         ]
       }
     ],
-    "lastUpdated": "2023-09-12",
+    "lastUpdated": "2025-10-07",
     "registeredOn": "2013-10-31"
   },
   {
@@ -27621,7 +27621,7 @@
     "infoUrl": "https://www.iana.org/domains/root/db/house.html",
     "registry": {
       "registrationServiceUrl": "https://www.identity.digital/",
-      "whoisServer": "whois.nic.house",
+      "whoisServer": "",
       "rdapServer": "https://rdap.identitydigital.services/rdap"
     },
     "nameServers": [
@@ -27668,7 +27668,7 @@
         ]
       }
     ],
-    "lastUpdated": "2023-09-12",
+    "lastUpdated": "2025-10-07",
     "registeredOn": "2013-12-19"
   },
   {
@@ -28829,7 +28829,7 @@
     "infoUrl": "https://www.iana.org/domains/root/db/immobilien.html",
     "registry": {
       "registrationServiceUrl": "https://www.identity.digital/",
-      "whoisServer": "whois.nic.immobilien",
+      "whoisServer": "",
       "rdapServer": "https://rdap.identitydigital.services/rdap"
     },
     "nameServers": [
@@ -28876,7 +28876,7 @@
         ]
       }
     ],
-    "lastUpdated": "2023-09-12",
+    "lastUpdated": "2025-10-07",
     "registeredOn": "2013-12-19"
   },
   {
@@ -28975,7 +28975,7 @@
     "infoUrl": "https://www.iana.org/domains/root/db/industries.html",
     "registry": {
       "registrationServiceUrl": "https://www.identity.digital/",
-      "whoisServer": "whois.nic.industries",
+      "whoisServer": "",
       "rdapServer": "https://rdap.identitydigital.services/rdap"
     },
     "nameServers": [
@@ -29022,7 +29022,7 @@
         ]
       }
     ],
-    "lastUpdated": "2023-09-12",
+    "lastUpdated": "2025-10-07",
     "registeredOn": "2014-02-13"
   },
   {
@@ -29359,7 +29359,7 @@
     "infoUrl": "https://www.iana.org/domains/root/db/insure.html",
     "registry": {
       "registrationServiceUrl": "https://www.identity.digital/",
-      "whoisServer": "whois.nic.insure",
+      "whoisServer": "",
       "rdapServer": "https://rdap.identitydigital.services/rdap"
     },
     "nameServers": [
@@ -29406,7 +29406,7 @@
         ]
       }
     ],
-    "lastUpdated": "2023-09-12",
+    "lastUpdated": "2025-10-07",
     "registeredOn": "2014-04-24"
   },
   {
@@ -33325,7 +33325,7 @@
     "infoUrl": "https://www.iana.org/domains/root/db/lease.html",
     "registry": {
       "registrationServiceUrl": "https://www.identity.digital/",
-      "whoisServer": "whois.nic.lease",
+      "whoisServer": "",
       "rdapServer": "https://rdap.identitydigital.services/rdap"
     },
     "nameServers": [
@@ -33372,7 +33372,7 @@
         ]
       }
     ],
-    "lastUpdated": "2023-09-12",
+    "lastUpdated": "2025-10-07",
     "registeredOn": "2014-04-03"
   },
   {
@@ -50402,7 +50402,7 @@
     "infoUrl": "https://www.iana.org/domains/root/db/school.html",
     "registry": {
       "registrationServiceUrl": "https://www.identity.digital/",
-      "whoisServer": "whois.nic.school",
+      "whoisServer": "",
       "rdapServer": "https://rdap.identitydigital.services/rdap"
     },
     "nameServers": [
@@ -50449,7 +50449,7 @@
         ]
       }
     ],
-    "lastUpdated": "2023-09-12",
+    "lastUpdated": "2025-10-07",
     "registeredOn": "2015-02-13"
   },
   {
@@ -52073,7 +52073,7 @@
     "infoUrl": "https://www.iana.org/domains/root/db/show.html",
     "registry": {
       "registrationServiceUrl": "https://www.identity.digital/",
-      "whoisServer": "whois.nic.show",
+      "whoisServer": "",
       "rdapServer": "https://rdap.identitydigital.services/rdap"
     },
     "nameServers": [
@@ -52120,7 +52120,7 @@
         ]
       }
     ],
-    "lastUpdated": "2023-09-12",
+    "lastUpdated": "2025-10-07",
     "registeredOn": "2015-04-09"
   },
   {
@@ -56306,7 +56306,7 @@
     "infoUrl": "https://www.iana.org/domains/root/db/technology.html",
     "registry": {
       "registrationServiceUrl": "https://www.identity.digital/",
-      "whoisServer": "whois.nic.technology",
+      "whoisServer": "",
       "rdapServer": "https://rdap.identitydigital.services/rdap"
     },
     "nameServers": [
@@ -56353,7 +56353,7 @@
         ]
       }
     ],
-    "lastUpdated": "2023-09-12",
+    "lastUpdated": "2025-10-07",
     "registeredOn": "2013-11-08"
   },
   {
@@ -56978,7 +56978,7 @@
     "infoUrl": "https://www.iana.org/domains/root/db/tienda.html",
     "registry": {
       "registrationServiceUrl": "https://www.identity.digital/",
-      "whoisServer": "whois.nic.tienda",
+      "whoisServer": "",
       "rdapServer": "https://rdap.identitydigital.services/rdap"
     },
     "nameServers": [
@@ -57025,7 +57025,7 @@
         ]
       }
     ],
-    "lastUpdated": "2023-09-12",
+    "lastUpdated": "2025-10-07",
     "registeredOn": "2014-01-16"
   },
   {
