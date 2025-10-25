@@ -2710,7 +2710,7 @@
     "id": 61,
     "tld": "anquan",
     "category": "generic",
-    "sponsoringOrganization": "QIHOO 360 TECHNOLOGY CO. LTD.",
+    "sponsoringOrganization": "Beijing Qihu Keji Co., Ltd.",
     "infoUrl": "https://www.iana.org/domains/root/db/anquan.html",
     "registry": {
       "registrationServiceUrl": "http://www.teleinfo.cn",
@@ -2745,7 +2745,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-04-30",
+    "lastUpdated": "2025-10-24",
     "registeredOn": "2016-03-18"
   },
   {
@@ -40868,7 +40868,7 @@
         ]
       }
     ],
-    "lastUpdated": "2020-10-01",
+    "lastUpdated": "2025-10-24",
     "registeredOn": "2016-01-08"
   },
   {
@@ -51983,7 +51983,7 @@
     "id": 1150,
     "tld": "shouji",
     "category": "generic",
-    "sponsoringOrganization": "QIHOO 360 TECHNOLOGY CO. LTD.",
+    "sponsoringOrganization": "Beijing Qihu Keji Co., Ltd.",
     "infoUrl": "https://www.iana.org/domains/root/db/shouji.html",
     "registry": {
       "registrationServiceUrl": "http://www.teleinfo.cn",
@@ -52018,7 +52018,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-04-30",
+    "lastUpdated": "2025-10-24",
     "registeredOn": "2016-03-18"
   },
   {
@@ -59801,7 +59801,7 @@
         "host": "ns3.uz",
         "ipList": [
           "185.74.6.29",
-          "2a05:45c7:e000:400:0:0:0:3"
+          "2a05:45c7:e001:0:0:0:0:4"
         ]
       },
       {
@@ -59819,7 +59819,9 @@
       {
         "host": "ns6.uz",
         "ipList": [
-          "83.69.129.33"
+          "83.69.129.33",
+          "80.241.0.234",
+          "2a01:7640:0:d:0:0:0:2"
         ]
       },
       {
@@ -59836,7 +59838,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-10-22",
+    "lastUpdated": "2025-10-24",
     "registeredOn": "1995-04-29"
   },
   {
@@ -63599,7 +63601,7 @@
     "id": 1397,
     "tld": "xihuan",
     "category": "generic",
-    "sponsoringOrganization": "QIHOO 360 TECHNOLOGY CO. LTD.",
+    "sponsoringOrganization": "Beijing Qihu Keji Co., Ltd.",
     "infoUrl": "https://www.iana.org/domains/root/db/xihuan.html",
     "registry": {
       "registrationServiceUrl": "http://www.teleinfo.cn",
@@ -63634,7 +63636,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-04-30",
+    "lastUpdated": "2025-10-24",
     "registeredOn": "2016-03-18"
   },
   {
@@ -64639,7 +64641,7 @@
         ]
       }
     ],
-    "lastUpdated": "2023-01-18",
+    "lastUpdated": "2025-10-24",
     "registeredOn": "2016-06-24"
   },
   {
@@ -70470,7 +70472,7 @@
         ]
       }
     ],
-    "lastUpdated": "2023-01-19",
+    "lastUpdated": "2025-10-24",
     "registeredOn": "2016-02-05"
   },
   {
@@ -71524,7 +71526,7 @@
     "id": 1582,
     "tld": "yun",
     "category": "generic",
-    "sponsoringOrganization": "QIHOO 360 TECHNOLOGY CO. LTD.",
+    "sponsoringOrganization": "Beijing Qihu Keji Co., Ltd.",
     "infoUrl": "https://www.iana.org/domains/root/db/yun.html",
     "registry": {
       "registrationServiceUrl": "http://www.teleinfo.cn",
@@ -71559,7 +71561,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-04-30",
+    "lastUpdated": "2025-10-24",
     "registeredOn": "2016-03-18"
   },
   {
