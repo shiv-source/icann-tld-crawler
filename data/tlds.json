@@ -905,7 +905,7 @@
         ]
       }
     ],
-    "lastUpdated": "2024-09-16",
+    "lastUpdated": "2025-11-10",
     "registeredOn": "1996-01-09"
   },
   {
@@ -1792,7 +1792,7 @@
         ]
       }
     ],
-    "lastUpdated": "2023-11-21",
+    "lastUpdated": "2025-11-10",
     "registeredOn": "2015-06-18"
   },
   {
@@ -2966,8 +2966,8 @@
     "sponsoringOrganization": "Apple Inc.",
     "infoUrl": "https://www.iana.org/domains/root/db/apple.html",
     "registry": {
-      "registrationServiceUrl": "http://www.apple.com/",
-      "whoisServer": "whois.nic.apple",
+      "registrationServiceUrl": "https://www.nic.apple/",
+      "whoisServer": "",
       "rdapServer": "https://rdap.nic.apple"
     },
     "nameServers": [
@@ -2993,7 +2993,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-11-06",
+    "lastUpdated": "2025-11-10",
     "registeredOn": "2015-07-02"
   },
   {
@@ -6302,7 +6302,7 @@
         ]
       }
     ],
-    "lastUpdated": "2023-11-21",
+    "lastUpdated": "2025-11-10",
     "registeredOn": "2015-05-08"
   },
   {
