@@ -1760,7 +1760,7 @@
     "registry": {
       "registrationServiceUrl": "http://www.airtel.in",
       "whoisServer": "whois.nic.airtel",
-      "rdapServer": "https://tld-rdap.verisign.com/airtel/v1"
+      "rdapServer": "https://rdap.nic.airtel"
     },
     "nameServers": [
       {
@@ -1806,7 +1806,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-11-26",
+    "lastUpdated": "2025-12-01",
     "registeredOn": "2015-06-18"
   },
   {
@@ -6276,8 +6276,8 @@
     "infoUrl": "https://www.iana.org/domains/root/db/bharti.html",
     "registry": {
       "registrationServiceUrl": "http://www.bharti.com/wps/wcm/connect/BhartiPortal/Bharti/home",
-      "whoisServer": "",
-      "rdapServer": "https://tld-rdap.verisign.com/bharti/v1"
+      "whoisServer": "whois.nic.bharti",
+      "rdapServer": "https://rdap.nic.bharti"
     },
     "nameServers": [
       {
@@ -6323,7 +6323,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-11-26",
+    "lastUpdated": "2025-12-01",
     "registeredOn": "2015-05-08"
   },
   {
@@ -39470,7 +39470,7 @@
         ]
       }
     ],
-    "lastUpdated": "2023-08-11",
+    "lastUpdated": "2025-12-01",
     "registeredOn": "2016-08-04"
   },
   {
@@ -59228,7 +59228,7 @@
         ]
       }
     ],
-    "lastUpdated": "2023-08-11",
+    "lastUpdated": "2025-12-01",
     "registeredOn": "2016-08-04"
   },
   {
