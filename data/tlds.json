@@ -69400,8 +69400,8 @@
     "infoUrl": "https://www.iana.org/domains/root/db/xn--p1acf.html",
     "registry": {
       "registrationServiceUrl": "http://rusnames.ru/",
-      "whoisServer": "whois.nic.xn--p1acf",
-      "rdapServer": "https://api.rdap.nic.xn--p1acf"
+      "whoisServer": "",
+      "rdapServer": "https://rdap.nic.xn--p1acf"
     },
     "nameServers": [
       {
@@ -69432,7 +69432,7 @@
         ]
       }
     ],
-    "lastUpdated": "2022-11-21",
+    "lastUpdated": "2025-12-02",
     "registeredOn": "2014-07-03"
   },
   {
