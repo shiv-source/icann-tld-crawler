@@ -57087,12 +57087,6 @@
         ]
       },
       {
-        "host": "ns2.anycastdns.cz",
-        "ipList": [
-          "185.28.194.194"
-        ]
-      },
-      {
         "host": "ns2.nic.xn--p1acf",
         "ipList": [
           "72.0.49.2",
@@ -57100,7 +57094,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-12-02",
+    "lastUpdated": "2025-12-04",
     "registeredOn": "2014-07-03"
   },
   {
