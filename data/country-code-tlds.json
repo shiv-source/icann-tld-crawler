@@ -387,7 +387,7 @@
     "registry": {
       "registrationServiceUrl": "http://www.nic.as",
       "whoisServer": "whois.nic.as",
-      "rdapServer": ""
+      "rdapServer": "https://rdap.nic.as"
     },
     "nameServers": [
       {
@@ -426,7 +426,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-11-29",
+    "lastUpdated": "2025-12-08",
     "registeredOn": "1997-06-12"
   },
   {
@@ -3891,7 +3891,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-02-28",
+    "lastUpdated": "2025-12-08",
     "registeredOn": "1987-11-18"
   },
   {
@@ -4331,9 +4331,23 @@
           "185.159.197.3",
           "2620:10a:80aa:0:0:0:0:3"
         ]
+      },
+      {
+        "host": "ns10.trs-dns.info",
+        "ipList": [
+          "64.78.204.1",
+          "2620:171:812:1534:8:0:0:1"
+        ]
+      },
+      {
+        "host": "ns10.trs-dns.org",
+        "ipList": [
+          "64.78.205.1",
+          "2620:171:813:1534:8:0:0:1"
+        ]
       }
     ],
-    "lastUpdated": "2025-05-15",
+    "lastUpdated": "2025-12-08",
     "registeredOn": "1995-05-03"
   },
   {
@@ -6130,7 +6144,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-08-11",
+    "lastUpdated": "2025-12-08",
     "registeredOn": "1987-01-19"
   },
   {
