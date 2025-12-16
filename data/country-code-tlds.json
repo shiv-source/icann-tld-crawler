@@ -4905,6 +4905,47 @@
     "registeredOn": "1993-11-26"
   },
   {
+    "id": 806,
+    "tld": "mc",
+    "category": "country-code",
+    "sponsoringOrganization": "Direction des Plateformes et des Ressources Numériques",
+    "infoUrl": "https://www.iana.org/domains/root/db/mc.html",
+    "registry": {
+      "registrationServiceUrl": "https://www.nic.mc/",
+      "whoisServer": "whois.nic.mc",
+      "rdapServer": ""
+    },
+    "nameServers": [
+      {
+        "host": "mc.cctld.authdns.ripe.net",
+        "ipList": [
+          "193.0.9.92",
+          "2a13:27c0:30:0:0:0:0:92"
+        ]
+      },
+      {
+        "host": "ns1.nic.mc",
+        "ipList": [
+          "185.243.3.205"
+        ]
+      },
+      {
+        "host": "ns2.nic.mc",
+        "ipList": [
+          "13.36.89.111"
+        ]
+      },
+      {
+        "host": "ns3.nic.mc",
+        "ipList": [
+          "15.237.153.29"
+        ]
+      }
+    ],
+    "lastUpdated": "2025-12-15",
+    "registeredOn": "1995-01-20"
+  },
+  {
     "id": 810,
     "tld": "md",
     "category": "country-code",
@@ -6144,7 +6185,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-12-08",
+    "lastUpdated": "2025-12-15",
     "registeredOn": "1987-01-19"
   },
   {

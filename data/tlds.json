@@ -200,7 +200,7 @@
         ]
       }
     ],
-    "lastUpdated": "2023-08-16",
+    "lastUpdated": "2025-12-15",
     "registeredOn": "2014-11-20"
   },
   {
@@ -8531,7 +8531,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-12-11",
+    "lastUpdated": "2025-12-15",
     "registeredOn": "2014-06-05"
   },
   {
@@ -26444,24 +26444,10 @@
         ]
       },
       {
-        "host": "ns01.trs-dns.info",
-        "ipList": [
-          "185.159.198.3",
-          "2620:10a:80ab:0:0:0:0:3"
-        ]
-      },
-      {
         "host": "ns01.trs-dns.net",
         "ipList": [
           "64.96.2.1",
           "2620:57:4002:0:0:0:0:1"
-        ]
-      },
-      {
-        "host": "ns01.trs-dns.org",
-        "ipList": [
-          "185.159.197.3",
-          "2620:10a:80aa:0:0:0:0:3"
         ]
       },
       {
@@ -26479,7 +26465,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-12-10",
+    "lastUpdated": "2025-12-15",
     "registeredOn": "2014-05-08"
   },
   {
@@ -34335,24 +34321,10 @@
         ]
       },
       {
-        "host": "ns01.trs-dns.info",
-        "ipList": [
-          "185.159.198.3",
-          "2620:10a:80ab:0:0:0:0:3"
-        ]
-      },
-      {
         "host": "ns01.trs-dns.net",
         "ipList": [
           "64.96.2.1",
           "2620:57:4002:0:0:0:0:1"
-        ]
-      },
-      {
-        "host": "ns01.trs-dns.org",
-        "ipList": [
-          "185.159.197.3",
-          "2620:10a:80aa:0:0:0:0:3"
         ]
       },
       {
@@ -34370,7 +34342,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-12-08",
+    "lastUpdated": "2025-12-15",
     "registeredOn": "2014-01-09"
   },
   {
@@ -36499,6 +36471,47 @@
     ],
     "lastUpdated": "2025-10-07",
     "registeredOn": "2015-05-14"
+  },
+  {
+    "id": 806,
+    "tld": "mc",
+    "category": "country-code",
+    "sponsoringOrganization": "Direction des Plateformes et des Ressources Numériques",
+    "infoUrl": "https://www.iana.org/domains/root/db/mc.html",
+    "registry": {
+      "registrationServiceUrl": "https://www.nic.mc/",
+      "whoisServer": "whois.nic.mc",
+      "rdapServer": ""
+    },
+    "nameServers": [
+      {
+        "host": "mc.cctld.authdns.ripe.net",
+        "ipList": [
+          "193.0.9.92",
+          "2a13:27c0:30:0:0:0:0:92"
+        ]
+      },
+      {
+        "host": "ns1.nic.mc",
+        "ipList": [
+          "185.243.3.205"
+        ]
+      },
+      {
+        "host": "ns2.nic.mc",
+        "ipList": [
+          "13.36.89.111"
+        ]
+      },
+      {
+        "host": "ns3.nic.mc",
+        "ipList": [
+          "15.237.153.29"
+        ]
+      }
+    ],
+    "lastUpdated": "2025-12-15",
+    "registeredOn": "1995-01-20"
   },
   {
     "id": 809,
@@ -41718,7 +41731,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-12-08",
+    "lastUpdated": "2025-12-15",
     "registeredOn": "1987-01-19"
   },
   {
@@ -61291,7 +61304,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-12-12",
+    "lastUpdated": "2025-12-15",
     "registeredOn": "2014-06-05"
   },
   {
