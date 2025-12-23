@@ -2314,7 +2314,7 @@
     "id": 415,
     "tld": "eu",
     "category": "country-code",
-    "sponsoringOrganization": "EURid vzw/asbl",
+    "sponsoringOrganization": "EURid vzw",
     "infoUrl": "https://www.iana.org/domains/root/db/eu.html",
     "registry": {
       "registrationServiceUrl": "http://www.eurid.eu",
@@ -2357,7 +2357,7 @@
         ]
       }
     ],
-    "lastUpdated": "2024-05-22",
+    "lastUpdated": "2025-12-22",
     "registeredOn": "2005-04-28"
   },
   {
@@ -4312,24 +4312,10 @@
         ]
       },
       {
-        "host": "ns01.trs-dns.info",
-        "ipList": [
-          "185.159.198.3",
-          "2620:10a:80ab:0:0:0:0:3"
-        ]
-      },
-      {
         "host": "ns01.trs-dns.net",
         "ipList": [
           "64.96.2.1",
           "2620:57:4002:0:0:0:0:1"
-        ]
-      },
-      {
-        "host": "ns01.trs-dns.org",
-        "ipList": [
-          "185.159.197.3",
-          "2620:10a:80aa:0:0:0:0:3"
         ]
       },
       {
@@ -4347,7 +4333,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-12-08",
+    "lastUpdated": "2025-12-22",
     "registeredOn": "1995-05-03"
   },
   {
@@ -8017,11 +8003,11 @@
         "host": "sy.cctld.authdns.ripe.net",
         "ipList": [
           "193.0.9.113",
-          "2001:67c:e0:0:0:0:0:113"
+          "2a13:27c0:30:0:0:0:0:113"
         ]
       }
     ],
-    "lastUpdated": "2025-11-19",
+    "lastUpdated": "2025-12-22",
     "registeredOn": "1996-02-20"
   },
   {
@@ -10162,7 +10148,7 @@
         ]
       }
     ],
-    "lastUpdated": "2023-03-07",
+    "lastUpdated": "2025-12-22",
     "registeredOn": "2015-12-08"
   },
   {
@@ -11424,7 +11410,7 @@
         "host": "sy.cctld.authdns.ripe.net",
         "ipList": [
           "193.0.9.113",
-          "2001:67c:e0:0:0:0:0:113"
+          "2a13:27c0:30:0:0:0:0:113"
         ]
       }
     ],
@@ -11631,7 +11617,7 @@
         ]
       }
     ],
-    "lastUpdated": "2023-03-07",
+    "lastUpdated": "2025-12-22",
     "registeredOn": "2019-07-18"
   },
   {
