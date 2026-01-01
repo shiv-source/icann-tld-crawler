@@ -66484,7 +66484,7 @@
     "sponsoringOrganization": "Beijing TLD Registry Technology Limited",
     "infoUrl": "https://www.iana.org/domains/root/db/xn--fiq228c5hs.html",
     "registry": {
-      "registrationServiceUrl": "http://internetregistry.info/",
+      "registrationServiceUrl": "https://tldland.cn/",
       "whoisServer": "whois.teleinfo.cn",
       "rdapServer": "https://rdap.teleinfo.cn/xn--fiq228c5hs"
     },
@@ -66516,7 +66516,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-12-17",
+    "lastUpdated": "2025-12-31",
     "registeredOn": "2013-12-19"
   },
   {
