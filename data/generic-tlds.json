@@ -7745,7 +7745,7 @@
     "id": 205,
     "tld": "cam",
     "category": "generic",
-    "sponsoringOrganization": "CAM Connecting SARL",
+    "sponsoringOrganization": "CAM Connecting SarL",
     "infoUrl": "https://www.iana.org/domains/root/db/cam.html",
     "registry": {
       "registrationServiceUrl": "https://nic.cam/",
@@ -7782,7 +7782,7 @@
         ]
       }
     ],
-    "lastUpdated": "2024-04-30",
+    "lastUpdated": "2026-01-13",
     "registeredOn": "2016-06-09"
   },
   {
