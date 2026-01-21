@@ -48405,7 +48405,7 @@
     "id": 1277,
     "tld": "top",
     "category": "generic",
-    "sponsoringOrganization": ".TOP Registry",
+    "sponsoringOrganization": "Hong Kong Zhongze International Limited",
     "infoUrl": "https://www.iana.org/domains/root/db/top.html",
     "registry": {
       "registrationServiceUrl": "http://www.nic.top",
@@ -48462,7 +48462,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-07-29",
+    "lastUpdated": "2026-01-20",
     "registeredOn": "2014-07-24"
   },
   {
