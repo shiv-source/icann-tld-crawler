@@ -7440,7 +7440,7 @@
     "registry": {
       "registrationServiceUrl": "http://www.sgnic.sg",
       "whoisServer": "whois.sgnic.sg",
-      "rdapServer": ""
+      "rdapServer": "https://rdap.sgnic.sg/rdap"
     },
     "nameServers": [
       {
@@ -7479,7 +7479,7 @@
         ]
       }
     ],
-    "lastUpdated": "2024-11-19",
+    "lastUpdated": "2026-02-04",
     "registeredOn": "1988-10-19"
   },
   {
