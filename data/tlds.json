@@ -24537,49 +24537,6 @@
     "registeredOn": "2015-03-12"
   },
   {
-    "id": 535,
-    "tld": "goo",
-    "category": "generic",
-    "sponsoringOrganization": "NTT Resonant Inc.",
-    "infoUrl": "https://www.iana.org/domains/root/db/goo.html",
-    "registry": {
-      "registrationServiceUrl": "http://www.gmoregistry.com/en/",
-      "whoisServer": "whois.nic.gmo",
-      "rdapServer": "https://rdap.gmoregistry.net/rdap"
-    },
-    "nameServers": [
-      {
-        "host": "a.gmoregistry.net",
-        "ipList": [
-          "37.209.192.4",
-          "2001:dcd:1:0:0:0:0:4"
-        ]
-      },
-      {
-        "host": "b.gmoregistry.net",
-        "ipList": [
-          "37.209.194.4",
-          "2001:dcd:2:0:0:0:0:4"
-        ]
-      },
-      {
-        "host": "k.gmoregistry.net",
-        "ipList": [
-          "37.209.196.4"
-        ]
-      },
-      {
-        "host": "l.gmoregistry.net",
-        "ipList": [
-          "37.209.198.4",
-          "2001:dcd:4:0:0:0:0:4"
-        ]
-      }
-    ],
-    "lastUpdated": "2019-08-20",
-    "registeredOn": "2015-02-13"
-  },
-  {
     "id": 537,
     "tld": "goodyear",
     "category": "generic",
