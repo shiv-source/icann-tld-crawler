@@ -34810,63 +34810,63 @@
     },
     "nameServers": [
       {
-        "host": "dns1.nic.microsoft",
+        "host": "dns1.nic.office",
         "ipList": [
-          "213.248.219.132",
-          "2a01:618:403:0:0:0:0:132"
+          "213.248.219.136",
+          "2a01:618:403:0:0:0:0:136"
         ]
       },
       {
-        "host": "dns2.nic.microsoft",
+        "host": "dns2.nic.office",
         "ipList": [
-          "103.49.83.132",
-          "2401:fd80:403:0:0:0:0:132"
+          "103.49.83.136",
+          "2401:fd80:403:0:0:0:0:136"
         ]
       },
       {
-        "host": "dns3.nic.microsoft",
+        "host": "dns3.nic.office",
         "ipList": [
-          "213.248.223.132",
-          "2a01:618:407:0:0:0:0:132"
+          "213.248.223.136",
+          "2a01:618:407:0:0:0:0:136"
         ]
       },
       {
-        "host": "dns4.nic.microsoft",
+        "host": "dns4.nic.office",
         "ipList": [
-          "43.230.51.132",
-          "2401:fd80:407:0:0:0:0:132"
+          "43.230.51.136",
+          "2401:fd80:407:0:0:0:0:136"
         ]
       },
       {
-        "host": "dnsa.nic.microsoft",
+        "host": "dnsa.nic.office",
         "ipList": [
           "156.154.100.3",
           "2001:502:ad09:0:0:0:0:3"
         ]
       },
       {
-        "host": "dnsb.nic.microsoft",
+        "host": "dnsb.nic.office",
         "ipList": [
           "156.154.101.3",
           "2001:502:2eda:0:0:0:0:3"
         ]
       },
       {
-        "host": "dnsc.nic.microsoft",
+        "host": "dnsc.nic.office",
         "ipList": [
           "156.154.102.3",
           "2610:a1:1009:0:0:0:0:3"
         ]
       },
       {
-        "host": "dnsd.nic.microsoft",
+        "host": "dnsd.nic.office",
         "ipList": [
           "156.154.103.3",
           "2610:a1:1010:0:0:0:0:3"
         ]
       }
     ],
-    "lastUpdated": "2025-05-01",
+    "lastUpdated": "2026-02-07",
     "registeredOn": "2015-06-04"
   },
   {
@@ -44116,63 +44116,63 @@
     },
     "nameServers": [
       {
-        "host": "dns1.nic.microsoft",
+        "host": "dns1.nic.skype",
         "ipList": [
-          "213.248.219.132",
-          "2a01:618:403:0:0:0:0:132"
+          "213.248.219.138",
+          "2a01:618:403:0:0:0:0:138"
         ]
       },
       {
-        "host": "dns2.nic.microsoft",
+        "host": "dns2.nic.skype",
         "ipList": [
-          "103.49.83.132",
-          "2401:fd80:403:0:0:0:0:132"
+          "103.49.83.138",
+          "2401:fd80:403:0:0:0:0:138"
         ]
       },
       {
-        "host": "dns3.nic.microsoft",
+        "host": "dns3.nic.skype",
         "ipList": [
-          "213.248.223.132",
-          "2a01:618:407:0:0:0:0:132"
+          "213.248.223.138",
+          "2a01:618:407:0:0:0:0:138"
         ]
       },
       {
-        "host": "dns4.nic.microsoft",
+        "host": "dns4.nic.skype",
         "ipList": [
-          "43.230.51.132",
-          "2401:fd80:407:0:0:0:0:132"
+          "43.230.51.138",
+          "2401:fd80:407:0:0:0:0:138"
         ]
       },
       {
-        "host": "dnsa.nic.microsoft",
+        "host": "dnsa.nic.skype",
         "ipList": [
           "156.154.100.3",
           "2001:502:ad09:0:0:0:0:3"
         ]
       },
       {
-        "host": "dnsb.nic.microsoft",
+        "host": "dnsb.nic.skype",
         "ipList": [
           "156.154.101.3",
           "2001:502:2eda:0:0:0:0:3"
         ]
       },
       {
-        "host": "dnsc.nic.microsoft",
+        "host": "dnsc.nic.skype",
         "ipList": [
           "156.154.102.3",
           "2610:a1:1009:0:0:0:0:3"
         ]
       },
       {
-        "host": "dnsd.nic.microsoft",
+        "host": "dnsd.nic.skype",
         "ipList": [
           "156.154.103.3",
           "2610:a1:1010:0:0:0:0:3"
         ]
       }
     ],
-    "lastUpdated": "2025-05-01",
+    "lastUpdated": "2026-02-07",
     "registeredOn": "2015-03-19"
   },
   {
@@ -56776,7 +56776,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-03-06",
+    "lastUpdated": "2026-02-06",
     "registeredOn": "2015-10-29"
   },
   {
