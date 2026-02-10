@@ -3912,7 +3912,7 @@
     "registry": {
       "registrationServiceUrl": "https://www.auda.org.au/domains/au-domains/",
       "whoisServer": "whois.auda.org.au",
-      "rdapServer": ""
+      "rdapServer": "https://rdap.cctld.au/rdap"
     },
     "nameServers": [
       {
@@ -3951,7 +3951,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-11-13",
+    "lastUpdated": "2026-02-09",
     "registeredOn": "1986-03-05"
   },
   {
@@ -46264,10 +46264,38 @@
     },
     "nameServers": [
       {
+        "host": "ns01.trs-dns.com",
+        "ipList": [
+          "64.96.1.1",
+          "2620:57:4001:0:0:0:0:1"
+        ]
+      },
+      {
+        "host": "ns01.trs-dns.net",
+        "ipList": [
+          "64.96.2.1",
+          "2620:57:4002:0:0:0:0:1"
+        ]
+      },
+      {
         "host": "ns1.nic.pw",
         "ipList": [
           "194.169.218.12",
           "2001:67c:13cc:0:0:0:1:12"
+        ]
+      },
+      {
+        "host": "ns10.trs-dns.info",
+        "ipList": [
+          "64.78.204.1",
+          "2620:171:812:1534:8:0:0:1"
+        ]
+      },
+      {
+        "host": "ns10.trs-dns.org",
+        "ipList": [
+          "64.78.205.1",
+          "2620:171:813:1534:8:0:0:1"
         ]
       },
       {
@@ -46292,7 +46320,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-01-21",
+    "lastUpdated": "2026-02-09",
     "registeredOn": "1997-06-12"
   },
   {
