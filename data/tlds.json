@@ -5999,7 +5999,7 @@
     "sponsoringOrganization": "BestTLD Pty Ltd",
     "infoUrl": "https://www.iana.org/domains/root/db/best.html",
     "registry": {
-      "registrationServiceUrl": "https://www.go.best",
+      "registrationServiceUrl": "https://www.domains.best",
       "whoisServer": "whois.nic.best",
       "rdapServer": "https://rdap.centralnic.com/best"
     },
@@ -6033,7 +6033,7 @@
         ]
       }
     ],
-    "lastUpdated": "2023-10-05",
+    "lastUpdated": "2026-02-11",
     "registeredOn": "2014-02-20"
   },
   {
@@ -42314,9 +42314,37 @@
           "212.18.249.54",
           "2a04:2b00:13ff:0:0:0:0:54"
         ]
+      },
+      {
+        "host": "ns01.trs-dns.com",
+        "ipList": [
+          "64.96.1.1",
+          "2620:57:4001:0:0:0:0:1"
+        ]
+      },
+      {
+        "host": "ns01.trs-dns.net",
+        "ipList": [
+          "64.96.2.1",
+          "2620:57:4002:0:0:0:0:1"
+        ]
+      },
+      {
+        "host": "ns10.trs-dns.info",
+        "ipList": [
+          "64.78.204.1",
+          "2620:171:812:1534:8:0:0:1"
+        ]
+      },
+      {
+        "host": "ns10.trs-dns.org",
+        "ipList": [
+          "64.78.205.1",
+          "2620:171:813:1534:8:0:0:1"
+        ]
       }
     ],
-    "lastUpdated": "2026-01-22",
+    "lastUpdated": "2026-02-11",
     "registeredOn": "2015-03-06"
   },
   {
@@ -53655,9 +53683,37 @@
           "212.18.249.51",
           "2a04:2b00:13ff:0:0:0:0:51"
         ]
+      },
+      {
+        "host": "ns01.trs-dns.com",
+        "ipList": [
+          "64.96.1.1",
+          "2620:57:4001:0:0:0:0:1"
+        ]
+      },
+      {
+        "host": "ns01.trs-dns.net",
+        "ipList": [
+          "64.96.2.1",
+          "2620:57:4002:0:0:0:0:1"
+        ]
+      },
+      {
+        "host": "ns10.trs-dns.info",
+        "ipList": [
+          "64.78.204.1",
+          "2620:171:812:1534:8:0:0:1"
+        ]
+      },
+      {
+        "host": "ns10.trs-dns.org",
+        "ipList": [
+          "64.78.205.1",
+          "2620:171:813:1534:8:0:0:1"
+        ]
       }
     ],
-    "lastUpdated": "2026-01-22",
+    "lastUpdated": "2026-02-11",
     "registeredOn": "2014-05-22"
   },
   {
@@ -59584,9 +59640,37 @@
           "212.18.249.21",
           "2a04:2b00:13ff:0:0:0:0:21"
         ]
+      },
+      {
+        "host": "ns01.trs-dns.com",
+        "ipList": [
+          "64.96.1.1",
+          "2620:57:4001:0:0:0:0:1"
+        ]
+      },
+      {
+        "host": "ns01.trs-dns.net",
+        "ipList": [
+          "64.96.2.1",
+          "2620:57:4002:0:0:0:0:1"
+        ]
+      },
+      {
+        "host": "ns10.trs-dns.info",
+        "ipList": [
+          "64.78.204.1",
+          "2620:171:812:1534:8:0:0:1"
+        ]
+      },
+      {
+        "host": "ns10.trs-dns.org",
+        "ipList": [
+          "64.78.205.1",
+          "2620:171:813:1534:8:0:0:1"
+        ]
       }
     ],
-    "lastUpdated": "2026-01-22",
+    "lastUpdated": "2026-02-11",
     "registeredOn": "2013-11-13"
   },
   {
@@ -65867,7 +65951,7 @@
     "registry": {
       "registrationServiceUrl": "http://www.sgnic.sg/",
       "whoisServer": "whois.ta.sgnic.sg",
-      "rdapServer": ""
+      "rdapServer": "https://rdap.ta.sgnic.sg/rdap"
     },
     "nameServers": [
       {
@@ -65906,7 +65990,7 @@
         ]
       }
     ],
-    "lastUpdated": "2024-11-19",
+    "lastUpdated": "2026-02-11",
     "registeredOn": "2011-02-05"
   },
   {
@@ -70785,7 +70869,7 @@
     "registry": {
       "registrationServiceUrl": "http://www.sgnic.sg/",
       "whoisServer": "whois.zh.sgnic.sg",
-      "rdapServer": ""
+      "rdapServer": "https://rdap.zh.sgnic.sg/rdap"
     },
     "nameServers": [
       {
@@ -70824,7 +70908,7 @@
         ]
       }
     ],
-    "lastUpdated": "2024-11-19",
+    "lastUpdated": "2026-02-11",
     "registeredOn": "2011-02-05"
   },
   {

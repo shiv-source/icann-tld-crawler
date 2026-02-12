@@ -10045,7 +10045,7 @@
     "registry": {
       "registrationServiceUrl": "http://www.sgnic.sg/",
       "whoisServer": "whois.ta.sgnic.sg",
-      "rdapServer": ""
+      "rdapServer": "https://rdap.ta.sgnic.sg/rdap"
     },
     "nameServers": [
       {
@@ -10084,7 +10084,7 @@
         ]
       }
     ],
-    "lastUpdated": "2024-11-19",
+    "lastUpdated": "2026-02-11",
     "registeredOn": "2011-02-05"
   },
   {
@@ -11908,7 +11908,7 @@
     "registry": {
       "registrationServiceUrl": "http://www.sgnic.sg/",
       "whoisServer": "whois.zh.sgnic.sg",
-      "rdapServer": ""
+      "rdapServer": "https://rdap.zh.sgnic.sg/rdap"
     },
     "nameServers": [
       {
@@ -11947,7 +11947,7 @@
         ]
       }
     ],
-    "lastUpdated": "2024-11-19",
+    "lastUpdated": "2026-02-11",
     "registeredOn": "2011-02-05"
   },
   {
