@@ -52851,50 +52851,6 @@
     "registeredOn": "2014-08-22"
   },
   {
-    "id": 1385,
-    "tld": "wolterskluwer",
-    "category": "generic",
-    "sponsoringOrganization": "Wolters Kluwer N.V.",
-    "infoUrl": "https://www.iana.org/domains/root/db/wolterskluwer.html",
-    "registry": {
-      "registrationServiceUrl": "http://wolterskluwer.com",
-      "whoisServer": "whois.nic.wolterskluwer",
-      "rdapServer": "https://rdap.identitydigital.services/rdap"
-    },
-    "nameServers": [
-      {
-        "host": "a0.nic.wolterskluwer",
-        "ipList": [
-          "65.22.204.25",
-          "2a01:8840:c6:0:0:0:0:25"
-        ]
-      },
-      {
-        "host": "a2.nic.wolterskluwer",
-        "ipList": [
-          "65.22.207.25",
-          "2a01:8840:c9:0:0:0:0:25"
-        ]
-      },
-      {
-        "host": "b0.nic.wolterskluwer",
-        "ipList": [
-          "65.22.205.25",
-          "2a01:8840:c7:0:0:0:0:25"
-        ]
-      },
-      {
-        "host": "c0.nic.wolterskluwer",
-        "ipList": [
-          "65.22.206.25",
-          "2a01:8840:c8:0:0:0:0:25"
-        ]
-      }
-    ],
-    "lastUpdated": "2023-08-03",
-    "registeredOn": "2016-02-05"
-  },
-  {
     "id": 1386,
     "tld": "woodside",
     "category": "generic",
