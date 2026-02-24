@@ -77,7 +77,9 @@ const getTLDData = () => __awaiter(void 0, void 0, void 0, function* () {
         const cleanedTLDRecords = tLDRecords.filter((record) => record.registry.rdapServer || record.registry.whoisServer);
         const genericTLDRecords = cleanedTLDRecords.filter((record) => record.category === 'generic');
         const countryCodeTLDRecords = cleanedTLDRecords.filter((record) => record.category === 'country-code');
+        const minifiedTLDRecords = getTLDMinifiedRecord(tLDRecords);
         yield (0, utils_1.saveToJsonFile)(cleanedTLDRecords, 'data/tlds');
+        yield (0, utils_1.saveToJsonFile)(minifiedTLDRecords, 'data/tlds-minified');
         yield (0, utils_1.saveToJsonFile)(genericTLDRecords, 'data/generic-tlds');
         yield (0, utils_1.saveToJsonFile)(countryCodeTLDRecords, 'data/country-code-tlds');
         yield (0, utils_1.saveToReadmeFile)(genericTLDRecords, countryCodeTLDRecords);
@@ -89,6 +91,12 @@ const getTLDData = () => __awaiter(void 0, void 0, void 0, function* () {
     }
 });
 exports.getTLDData = getTLDData;
+const getTLDMinifiedRecord = (tLDRecords) => tLDRecords.map((record) => ({
+    id: record.id,
+    tld: record.tld,
+    category: record.category,
+    registry: record.registry
+}));
 const getTLDRecordsWithRetry = (tldMetadataList_1, ...args_1) => __awaiter(void 0, [tldMetadataList_1, ...args_1], void 0, function* (tldMetadataList, MAX_RETRIES = 5, BATCH_SIZE = 500, BATCH_DELAY_MS = 200) {
     let tldRecords = [];
     let currentBatchSize = BATCH_SIZE;
