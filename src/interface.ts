@@ -28,3 +28,7 @@ export interface TLDMetadata {
 }
 
 export interface TLDRecord extends TLDMetadata, TLDTechnicalDetails {}
+
+export interface TLDMinifiedRecord
+    extends Omit<TLDMetadata, 'sponsoringOrganization' | 'infoUrl'>,
+        Omit<TLDTechnicalDetails, keyof TLDRecordTimestamps | 'nameServers'> {}

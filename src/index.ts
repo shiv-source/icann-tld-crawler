@@ -2,7 +2,7 @@ import axios from 'axios'
 import * as cheerio from 'cheerio'
 import { BASE_URL, ROOT_DB_URL, CUSTOM_HEADERS } from './constant'
 import { agent, delay, getInfoTable, saveToJsonFile, saveToReadmeFile } from './utils'
-import { TLDMetadata, TLDRecord } from './interface'
+import { TLDMetadata, TLDMinifiedRecord, TLDRecord } from './interface'
 import { fetchTLDDetailedInfo } from './tld-details'
 
 const timeStart = Date.now()
@@ -36,8 +36,10 @@ export const getTLDData = async () => {
         const cleanedTLDRecords = tLDRecords.filter((record) => record.registry.rdapServer || record.registry.whoisServer)
         const genericTLDRecords = cleanedTLDRecords.filter((record) => record.category === 'generic')
         const countryCodeTLDRecords = cleanedTLDRecords.filter((record) => record.category === 'country-code')
+        const minifiedTLDRecords = getTLDMinifiedRecord(tLDRecords)
 
         await saveToJsonFile(cleanedTLDRecords, 'data/tlds')
+        await saveToJsonFile(minifiedTLDRecords, 'data/tlds-minified')
         await saveToJsonFile(genericTLDRecords, 'data/generic-tlds')
         await saveToJsonFile(countryCodeTLDRecords, 'data/country-code-tlds')
         await saveToReadmeFile(genericTLDRecords, countryCodeTLDRecords)
@@ -48,6 +50,14 @@ export const getTLDData = async () => {
         console.error('Error scraping IANA Root DB:', err as Error)
     }
 }
+
+const getTLDMinifiedRecord = (tLDRecords: TLDRecord[]): TLDMinifiedRecord[] =>
+    tLDRecords.map((record) => ({
+        id: record.id,
+        tld: record.tld,
+        category: record.category,
+        registry: record.registry
+    }))
 
 const getTLDRecordsWithRetry = async (
     tldMetadataList: TLDMetadata[],
