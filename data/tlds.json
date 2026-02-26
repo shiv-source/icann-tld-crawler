@@ -28544,7 +28544,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-02-03",
+    "lastUpdated": "2026-02-24",
     "registeredOn": "1985-10-24"
   },
   {
@@ -46615,7 +46615,7 @@
     "id": 1039,
     "tld": "radio",
     "category": "generic",
-    "sponsoringOrganization": "European Broadcasting Union (EBU)",
+    "sponsoringOrganization": "Digity, LLC",
     "infoUrl": "https://www.iana.org/domains/root/db/radio.html",
     "registry": {
       "registrationServiceUrl": "https://www.nic.radio/",
@@ -46652,7 +46652,7 @@
         ]
       }
     ],
-    "lastUpdated": "2022-01-07",
+    "lastUpdated": "2026-02-26",
     "registeredOn": "2016-09-22"
   },
   {
@@ -55966,13 +55966,13 @@
       {
         "host": "root2.zone.tc",
         "ipList": [
-          "77.79.104.226"
+          "87.106.83.96"
         ]
       },
       {
         "host": "root3.zone.tc",
         "ipList": [
-          "77.79.104.225"
+          "217.154.159.29"
         ]
       },
       {
@@ -56010,7 +56010,7 @@
         ]
       }
     ],
-    "lastUpdated": "2021-02-25",
+    "lastUpdated": "2026-02-25",
     "registeredOn": "1997-01-27"
   },
   {
