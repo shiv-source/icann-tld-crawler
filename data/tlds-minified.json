@@ -6904,7 +6904,7 @@
     "tld": "kh",
     "category": "country-code",
     "registry": {
-      "registrationServiceUrl": "http://www.tc.com.kh",
+      "registrationServiceUrl": "http://www.trc.gov.kh",
       "whoisServer": "",
       "rdapServer": ""
     }
