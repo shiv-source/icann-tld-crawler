@@ -61969,7 +61969,7 @@
     "id": 1366,
     "tld": "weather",
     "category": "generic",
-    "sponsoringOrganization": "International Business Machines Corporation",
+    "sponsoringOrganization": "The Weather Company, LLC",
     "infoUrl": "https://www.iana.org/domains/root/db/weather.html",
     "registry": {
       "registrationServiceUrl": "http://www.weather.com",
@@ -62020,17 +62020,17 @@
         ]
       }
     ],
-    "lastUpdated": "2023-11-30",
+    "lastUpdated": "2026-03-01",
     "registeredOn": "2015-12-23"
   },
   {
     "id": 1367,
     "tld": "weatherchannel",
     "category": "generic",
-    "sponsoringOrganization": "International Business Machines Corporation",
+    "sponsoringOrganization": "The Weather Company, LLC",
     "infoUrl": "https://www.iana.org/domains/root/db/weatherchannel.html",
     "registry": {
-      "registrationServiceUrl": "http://www.weather.com",
+      "registrationServiceUrl": "https://www.weathercompany.com/",
       "whoisServer": "",
       "rdapServer": "https://rdap.nic.weatherchannel"
     },
@@ -62078,7 +62078,7 @@
         ]
       }
     ],
-    "lastUpdated": "2023-11-30",
+    "lastUpdated": "2026-03-01",
     "registeredOn": "2016-01-22"
   },
   {

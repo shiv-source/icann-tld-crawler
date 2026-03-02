@@ -13664,7 +13664,7 @@
     "tld": "weatherchannel",
     "category": "generic",
     "registry": {
-      "registrationServiceUrl": "http://www.weather.com",
+      "registrationServiceUrl": "https://www.weathercompany.com/",
       "whoisServer": "",
       "rdapServer": "https://rdap.nic.weatherchannel"
     }
