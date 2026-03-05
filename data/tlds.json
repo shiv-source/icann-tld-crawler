@@ -42243,11 +42243,11 @@
     "id": 944,
     "tld": "onl",
     "category": "generic",
-    "sponsoringOrganization": "iRegistry GmbH",
+    "sponsoringOrganization": "Jolly Host, LLC",
     "infoUrl": "https://www.iana.org/domains/root/db/onl.html",
     "registry": {
-      "registrationServiceUrl": "http://www.i-registry.com",
-      "whoisServer": "whois.nic.onl",
+      "registrationServiceUrl": "https://www.identity.digital/",
+      "whoisServer": "",
       "rdapServer": "https://rdap.identitydigital.services/rdap"
     },
     "nameServers": [
@@ -42280,7 +42280,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-06-23",
+    "lastUpdated": "2026-03-04",
     "registeredOn": "2013-12-12"
   },
   {

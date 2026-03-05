@@ -9434,8 +9434,8 @@
     "tld": "onl",
     "category": "generic",
     "registry": {
-      "registrationServiceUrl": "http://www.i-registry.com",
-      "whoisServer": "whois.nic.onl",
+      "registrationServiceUrl": "https://www.identity.digital/",
+      "whoisServer": "",
       "rdapServer": "https://rdap.identitydigital.services/rdap"
     }
   },
