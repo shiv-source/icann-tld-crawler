@@ -5064,7 +5064,7 @@
     "tld": "gent",
     "category": "generic",
     "registry": {
-      "registrationServiceUrl": "http://www.nic.gent",
+      "registrationServiceUrl": "https://www.nic.gent",
       "whoisServer": "whois.nic.gent",
       "rdapServer": "https://rdap.centralnic.com/gent"
     }

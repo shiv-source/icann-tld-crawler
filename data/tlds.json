@@ -23233,10 +23233,10 @@
     "id": 507,
     "tld": "gent",
     "category": "generic",
-    "sponsoringOrganization": "Combell nv",
+    "sponsoringOrganization": "Easyhost bv",
     "infoUrl": "https://www.iana.org/domains/root/db/gent.html",
     "registry": {
-      "registrationServiceUrl": "http://www.nic.gent",
+      "registrationServiceUrl": "https://www.nic.gent",
       "whoisServer": "whois.nic.gent",
       "rdapServer": "https://rdap.centralnic.com/gent"
     },
@@ -23270,7 +23270,7 @@
         ]
       }
     ],
-    "lastUpdated": "2023-10-05",
+    "lastUpdated": "2026-03-06",
     "registeredOn": "2014-07-03"
   },
   {
@@ -44643,7 +44643,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-04-03",
+    "lastUpdated": "2026-03-06",
     "registeredOn": "1990-07-30"
   },
   {
