@@ -52902,9 +52902,9 @@
     "sponsoringOrganization": "Universite Cheikh Anta Diop",
     "infoUrl": "https://www.iana.org/domains/root/db/sn.html",
     "registry": {
-      "registrationServiceUrl": "https://www.nicsenegal.sn",
+      "registrationServiceUrl": "https://www.cctld.sn",
       "whoisServer": "whois.nic.sn",
-      "rdapServer": ""
+      "rdapServer": "https://rdap.nic.sn/whois43"
     },
     "nameServers": [
       {
@@ -52940,7 +52940,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-07-17",
+    "lastUpdated": "2026-03-12",
     "registeredOn": "1993-03-19"
   },
   {

@@ -11694,9 +11694,9 @@
     "tld": "sn",
     "category": "country-code",
     "registry": {
-      "registrationServiceUrl": "https://www.nicsenegal.sn",
+      "registrationServiceUrl": "https://www.cctld.sn",
       "whoisServer": "whois.nic.sn",
-      "rdapServer": ""
+      "rdapServer": "https://rdap.nic.sn/whois43"
     }
   },
   {
