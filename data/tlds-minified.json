@@ -4856,7 +4856,7 @@
     "registry": {
       "registrationServiceUrl": "https://www.radix.website/",
       "whoisServer": "whois.nic.fun",
-      "rdapServer": "https://rdap.centralnic.com/fun"
+      "rdapServer": "https://rdap.radix.host/rdap"
     }
   },
   {
@@ -5966,7 +5966,7 @@
     "registry": {
       "registrationServiceUrl": "https://radix.website/",
       "whoisServer": "whois.nic.host",
-      "rdapServer": "https://rdap.centralnic.com/host"
+      "rdapServer": "https://rdap.radix.host/rdap"
     }
   },
   {
@@ -9456,7 +9456,7 @@
     "registry": {
       "registrationServiceUrl": "https://radix.website/",
       "whoisServer": "whois.nic.online",
-      "rdapServer": "https://rdap.centralnic.com/online"
+      "rdapServer": "https://rdap.radix.host/rdap"
     }
   },
   {
@@ -10146,7 +10146,7 @@
     "registry": {
       "registrationServiceUrl": "https://radix.website/",
       "whoisServer": "whois.nic.press",
-      "rdapServer": "https://rdap.centralnic.com/press"
+      "rdapServer": "https://rdap.radix.host/rdap"
     }
   },
   {
@@ -10306,7 +10306,7 @@
     "registry": {
       "registrationServiceUrl": "http://www.registry.pw",
       "whoisServer": "whois.nic.pw",
-      "rdapServer": "https://rdap.centralnic.com/pw"
+      "rdapServer": "https://rdap.radix.host/rdap"
     }
   },
   {
@@ -11586,7 +11586,7 @@
     "registry": {
       "registrationServiceUrl": "https://radix.website/",
       "whoisServer": "whois.nic.site",
-      "rdapServer": "https://rdap.centralnic.com/site"
+      "rdapServer": "https://rdap.radix.host/rdap"
     }
   },
   {
@@ -11846,7 +11846,7 @@
     "registry": {
       "registrationServiceUrl": "https://radix.website/",
       "whoisServer": "whois.nic.space",
-      "rdapServer": "https://rdap.centralnic.com/space"
+      "rdapServer": "https://rdap.radix.host/rdap"
     }
   },
   {
@@ -12056,7 +12056,7 @@
     "registry": {
       "registrationServiceUrl": "https://radix.website/",
       "whoisServer": "whois.nic.store",
-      "rdapServer": "https://rdap.centralnic.com/store"
+      "rdapServer": "https://rdap.radix.host/rdap"
     }
   },
   {
@@ -12436,7 +12436,7 @@
     "registry": {
       "registrationServiceUrl": "https://radix.website/",
       "whoisServer": "whois.nic.tech",
-      "rdapServer": "https://rdap.centralnic.com/tech"
+      "rdapServer": "https://rdap.radix.host/rdap"
     }
   },
   {
@@ -13146,7 +13146,7 @@
     "registry": {
       "registrationServiceUrl": "https://radix.website/",
       "whoisServer": "whois.nic.uno",
-      "rdapServer": "https://rdap.centralnic.com/uno"
+      "rdapServer": "https://rdap.radix.host/rdap"
     }
   },
   {
@@ -13706,7 +13706,7 @@
     "registry": {
       "registrationServiceUrl": "https://radix.website/",
       "whoisServer": "whois.nic.website",
-      "rdapServer": "https://rdap.centralnic.com/website"
+      "rdapServer": "https://rdap.radix.host/rdap"
     }
   },
   {

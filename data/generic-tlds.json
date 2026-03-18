@@ -19157,7 +19157,7 @@
     "registry": {
       "registrationServiceUrl": "https://www.radix.website/",
       "whoisServer": "whois.nic.fun",
-      "rdapServer": "https://rdap.centralnic.com/fun"
+      "rdapServer": "https://rdap.radix.host/rdap"
     },
     "nameServers": [
       {
@@ -19189,7 +19189,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-02-23",
+    "lastUpdated": "2026-03-17",
     "registeredOn": "2016-11-30"
   },
   {
@@ -23424,7 +23424,7 @@
     "registry": {
       "registrationServiceUrl": "https://radix.website/",
       "whoisServer": "whois.nic.host",
-      "rdapServer": "https://rdap.centralnic.com/host"
+      "rdapServer": "https://rdap.radix.host/rdap"
     },
     "nameServers": [
       {
@@ -23456,7 +23456,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-02-23",
+    "lastUpdated": "2026-03-17",
     "registeredOn": "2014-05-22"
   },
   {
@@ -35313,7 +35313,7 @@
     "registry": {
       "registrationServiceUrl": "https://radix.website/",
       "whoisServer": "whois.nic.online",
-      "rdapServer": "https://rdap.centralnic.com/online"
+      "rdapServer": "https://rdap.radix.host/rdap"
     },
     "nameServers": [
       {
@@ -35345,7 +35345,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-02-23",
+    "lastUpdated": "2026-03-17",
     "registeredOn": "2015-03-06"
   },
   {
@@ -38009,7 +38009,7 @@
     "registry": {
       "registrationServiceUrl": "https://radix.website/",
       "whoisServer": "whois.nic.press",
-      "rdapServer": "https://rdap.centralnic.com/press"
+      "rdapServer": "https://rdap.radix.host/rdap"
     },
     "nameServers": [
       {
@@ -38041,7 +38041,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-02-23",
+    "lastUpdated": "2026-03-17",
     "registeredOn": "2014-05-22"
   },
   {
@@ -43908,7 +43908,7 @@
     "registry": {
       "registrationServiceUrl": "https://radix.website/",
       "whoisServer": "whois.nic.site",
-      "rdapServer": "https://rdap.centralnic.com/site"
+      "rdapServer": "https://rdap.radix.host/rdap"
     },
     "nameServers": [
       {
@@ -43940,7 +43940,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-02-23",
+    "lastUpdated": "2026-03-17",
     "registeredOn": "2015-03-06"
   },
   {
@@ -44974,7 +44974,7 @@
     "registry": {
       "registrationServiceUrl": "https://radix.website/",
       "whoisServer": "whois.nic.space",
-      "rdapServer": "https://rdap.centralnic.com/space"
+      "rdapServer": "https://rdap.radix.host/rdap"
     },
     "nameServers": [
       {
@@ -45006,7 +45006,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-02-23",
+    "lastUpdated": "2026-03-17",
     "registeredOn": "2014-05-22"
   },
   {
@@ -45602,7 +45602,7 @@
     "registry": {
       "registrationServiceUrl": "https://radix.website/",
       "whoisServer": "whois.nic.store",
-      "rdapServer": "https://rdap.centralnic.com/store"
+      "rdapServer": "https://rdap.radix.host/rdap"
     },
     "nameServers": [
       {
@@ -45634,7 +45634,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-02-23",
+    "lastUpdated": "2026-03-17",
     "registeredOn": "2016-02-11"
   },
   {
@@ -47269,7 +47269,7 @@
     "registry": {
       "registrationServiceUrl": "https://radix.website/",
       "whoisServer": "whois.nic.tech",
-      "rdapServer": "https://rdap.centralnic.com/tech"
+      "rdapServer": "https://rdap.radix.host/rdap"
     },
     "nameServers": [
       {
@@ -47301,7 +47301,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-02-23",
+    "lastUpdated": "2026-03-17",
     "registeredOn": "2015-03-12"
   },
   {
@@ -49607,7 +49607,7 @@
     "registry": {
       "registrationServiceUrl": "https://radix.website/",
       "whoisServer": "whois.nic.uno",
-      "rdapServer": "https://rdap.centralnic.com/uno"
+      "rdapServer": "https://rdap.radix.host/rdap"
     },
     "nameServers": [
       {
@@ -49639,7 +49639,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-02-23",
+    "lastUpdated": "2026-03-17",
     "registeredOn": "2013-11-13"
   },
   {
@@ -51830,7 +51830,7 @@
     "registry": {
       "registrationServiceUrl": "https://radix.website/",
       "whoisServer": "whois.nic.website",
-      "rdapServer": "https://rdap.centralnic.com/website"
+      "rdapServer": "https://rdap.radix.host/rdap"
     },
     "nameServers": [
       {
@@ -51862,7 +51862,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-02-23",
+    "lastUpdated": "2026-03-17",
     "registeredOn": "2014-05-22"
   },
   {

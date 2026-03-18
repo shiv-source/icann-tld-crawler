@@ -6737,7 +6737,7 @@
     "registry": {
       "registrationServiceUrl": "http://www.registry.pw",
       "whoisServer": "whois.nic.pw",
-      "rdapServer": "https://rdap.centralnic.com/pw"
+      "rdapServer": "https://rdap.radix.host/rdap"
     },
     "nameServers": [
       {
@@ -6769,7 +6769,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-02-20",
+    "lastUpdated": "2026-03-17",
     "registeredOn": "1997-06-12"
   },
   {
