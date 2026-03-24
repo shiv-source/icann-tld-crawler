@@ -31491,7 +31491,7 @@
     "registry": {
       "registrationServiceUrl": "http://kfh.com",
       "whoisServer": "whois.nic.kfh",
-      "rdapServer": "https://rdap.centralnic.com/kfh"
+      "rdapServer": "https://rdap.registry.kfh/rdap"
     },
     "nameServers": [
       {
@@ -31523,7 +31523,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-02-24",
+    "lastUpdated": "2026-03-23",
     "registeredOn": "2015-10-29"
   },
   {
@@ -39570,7 +39570,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-03-10",
+    "lastUpdated": "2026-03-23",
     "registeredOn": "2001-08-17"
   },
   {
@@ -68983,7 +68983,7 @@
     "registry": {
       "registrationServiceUrl": "http://kfh.com",
       "whoisServer": "whois.nic.xn--ngbe9e0a",
-      "rdapServer": "https://rdap.centralnic.com/xn--ngbe9e0a"
+      "rdapServer": "https://rdap.registry.kfh/rdap"
     },
     "nameServers": [
       {
@@ -69015,7 +69015,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-02-24",
+    "lastUpdated": "2026-03-23",
     "registeredOn": "2015-10-29"
   },
   {
@@ -71532,7 +71532,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-03-20",
+    "lastUpdated": "2026-03-23",
     "registeredOn": "1997-11-17"
   },
   {

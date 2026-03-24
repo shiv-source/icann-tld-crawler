@@ -6886,7 +6886,7 @@
     "registry": {
       "registrationServiceUrl": "http://kfh.com",
       "whoisServer": "whois.nic.kfh",
-      "rdapServer": "https://rdap.centralnic.com/kfh"
+      "rdapServer": "https://rdap.registry.kfh/rdap"
     }
   },
   {
@@ -15256,7 +15256,7 @@
     "registry": {
       "registrationServiceUrl": "http://kfh.com",
       "whoisServer": "whois.nic.xn--ngbe9e0a",
-      "rdapServer": "https://rdap.centralnic.com/xn--ngbe9e0a"
+      "rdapServer": "https://rdap.registry.kfh/rdap"
     }
   },
   {
