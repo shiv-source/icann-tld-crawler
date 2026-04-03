@@ -13615,7 +13615,7 @@
     "category": "generic",
     "registry": {
       "registrationServiceUrl": "http://www.nic.wang",
-      "whoisServer": "whois.gtld.knet.cn",
+      "whoisServer": "whois.zdns.cn",
       "rdapServer": "https://rdap.zdnsgtld.com/wang"
     }
   },
@@ -14054,8 +14054,8 @@
     "tld": "慈善",
     "category": "generic",
     "registry": {
-      "registrationServiceUrl": "http://www.newgtld.cn",
-      "whoisServer": "whois.gtld.knet.cn",
+      "registrationServiceUrl": "http://www.cishan.wang",
+      "whoisServer": "whois.zdns.cn",
       "rdapServer": "https://rdap.zdnsgtld.com/xn--30rr7y"
     }
   },
@@ -14064,8 +14064,8 @@
     "tld": "集团",
     "category": "generic",
     "registry": {
-      "registrationServiceUrl": "http://www.newgtld.cn",
-      "whoisServer": "whois.gtld.knet.cn",
+      "registrationServiceUrl": "http://www.jituan.wang",
+      "whoisServer": "whois.zdns.cn",
       "rdapServer": "https://rdap.zdnsgtld.com/xn--3bst00m"
     }
   },
@@ -14155,7 +14155,7 @@
     "category": "generic",
     "registry": {
       "registrationServiceUrl": "http://www.bagua.wang",
-      "whoisServer": "whois.gtld.knet.cn",
+      "whoisServer": "whois.zdns.cn",
       "rdapServer": "https://rdap.zdnsgtld.com/XN--45Q11C"
     }
   },
@@ -14254,8 +14254,8 @@
     "tld": "我爱你",
     "category": "generic",
     "registry": {
-      "registrationServiceUrl": "http://www.newgtld.cn",
-      "whoisServer": "whois.gtld.knet.cn",
+      "registrationServiceUrl": "http://www.520.wang",
+      "whoisServer": "whois.zdns.cn",
       "rdapServer": "https://rdap.zdnsgtld.com/xn--6qq986b3xl"
     }
   },
@@ -14374,8 +14374,8 @@
     "tld": "时尚",
     "category": "generic",
     "registry": {
-      "registrationServiceUrl": "http://www.newgtld.cn",
-      "whoisServer": "whois.gtld.knet.cn",
+      "registrationServiceUrl": "http://www.shishang.wang",
+      "whoisServer": "whois.zdns.cn",
       "rdapServer": "https://rdap.zdnsgtld.com/xn--9et52u"
     }
   },
@@ -14505,7 +14505,7 @@
     "category": "generic",
     "registry": {
       "registrationServiceUrl": "http://www.shangcheng.wang",
-      "whoisServer": "whois.gtld.knet.cn",
+      "whoisServer": "whois.zdns.cn",
       "rdapServer": "https://rdap.zdnsgtld.com/xn--czru2d"
     }
   },
@@ -14565,7 +14565,7 @@
     "category": "generic",
     "registry": {
       "registrationServiceUrl": "http://www.gd.xinhua.org",
-      "whoisServer": "whois.nic.xn--efvy88h",
+      "whoisServer": "whois.zdns.cn",
       "rdapServer": "https://rdap.zdnsgtld.com/XN--EFVY88H"
     }
   },
@@ -14795,7 +14795,7 @@
     "category": "generic",
     "registry": {
       "registrationServiceUrl": "http://www.wangdian.wang",
-      "whoisServer": "whois.gtld.knet.cn",
+      "whoisServer": "whois.zdns.cn",
       "rdapServer": "https://rdap.zdnsgtld.com/xn--hxt814e"
     }
   },
