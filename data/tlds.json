@@ -28861,7 +28861,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-07-22",
+    "lastUpdated": "2026-04-15",
     "registeredOn": "1989-05-08"
   },
   {
@@ -57816,15 +57816,16 @@
         ]
       },
       {
-        "host": "f.zdnscloud.cn",
+        "host": "e.zdnscloud.cn",
         "ipList": [
-          "116.169.54.111"
+          "203.119.82.1",
+          "2401:8d00:15:0:0:0:0:1"
         ]
       },
       {
-        "host": "g.zdnscloud.com",
+        "host": "f.zdnscloud.cn",
         "ipList": [
-          "223.72.199.37"
+          "116.169.54.111"
         ]
       },
       {
@@ -57840,7 +57841,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-01-21",
+    "lastUpdated": "2026-04-15",
     "registeredOn": "2014-07-24"
   },
   {
