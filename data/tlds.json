@@ -11689,7 +11689,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-02-14",
+    "lastUpdated": "2026-04-16",
     "registeredOn": "2015-11-12"
   },
   {
@@ -40112,7 +40112,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-04-09",
+    "lastUpdated": "2026-04-16",
     "registeredOn": "2014-02-06"
   },
   {
@@ -53767,9 +53767,16 @@
           "168.195.216.214",
           "2803:ff40:a000:2501:168:195:216:2"
         ]
+      },
+      {
+        "host": "ns3.nic.sr",
+        "ipList": [
+          "45.83.205.134",
+          "2a0f:ff40:100:3112:2d53:cd87:0:0"
+        ]
       }
     ],
-    "lastUpdated": "2025-06-27",
+    "lastUpdated": "2026-04-17",
     "registeredOn": "1991-09-03"
   },
   {
@@ -63852,7 +63859,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-07-17",
+    "lastUpdated": "2026-04-16",
     "registeredOn": "2016-04-18"
   },
   {
@@ -64122,7 +64129,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-07-17",
+    "lastUpdated": "2026-04-16",
     "registeredOn": "2016-04-18"
   },
   {
@@ -64254,7 +64261,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-07-17",
+    "lastUpdated": "2026-04-16",
     "registeredOn": "2016-04-18"
   },
   {
@@ -64298,7 +64305,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-07-17",
+    "lastUpdated": "2026-04-16",
     "registeredOn": "2011-02-05"
   },
   {
@@ -66744,7 +66751,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-07-17",
+    "lastUpdated": "2026-04-16",
     "registeredOn": "2011-02-05"
   },
   {
@@ -66948,7 +66955,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-07-17",
+    "lastUpdated": "2026-04-16",
     "registeredOn": "2011-02-05"
   },
   {
@@ -67050,7 +67057,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-07-17",
+    "lastUpdated": "2026-04-16",
     "registeredOn": "2016-08-15"
   },
   {
@@ -67094,7 +67101,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-07-17",
+    "lastUpdated": "2026-04-16",
     "registeredOn": "2011-02-05"
   },
   {
@@ -67138,7 +67145,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-07-21",
+    "lastUpdated": "2026-04-16",
     "registeredOn": "2016-08-15"
   },
   {
@@ -68312,7 +68319,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-07-17",
+    "lastUpdated": "2026-04-16",
     "registeredOn": "2016-08-15"
   },
   {
@@ -68356,7 +68363,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-07-17",
+    "lastUpdated": "2026-04-16",
     "registeredOn": "2011-02-05"
   },
   {
@@ -68530,7 +68537,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-07-14",
+    "lastUpdated": "2026-04-16",
     "registeredOn": "2016-08-15"
   },
   {
@@ -69870,7 +69877,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-07-17",
+    "lastUpdated": "2026-04-16",
     "registeredOn": "2016-04-18"
   },
   {
@@ -69914,7 +69921,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-07-17",
+    "lastUpdated": "2026-04-16",
     "registeredOn": "2011-02-05"
   },
   {
@@ -70653,7 +70660,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-07-17",
+    "lastUpdated": "2026-04-16",
     "registeredOn": "2011-02-05"
   },
   {
