@@ -8204,7 +8204,7 @@
     "tld": "merck",
     "category": "generic",
     "registry": {
-      "registrationServiceUrl": "",
+      "registrationServiceUrl": "https://nic.merck",
       "whoisServer": "",
       "rdapServer": ""
     }

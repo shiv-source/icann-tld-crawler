@@ -11231,13 +11231,6 @@
         ]
       },
       {
-        "host": "a.nic.my",
-        "ipList": [
-          "103.44.108.53",
-          "2001:ddc:0:53:0:0:0:53"
-        ]
-      },
-      {
         "host": "b.mynic.centralnic-dns.com",
         "ipList": [
           "185.24.64.114",
@@ -11266,7 +11259,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-03-11",
+    "lastUpdated": "2026-04-17",
     "registeredOn": "2011-10-22"
   },
   {
