@@ -31321,6 +31321,43 @@
     "registeredOn": "2013-11-13"
   },
   {
+    "id": 821,
+    "tld": "merck",
+    "category": "generic",
+    "sponsoringOrganization": "Merck Registry Holdings, Inc.",
+    "infoUrl": "https://www.iana.org/domains/root/db/merck.html",
+    "registry": {
+      "registrationServiceUrl": "https://nic.merck",
+      "whoisServer": "whois.nic.merck",
+      "rdapServer": "https://rdap-merck.dns.business/rdap"
+    },
+    "nameServers": [
+      {
+        "host": "ns1.dns.business",
+        "ipList": [
+          "157.90.205.138",
+          "2a01:4f8:252:4295:0:0:9d5a:cd8a"
+        ]
+      },
+      {
+        "host": "ns2us.dns.business",
+        "ipList": [
+          "147.135.106.236",
+          "2604:2dc0:200:2eb:0:0:0:2"
+        ]
+      },
+      {
+        "host": "nsp.netnod.se",
+        "ipList": [
+          "194.58.198.33",
+          "2a01:3f1:3033:0:0:0:0:53"
+        ]
+      }
+    ],
+    "lastUpdated": "2026-04-18",
+    "registeredOn": ""
+  },
+  {
     "id": 822,
     "tld": "merckmsd",
     "category": "generic",

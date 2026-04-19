@@ -8205,8 +8205,8 @@
     "category": "generic",
     "registry": {
       "registrationServiceUrl": "https://nic.merck",
-      "whoisServer": "",
-      "rdapServer": ""
+      "whoisServer": "whois.nic.merck",
+      "rdapServer": "https://rdap-merck.dns.business/rdap"
     }
   },
   {
