@@ -24377,7 +24377,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-05-13",
+    "lastUpdated": "2026-05-06",
     "registeredOn": "2016-06-03"
   },
   {
@@ -32906,7 +32906,7 @@
     "infoUrl": "https://www.iana.org/domains/root/db/music.html",
     "registry": {
       "registrationServiceUrl": "https://nic.music/",
-      "whoisServer": "whois.nic.music",
+      "whoisServer": "whois.registryservices.music",
       "rdapServer": "https://rdap.registryservices.music/rdap"
     },
     "nameServers": [
@@ -32939,7 +32939,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-12-12",
+    "lastUpdated": "2026-05-06",
     "registeredOn": "2021-10-14"
   },
   {

@@ -8725,7 +8725,7 @@
     "category": "generic",
     "registry": {
       "registrationServiceUrl": "https://nic.music/",
-      "whoisServer": "whois.nic.music",
+      "whoisServer": "whois.registryservices.music",
       "rdapServer": "https://rdap.registryservices.music/rdap"
     }
   },
