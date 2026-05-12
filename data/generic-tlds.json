@@ -1559,7 +1559,7 @@
         ]
       }
     ],
-    "lastUpdated": "2023-08-11",
+    "lastUpdated": "2026-05-11",
     "registeredOn": "2016-01-08"
   },
   {
@@ -11078,7 +11078,7 @@
         ]
       }
     ],
-    "lastUpdated": "2023-12-05",
+    "lastUpdated": "2026-05-11",
     "registeredOn": "2015-03-26"
   },
   {
@@ -27489,7 +27489,7 @@
         ]
       }
     ],
-    "lastUpdated": "2024-03-22",
+    "lastUpdated": "2026-05-11",
     "registeredOn": "2014-07-10"
   },
   {
@@ -42755,7 +42755,7 @@
     "sponsoringOrganization": "Seek Limited",
     "infoUrl": "https://www.iana.org/domains/root/db/seek.html",
     "registry": {
-      "registrationServiceUrl": "https://www.seek.com.au/about/",
+      "registrationServiceUrl": "https://au.seek.com/about",
       "whoisServer": "whois.nic.seek",
       "rdapServer": "https://rdap.nic.seek"
     },
@@ -42803,7 +42803,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-09-18",
+    "lastUpdated": "2026-05-11",
     "registeredOn": "2015-04-16"
   },
   {

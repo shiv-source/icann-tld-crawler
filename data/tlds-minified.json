@@ -11294,7 +11294,7 @@
     "tld": "seek",
     "category": "generic",
     "registry": {
-      "registrationServiceUrl": "https://www.seek.com.au/about/",
+      "registrationServiceUrl": "https://au.seek.com/about",
       "whoisServer": "whois.nic.seek",
       "rdapServer": "https://rdap.nic.seek"
     }
