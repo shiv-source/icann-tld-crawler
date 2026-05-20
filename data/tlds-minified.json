@@ -9424,7 +9424,7 @@
     "tld": "one",
     "category": "generic",
     "registry": {
-      "registrationServiceUrl": "http://www.one.com/",
+      "registrationServiceUrl": "https://get.one/",
       "whoisServer": "whois.nic.one",
       "rdapServer": "https://rdap.nic.one"
     }

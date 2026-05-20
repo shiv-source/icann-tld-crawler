@@ -42167,7 +42167,7 @@
     "sponsoringOrganization": "One.com A/S",
     "infoUrl": "https://www.iana.org/domains/root/db/one.html",
     "registry": {
-      "registrationServiceUrl": "http://www.one.com/",
+      "registrationServiceUrl": "https://get.one/",
       "whoisServer": "whois.nic.one",
       "rdapServer": "https://rdap.nic.one"
     },
@@ -42215,7 +42215,7 @@
         ]
       }
     ],
-    "lastUpdated": "2023-12-05",
+    "lastUpdated": "2026-05-19",
     "registeredOn": "2014-12-18"
   },
   {
