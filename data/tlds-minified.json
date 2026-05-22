@@ -426,7 +426,7 @@
     "registry": {
       "registrationServiceUrl": "http://www.alibabagroup.com",
       "whoisServer": "whois.nic.alibaba",
-      "rdapServer": "https://rdap.identitydigital.services/rdap"
+      "rdapServer": "https://rdap.aliregistry.cn/rdap"
     }
   },
   {
