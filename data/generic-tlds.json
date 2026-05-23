@@ -51404,7 +51404,7 @@
     "infoUrl": "https://www.iana.org/domains/root/db/wang.html",
     "registry": {
       "registrationServiceUrl": "http://www.nic.wang",
-      "whoisServer": "whois.zdns.cn",
+      "whoisServer": "whois.gtld.zdns.cn",
       "rdapServer": "https://rdap.zdnsgtld.com/wang"
     },
     "nameServers": [
@@ -51457,7 +51457,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-04-02",
+    "lastUpdated": "2026-05-22",
     "registeredOn": "2013-12-12"
   },
   {
@@ -53410,7 +53410,7 @@
     "infoUrl": "https://www.iana.org/domains/root/db/xn--30rr7y.html",
     "registry": {
       "registrationServiceUrl": "http://www.cishan.wang",
-      "whoisServer": "whois.zdns.cn",
+      "whoisServer": "whois.gtld.zdns.cn",
       "rdapServer": "https://rdap.zdnsgtld.com/xn--30rr7y"
     },
     "nameServers": [
@@ -53463,7 +53463,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-04-02",
+    "lastUpdated": "2026-05-22",
     "registeredOn": "2015-03-12"
   },
   {
@@ -53474,7 +53474,7 @@
     "infoUrl": "https://www.iana.org/domains/root/db/xn--3bst00m.html",
     "registry": {
       "registrationServiceUrl": "http://www.jituan.wang",
-      "whoisServer": "whois.zdns.cn",
+      "whoisServer": "whois.gtld.zdns.cn",
       "rdapServer": "https://rdap.zdnsgtld.com/xn--3bst00m"
     },
     "nameServers": [
@@ -53527,7 +53527,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-04-02",
+    "lastUpdated": "2026-05-22",
     "registeredOn": "2013-12-12"
   },
   {
@@ -53668,7 +53668,7 @@
     "infoUrl": "https://www.iana.org/domains/root/db/xn--45q11c.html",
     "registry": {
       "registrationServiceUrl": "http://www.bagua.wang",
-      "whoisServer": "whois.zdns.cn",
+      "whoisServer": "whois.gtld.zdns.cn",
       "rdapServer": "https://rdap.zdnsgtld.com/XN--45Q11C"
     },
     "nameServers": [
@@ -53721,7 +53721,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-04-02",
+    "lastUpdated": "2026-05-22",
     "registeredOn": "2014-11-06"
   },
   {
@@ -54020,7 +54020,7 @@
     "infoUrl": "https://www.iana.org/domains/root/db/xn--6qq986b3xl.html",
     "registry": {
       "registrationServiceUrl": "http://www.520.wang",
-      "whoisServer": "whois.zdns.cn",
+      "whoisServer": "whois.gtld.zdns.cn",
       "rdapServer": "https://rdap.zdnsgtld.com/xn--6qq986b3xl"
     },
     "nameServers": [
@@ -54073,7 +54073,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-04-02",
+    "lastUpdated": "2026-05-22",
     "registeredOn": "2013-12-12"
   },
   {
@@ -54382,7 +54382,7 @@
     "infoUrl": "https://www.iana.org/domains/root/db/xn--9et52u.html",
     "registry": {
       "registrationServiceUrl": "http://www.shishang.wang",
-      "whoisServer": "whois.zdns.cn",
+      "whoisServer": "whois.gtld.zdns.cn",
       "rdapServer": "https://rdap.zdnsgtld.com/xn--9et52u"
     },
     "nameServers": [
@@ -54435,7 +54435,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-04-02",
+    "lastUpdated": "2026-05-22",
     "registeredOn": "2015-03-12"
   },
   {
@@ -54997,7 +54997,7 @@
     "infoUrl": "https://www.iana.org/domains/root/db/xn--czru2d.html",
     "registry": {
       "registrationServiceUrl": "http://www.shangcheng.wang",
-      "whoisServer": "whois.zdns.cn",
+      "whoisServer": "whois.gtld.zdns.cn",
       "rdapServer": "https://rdap.zdnsgtld.com/xn--czru2d"
     },
     "nameServers": [
@@ -55050,7 +55050,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-04-02",
+    "lastUpdated": "2026-05-22",
     "registeredOn": "2014-02-27"
   },
   {
@@ -55170,7 +55170,7 @@
     "infoUrl": "https://www.iana.org/domains/root/db/xn--efvy88h.html",
     "registry": {
       "registrationServiceUrl": "http://www.gd.xinhua.org",
-      "whoisServer": "whois.zdns.cn",
+      "whoisServer": "whois.gtld.zdns.cn",
       "rdapServer": "https://rdap.zdnsgtld.com/XN--EFVY88H"
     },
     "nameServers": [
@@ -55223,7 +55223,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-04-02",
+    "lastUpdated": "2026-05-22",
     "registeredOn": "2015-08-06"
   },
   {
@@ -55769,7 +55769,7 @@
     "infoUrl": "https://www.iana.org/domains/root/db/xn--hxt814e.html",
     "registry": {
       "registrationServiceUrl": "http://www.wangdian.wang",
-      "whoisServer": "whois.zdns.cn",
+      "whoisServer": "whois.gtld.zdns.cn",
       "rdapServer": "https://rdap.zdnsgtld.com/xn--hxt814e"
     },
     "nameServers": [
@@ -55822,7 +55822,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-04-02",
+    "lastUpdated": "2026-05-22",
     "registeredOn": "2014-11-20"
   },
   {
