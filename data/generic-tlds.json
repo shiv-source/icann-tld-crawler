@@ -2445,7 +2445,7 @@
     "id": 64,
     "tld": "aol",
     "category": "generic",
-    "sponsoringOrganization": "Yahoo Inc.",
+    "sponsoringOrganization": "AOL Media LLC",
     "infoUrl": "https://www.iana.org/domains/root/db/aol.html",
     "registry": {
       "registrationServiceUrl": "http://www.aol.com",
@@ -2482,7 +2482,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-04-10",
+    "lastUpdated": "2026-05-25",
     "registeredOn": "2016-10-27"
   },
   {
@@ -58114,7 +58114,7 @@
         ]
       }
     ],
-    "lastUpdated": "2024-07-25",
+    "lastUpdated": "2026-05-25",
     "registeredOn": "2016-01-29"
   },
   {
