@@ -9054,9 +9054,9 @@
     "tld": "ng",
     "category": "country-code",
     "registry": {
-      "registrationServiceUrl": "http://www.nira.org.ng/",
+      "registrationServiceUrl": "https://www.nira.org.ng/",
       "whoisServer": "whois.nic.net.ng",
-      "rdapServer": "http://rdap.nic.net.ng"
+      "rdapServer": "https://rdap.nic.net.ng"
     }
   },
   {

@@ -5923,9 +5923,9 @@
     "sponsoringOrganization": "Nigeria Internet Registration Association",
     "infoUrl": "https://www.iana.org/domains/root/db/ng.html",
     "registry": {
-      "registrationServiceUrl": "http://www.nira.org.ng/",
+      "registrationServiceUrl": "https://www.nira.org.ng/",
       "whoisServer": "whois.nic.net.ng",
-      "rdapServer": "http://rdap.nic.net.ng"
+      "rdapServer": "https://rdap.nic.net.ng"
     },
     "nameServers": [
       {
@@ -5963,7 +5963,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-02-14",
+    "lastUpdated": "2026-06-02",
     "registeredOn": "1995-03-15"
   },
   {
