@@ -13044,9 +13044,9 @@
     "tld": "tz",
     "category": "country-code",
     "registry": {
-      "registrationServiceUrl": "https://karibu.tz/",
+      "registrationServiceUrl": "https://karibu.tz",
       "whoisServer": "whois.tznic.or.tz",
-      "rdapServer": "https://whois.tznic.or.tz/rdap"
+      "rdapServer": "https://rdap.tznic.or.tz"
     }
   },
   {

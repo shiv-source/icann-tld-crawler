@@ -7289,7 +7289,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-09-09",
+    "lastUpdated": "2026-06-08",
     "registeredOn": "1997-05-09"
   },
   {
@@ -8725,9 +8725,9 @@
     "sponsoringOrganization": "Tanzania Communications Regulatory Authority",
     "infoUrl": "https://www.iana.org/domains/root/db/tz.html",
     "registry": {
-      "registrationServiceUrl": "https://karibu.tz/",
+      "registrationServiceUrl": "https://karibu.tz",
       "whoisServer": "whois.tznic.or.tz",
-      "rdapServer": "https://whois.tznic.or.tz/rdap"
+      "rdapServer": "https://rdap.tznic.or.tz"
     },
     "nameServers": [
       {
@@ -8766,7 +8766,7 @@
         ]
       }
     ],
-    "lastUpdated": "2023-07-27",
+    "lastUpdated": "2026-06-08",
     "registeredOn": "1995-07-14"
   },
   {
