@@ -23625,8 +23625,8 @@
     "infoUrl": "https://www.iana.org/domains/root/db/gift.html",
     "registry": {
       "registrationServiceUrl": "http://uniregistry.link",
-      "whoisServer": "whois.tucowsregistry.net",
-      "rdapServer": "https://rdap.tucowsregistry.net/rdap"
+      "whoisServer": "whois.registry.gift",
+      "rdapServer": "https://rdap.registry.gift/rdap"
     },
     "nameServers": [
       {
@@ -23658,7 +23658,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-12-12",
+    "lastUpdated": "2026-06-09",
     "registeredOn": "2014-01-09"
   },
   {
