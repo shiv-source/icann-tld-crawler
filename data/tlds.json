@@ -66626,7 +66626,7 @@
     "infoUrl": "https://www.iana.org/domains/root/db/xn--fiq64b.html",
     "registry": {
       "registrationServiceUrl": "",
-      "whoisServer": "whois.gtld.knet.cn",
+      "whoisServer": "whois.gtld.zdns.cn",
       "rdapServer": "https://rdap.zdnsgtld.com/xn--fiq64b"
     },
     "nameServers": [
@@ -66679,7 +66679,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-02-14",
+    "lastUpdated": "2026-06-25",
     "registeredOn": "2014-01-09"
   },
   {

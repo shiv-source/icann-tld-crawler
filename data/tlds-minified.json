@@ -14615,7 +14615,7 @@
     "category": "generic",
     "registry": {
       "registrationServiceUrl": "",
-      "whoisServer": "whois.gtld.knet.cn",
+      "whoisServer": "whois.gtld.zdns.cn",
       "rdapServer": "https://rdap.zdnsgtld.com/xn--fiq64b"
     }
   },
