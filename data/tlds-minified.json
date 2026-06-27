@@ -7555,8 +7555,8 @@
     "category": "generic",
     "registry": {
       "registrationServiceUrl": "http://uniregistry.link",
-      "whoisServer": "whois.tucowsregistry.net",
-      "rdapServer": "https://rdap.tucowsregistry.net/rdap"
+      "whoisServer": "whois.uniregistry.net",
+      "rdapServer": "https://rdap.uniregistry.net/rdap"
     }
   },
   {

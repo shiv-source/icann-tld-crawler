@@ -34238,8 +34238,8 @@
     "infoUrl": "https://www.iana.org/domains/root/db/link.html",
     "registry": {
       "registrationServiceUrl": "http://uniregistry.link",
-      "whoisServer": "whois.tucowsregistry.net",
-      "rdapServer": "https://rdap.tucowsregistry.net/rdap"
+      "whoisServer": "whois.uniregistry.net",
+      "rdapServer": "https://rdap.uniregistry.net/rdap"
     },
     "nameServers": [
       {
@@ -34271,7 +34271,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-12-15",
+    "lastUpdated": "2026-06-26",
     "registeredOn": "2014-01-09"
   },
   {
@@ -49300,49 +49300,49 @@
     },
     "nameServers": [
       {
-        "host": "a.nic.safety",
+        "host": "v0n0.nic.safety",
         "ipList": [
-          "37.209.192.10",
-          "2001:dcd:1:0:0:0:0:10"
+          "65.22.36.41",
+          "2a01:8840:26:0:0:0:0:41"
         ]
       },
       {
-        "host": "b.nic.safety",
+        "host": "v0n1.nic.safety",
         "ipList": [
-          "37.209.194.10",
-          "2001:dcd:2:0:0:0:0:10"
+          "65.22.37.41",
+          "2a01:8840:27:0:0:0:0:41"
         ]
       },
       {
-        "host": "c.nic.safety",
+        "host": "v0n2.nic.safety",
         "ipList": [
-          "37.209.196.10",
-          "2001:dcd:3:0:0:0:0:10"
+          "65.22.38.41",
+          "2a01:8840:28:0:0:0:0:41"
         ]
       },
       {
-        "host": "ns1.dns.nic.safety",
+        "host": "v0n3.nic.safety",
         "ipList": [
-          "156.154.144.148",
-          "2610:a1:1071:0:0:0:0:94"
+          "161.232.18.41",
+          "2a01:8840:10e:0:0:0:0:41"
         ]
       },
       {
-        "host": "ns2.dns.nic.safety",
+        "host": "v2n0.nic.safety",
         "ipList": [
-          "156.154.145.148",
-          "2610:a1:1072:0:0:0:0:94"
+          "65.22.39.41",
+          "2a01:8840:29:0:0:0:0:41"
         ]
       },
       {
-        "host": "ns3.dns.nic.safety",
+        "host": "v2n1.nic.safety",
         "ipList": [
-          "156.154.159.148",
-          "2610:a1:1073:0:0:0:0:94"
+          "161.232.19.41",
+          "2a01:8840:10f:0:0:0:0:41"
         ]
       }
     ],
-    "lastUpdated": "2026-06-15",
+    "lastUpdated": "2026-06-26",
     "registeredOn": "2015-04-23"
   },
   {
@@ -52375,7 +52375,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-06-22",
+    "lastUpdated": "2026-06-26",
     "registeredOn": "2016-02-29"
   },
   {
