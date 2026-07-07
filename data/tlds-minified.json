@@ -11566,7 +11566,7 @@
     "registry": {
       "registrationServiceUrl": "http://www.sina.com",
       "whoisServer": "whois.nic.sina",
-      "rdapServer": "https://rdap.identitydigital.services/rdap"
+      "rdapServer": "https://rdap.ngtld.cn"
     }
   },
   {
@@ -13736,7 +13736,7 @@
     "registry": {
       "registrationServiceUrl": "http://www.sina.com",
       "whoisServer": "whois.nic.weibo",
-      "rdapServer": "https://rdap.identitydigital.services/rdap"
+      "rdapServer": "https://rdap.ngtld.cn"
     }
   },
   {
@@ -14205,8 +14205,8 @@
     "category": "generic",
     "registry": {
       "registrationServiceUrl": "http://www.conac.cn",
-      "whoisServer": "whois.conac.cn",
-      "rdapServer": "https://rdap.conac.cn"
+      "whoisServer": "whois.nic.xn--55qw42g",
+      "rdapServer": "https://rdap.ngtld.cn"
     }
   },
   {
@@ -14386,7 +14386,7 @@
     "registry": {
       "registrationServiceUrl": "http://www.sina.com",
       "whoisServer": "whois.nic.xn--9krt00a",
-      "rdapServer": "https://rdap.identitydigital.services/rdap"
+      "rdapServer": "https://rdap.ngtld.cn"
     }
   },
   {
@@ -15685,8 +15685,8 @@
     "category": "generic",
     "registry": {
       "registrationServiceUrl": "http://www.conac.cn",
-      "whoisServer": "whois.conac.cn",
-      "rdapServer": "https://rdap.conac.cn"
+      "whoisServer": "whois.nic.xn--zfr164b",
+      "rdapServer": "https://rdap.ngtld.cn"
     }
   },
   {

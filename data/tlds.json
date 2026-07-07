@@ -52310,7 +52310,7 @@
     "registry": {
       "registrationServiceUrl": "http://www.sina.com",
       "whoisServer": "whois.nic.sina",
-      "rdapServer": "https://rdap.identitydigital.services/rdap"
+      "rdapServer": "https://rdap.ngtld.cn"
     },
     "nameServers": [
       {
@@ -52347,7 +52347,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-06-29",
+    "lastUpdated": "2026-07-06",
     "registeredOn": "2016-02-29"
   },
   {
@@ -55316,7 +55316,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-05-14",
+    "lastUpdated": "2026-07-06",
     "registeredOn": "1996-02-20"
   },
   {
@@ -58808,7 +58808,7 @@
         ]
       }
     ],
-    "lastUpdated": "2024-05-28",
+    "lastUpdated": "2026-07-06",
     "registeredOn": "2014-09-18"
   },
   {
@@ -62438,7 +62438,7 @@
     "registry": {
       "registrationServiceUrl": "http://www.sina.com",
       "whoisServer": "whois.nic.weibo",
-      "rdapServer": "https://rdap.identitydigital.services/rdap"
+      "rdapServer": "https://rdap.ngtld.cn"
     },
     "nameServers": [
       {
@@ -62475,7 +62475,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-06-29",
+    "lastUpdated": "2026-07-06",
     "registeredOn": "2016-02-29"
   },
   {
@@ -64563,8 +64563,8 @@
     "infoUrl": "https://www.iana.org/domains/root/db/xn--55qw42g.html",
     "registry": {
       "registrationServiceUrl": "http://www.conac.cn",
-      "whoisServer": "whois.conac.cn",
-      "rdapServer": "https://rdap.conac.cn"
+      "whoisServer": "whois.nic.xn--55qw42g",
+      "rdapServer": "https://rdap.ngtld.cn"
     },
     "nameServers": [
       {
@@ -64601,7 +64601,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-07-01",
+    "lastUpdated": "2026-07-06",
     "registeredOn": "2013-12-12"
   },
   {
@@ -65437,7 +65437,7 @@
     "registry": {
       "registrationServiceUrl": "http://www.sina.com",
       "whoisServer": "whois.nic.xn--9krt00a",
-      "rdapServer": "https://rdap.identitydigital.services/rdap"
+      "rdapServer": "https://rdap.ngtld.cn"
     },
     "nameServers": [
       {
@@ -65474,7 +65474,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-06-29",
+    "lastUpdated": "2026-07-06",
     "registeredOn": "2016-02-29"
   },
   {
@@ -70894,8 +70894,8 @@
     "infoUrl": "https://www.iana.org/domains/root/db/xn--zfr164b.html",
     "registry": {
       "registrationServiceUrl": "http://www.conac.cn",
-      "whoisServer": "whois.conac.cn",
-      "rdapServer": "https://rdap.conac.cn"
+      "whoisServer": "whois.nic.xn--zfr164b",
+      "rdapServer": "https://rdap.ngtld.cn"
     },
     "nameServers": [
       {
@@ -70932,7 +70932,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-07-01",
+    "lastUpdated": "2026-07-06",
     "registeredOn": "2013-12-12"
   },
   {
