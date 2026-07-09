@@ -10924,9 +10924,9 @@
     "tld": "safety",
     "category": "generic",
     "registry": {
-      "registrationServiceUrl": "https://nic.safety",
-      "whoisServer": "whois.nic.safety",
-      "rdapServer": "https://rdap.nic.safety"
+      "registrationServiceUrl": "https://www.identity.digital",
+      "whoisServer": "",
+      "rdapServer": "https://rdap.identitydigital.services/rdap"
     }
   },
   {
@@ -14216,7 +14216,7 @@
     "registry": {
       "registrationServiceUrl": "http://www.cnnic.cn",
       "whoisServer": "whois.ngtld.cn",
-      "rdapServer": "https://restwhois.ngtld.cn"
+      "rdapServer": "https://rdap.ngtld.cn"
     }
   },
   {
@@ -14826,7 +14826,7 @@
     "registry": {
       "registrationServiceUrl": "http://www.cnnic.cn",
       "whoisServer": "whois.ngtld.cn",
-      "rdapServer": "https://restwhois.ngtld.cn"
+      "rdapServer": "https://rdap.ngtld.cn"
     }
   },
   {

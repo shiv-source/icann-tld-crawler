@@ -41199,9 +41199,9 @@
     "sponsoringOrganization": "Safety Registry Services, LLC.",
     "infoUrl": "https://www.iana.org/domains/root/db/safety.html",
     "registry": {
-      "registrationServiceUrl": "https://nic.safety",
-      "whoisServer": "whois.nic.safety",
-      "rdapServer": "https://rdap.nic.safety"
+      "registrationServiceUrl": "https://www.identity.digital",
+      "whoisServer": "",
+      "rdapServer": "https://rdap.identitydigital.services/rdap"
     },
     "nameServers": [
       {
@@ -41247,7 +41247,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-06-26",
+    "lastUpdated": "2026-07-08",
     "registeredOn": "2015-04-23"
   },
   {
@@ -53801,7 +53801,7 @@
     "registry": {
       "registrationServiceUrl": "http://www.cnnic.cn",
       "whoisServer": "whois.ngtld.cn",
-      "rdapServer": "https://restwhois.ngtld.cn"
+      "rdapServer": "https://rdap.ngtld.cn"
     },
     "nameServers": [
       {
@@ -53838,7 +53838,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-07-17",
+    "lastUpdated": "2026-07-08",
     "registeredOn": "2014-01-09"
   },
   {
@@ -55922,7 +55922,7 @@
     "registry": {
       "registrationServiceUrl": "http://www.cnnic.cn",
       "whoisServer": "whois.ngtld.cn",
-      "rdapServer": "https://restwhois.ngtld.cn"
+      "rdapServer": "https://rdap.ngtld.cn"
     },
     "nameServers": [
       {
@@ -55959,7 +55959,7 @@
         ]
       }
     ],
-    "lastUpdated": "2025-07-17",
+    "lastUpdated": "2026-07-08",
     "registeredOn": "2014-01-09"
   },
   {
